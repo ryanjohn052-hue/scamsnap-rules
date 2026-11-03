@@ -1,1 +1,19 @@
-{"v":1,"version":"2026-10-20","words":{},"phrases":[],"badHosts":[],"shorteners":[]}
+{
+ "v": 1,
+ "version": "2026-11-03",
+ "words": {},
+ "phrases": [
+  "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
+  "צוות ניהול זכויות יוצרים",
+  "אירעה שגיאת תצוגה בעמוד",
+  "please review your recent image activity",
+  "review copyright notice",
+  "maintain your page's good standing",
+  "account inspection department"
+ ],
+ "badHosts": [
+  "platformbyfb.com"
+ ],
+ "shorteners": [],
+ "badPhones": []
+}
