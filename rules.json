@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-08",
+  "version": "2026-11-15",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -22,7 +22,10 @@
     "aktualisierung ihrer kundendaten zwingend erforderlich",
     "zugang läuft heute ab – sperrung droht",
     "zugang sofort entsperren",
-    "hello, could you vote for"
+    "hello, could you vote for",
+    "ihre phototan-verbindung wurde deaktiviert",
+    "ohne aktualisierung droht zugriffsverlust",
+    "direct debit has been placed on hold"
   ],
   "badHosts": [
     "platformbyfb.com",
@@ -52,8 +55,14 @@
     "poliziadistato.info",
     "fpstk.asia",
     "fpshk.asia",
-    "kredit.sc"
+    "kredit.sc",
+    "lygov.art"
   ],
   "shorteners": [],
-  "badPhones": []
+  "badPhones": [
+    "14417352712",
+    "14417375993",
+    "14419054600",
+    "923117008916"
+  ]
 }
