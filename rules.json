@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-19T11:35",
+  "version": "2026-11-19T12:30",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -91,6 +91,16 @@
       "d": "2026-11-18",
       "c": "cy",
       "t": "SMS impersonating Cyprus Police DIGIPOL claims an unpaid out-of-court fine and links to a fake payment site to steal card and personal details"
+    },
+    {
+      "d": "2026-11-19",
+      "c": "us",
+      "t": "Calls posing as a judge or jail official tell families an inmate (New Mexico, Socorro County) can be released and driven home for a payment of up to $1,000"
+    },
+    {
+      "d": "2026-11-19",
+      "c": "us",
+      "t": "Calls, texts and emails posing as We Energies (Wisconsin) threaten immediate power shutoff unless paid now by gift card, crypto, payment app or QR code"
     }
   ]
 }
