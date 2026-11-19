@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-19T18:30",
+  "version": "2026-11-19T19:35",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -157,6 +157,26 @@
       "d": "2026-11-19",
       "c": "us",
       "t": "Calls spoofing the Glasgow (Kentucky) Police Department number: a woman caller asks the victim to send $250 for 'vehicle maintenance'"
+    },
+    {
+      "d": "2026-11-19",
+      "c": "ae",
+      "t": "DFSA warns a fake investment website and Telegram groups impersonate DIFC-regulated Exotix Advisory Ltd (its name, registration number and address) to get investors to send money"
+    },
+    {
+      "d": "2026-11-19",
+      "c": "au",
+      "t": "ASIC/Macquarie warn 'QUFC Exchange' crypto platform falsely claims a Macquarie Bank partnership, using AI-generated videos of its executives, to lure investments"
+    },
+    {
+      "d": "2026-11-19",
+      "c": "de",
+      "t": "PayPal phishing email (Verbraucherzentrale): payment method expired or cannot be authorised, account restricted unless details are updated via link before a deadline"
+    },
+    {
+      "d": "2026-11-19",
+      "c": "us",
+      "t": "Fake Microsoft pop-up alert leads to a call saying the bank account is unsafe; victim told to withdraw cash and hand it to a 'federal agent' in person (Indiana)"
     }
   ]
 }
