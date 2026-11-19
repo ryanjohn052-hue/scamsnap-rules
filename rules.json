@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-19T19:35",
+  "version": "2026-11-19T20:30",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -27,7 +27,8 @@
     "ohne aktualisierung droht zugriffsverlust",
     "direct debit has been placed on hold",
     "dafür wird eine frist bis zum 20. november 2026 gesetzt",
-    "yo trabajo en las cámaras centrales, puedo ayudarla a hacerle seguimiento al perro perdido"
+    "yo trabajo en las cámaras centrales, puedo ayudarla a hacerle seguimiento al perro perdido",
+    "messages held after the outage"
   ],
   "badHosts": [
     "platformbyfb.com",
@@ -58,7 +59,10 @@
     "fpstk.asia",
     "fpshk.asia",
     "kredit.sc",
-    "lygov.art"
+    "lygov.art",
+    "moments-notice.com",
+    "planetmaison.com",
+    "newbooker.com"
   ],
   "shorteners": [],
   "badPhones": [
@@ -177,6 +181,16 @@
       "d": "2026-11-19",
       "c": "us",
       "t": "Fake Microsoft pop-up alert leads to a call saying the bank account is unsafe; victim told to withdraw cash and hand it to a 'federal agent' in person (Indiana)"
+    },
+    {
+      "d": "2026-11-19",
+      "c": "world",
+      "t": "Fake Microsoft 365 service-health emails after the Outlook/Exchange outage say held messages will be deleted in 24h; 'Restore messages' link leads to a fake Microsoft login to steal credentials"
+    },
+    {
+      "d": "2026-11-19",
+      "c": "ie",
+      "t": "After the Wellington IT credit union breach, texts using stolen payee details claim a landlord/club/childminder changed bank details and ask members to pay to a new account"
     }
   ]
 }
