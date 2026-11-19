@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-19T17:35",
+  "version": "2026-11-19T18:30",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -152,6 +152,11 @@
       "d": "2026-11-19",
       "c": "us",
       "t": "Calls posing as named Moore County (North Carolina) Sheriff staff cite a subpoena, DNA test or a jailed relative and demand bond or release-program payment, often by gift card"
+    },
+    {
+      "d": "2026-11-19",
+      "c": "us",
+      "t": "Calls spoofing the Glasgow (Kentucky) Police Department number: a woman caller asks the victim to send $250 for 'vehicle maintenance'"
     }
   ]
 }
