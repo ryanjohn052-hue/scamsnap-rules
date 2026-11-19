@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-15",
+  "version": "2026-11-19T11:35",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -25,7 +25,8 @@
     "hello, could you vote for",
     "ihre phototan-verbindung wurde deaktiviert",
     "ohne aktualisierung droht zugriffsverlust",
-    "direct debit has been placed on hold"
+    "direct debit has been placed on hold",
+    "dafür wird eine frist bis zum 20. november 2026 gesetzt"
   ],
   "badHosts": [
     "platformbyfb.com",
@@ -64,5 +65,32 @@
     "14417375993",
     "14419054600",
     "923117008916"
+  ],
+  "recent": [
+    {
+      "d": "2026-11-19",
+      "c": "gb",
+      "t": "GTA 6 launch-day phishing (UK ICO warning): emails/messages offering free downloads, early access or exclusive content to steal personal data, logins or payment"
+    },
+    {
+      "d": "2026-11-19",
+      "c": "se",
+      "t": "CERT-SE: fake invoice emails spoofing a colleague or manager link to a look-alike cloud-service login page to steal work credentials"
+    },
+    {
+      "d": "2026-11-18",
+      "c": "us",
+      "t": "After the Chase/Zelle banking outage, texts, emails and calls posing as banks say the account is frozen or needs verification and ask for login or personal details"
+    },
+    {
+      "d": "2026-11-18",
+      "c": "de",
+      "t": "Deutsche Rentenversicherung phishing email 'Kurze Sache zu Ihren Kontaktdaten' asks to confirm contact data on a fake portal before a 20 November deadline"
+    },
+    {
+      "d": "2026-11-18",
+      "c": "cy",
+      "t": "SMS impersonating Cyprus Police DIGIPOL claims an unpaid out-of-court fine and links to a fake payment site to steal card and personal details"
+    }
   ]
 }
