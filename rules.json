@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-19T15:25",
+  "version": "2026-11-19T16:35",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -26,7 +26,8 @@
     "ihre phototan-verbindung wurde deaktiviert",
     "ohne aktualisierung droht zugriffsverlust",
     "direct debit has been placed on hold",
-    "dafür wird eine frist bis zum 20. november 2026 gesetzt"
+    "dafür wird eine frist bis zum 20. november 2026 gesetzt",
+    "yo trabajo en las cámaras centrales, puedo ayudarla a hacerle seguimiento al perro perdido"
   ],
   "badHosts": [
     "platformbyfb.com",
@@ -131,6 +132,16 @@
       "d": "2026-11-19",
       "c": "es",
       "t": "Spain Interior Ministry Black Friday warning: SMS/emails posing as banks, shops or public bodies about an urgent purchase or delivery ask for card/bank data or payment"
+    },
+    {
+      "d": "2026-11-19",
+      "c": "us",
+      "t": "City of Bluefield (West Virginia) warns of fake payment requests for its Holiday of Lights event via PayPal, Venmo or other apps; the city takes only cash or check in person"
+    },
+    {
+      "d": "2026-11-19",
+      "c": "cl",
+      "t": "Coquimbo (Chile) DISEP: WhatsApp from someone posing as a municipal camera-center operator offers to track a lost pet on CCTV for a fee and asks for payment and details"
     }
   ]
 }
