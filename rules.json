@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-19T16:35",
+  "version": "2026-11-19T17:35",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -142,6 +142,16 @@
       "d": "2026-11-19",
       "c": "cl",
       "t": "Coquimbo (Chile) DISEP: WhatsApp from someone posing as a municipal camera-center operator offers to track a lost pet on CCTV for a fee and asks for payment and details"
+    },
+    {
+      "d": "2026-11-19",
+      "c": "ie",
+      "t": "Emails posing as the Garda Fixed Charge Processing Office demand online payment of fake traffic fines to steal bank and personal details (real notices come by post only)"
+    },
+    {
+      "d": "2026-11-19",
+      "c": "us",
+      "t": "Calls posing as named Moore County (North Carolina) Sheriff staff cite a subpoena, DNA test or a jailed relative and demand bond or release-program payment, often by gift card"
     }
   ]
 }
