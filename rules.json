@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-19T14:26",
+  "version": "2026-11-19T15:25",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -116,6 +116,21 @@
       "d": "2026-11-19",
       "c": "gy",
       "t": "SMS posing as Guyana Traffic Police offer a 50% traffic-fine discount if paid within 24 hours, threaten court, and link to fake payment sites"
+    },
+    {
+      "d": "2026-11-19",
+      "c": "us",
+      "t": "Door-to-door fake Medicare agents (North Carolina) with clipboards, fake badges and brochures claim to check enrollment or sign up new benefits to get personal/Medicare details"
+    },
+    {
+      "d": "2026-11-19",
+      "c": "us",
+      "t": "Pima County (Arizona) sheriff/FBI: calls posing as your bank report 'unusual activity' to extract account details; AI voice-cloned relatives fake emergencies to get money"
+    },
+    {
+      "d": "2026-11-19",
+      "c": "es",
+      "t": "Spain Interior Ministry Black Friday warning: SMS/emails posing as banks, shops or public bodies about an urgent purchase or delivery ask for card/bank data or payment"
     }
   ]
 }
