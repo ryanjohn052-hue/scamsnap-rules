@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-19T12:30",
+  "version": "2026-11-19T13:40",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -101,6 +101,16 @@
       "d": "2026-11-19",
       "c": "us",
       "t": "Calls, texts and emails posing as We Energies (Wisconsin) threaten immediate power shutoff unless paid now by gift card, crypto, payment app or QR code"
+    },
+    {
+      "d": "2026-11-19",
+      "c": "gb",
+      "t": "Fake HMRC tax refund emails/texts claim an 'unclaimed tax repayment' and send victims to a spoofed GOV.UK site to 'verify identity and payment details'"
+    },
+    {
+      "d": "2026-11-19",
+      "c": "xk",
+      "t": "Kosovo Police warn of SMS posing as banks saying bank details must be updated, linking to fake pages that steal banking credentials"
     }
   ]
 }
