@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-20T11:30",
+  "version": "2026-11-20T11:31",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -281,6 +281,11 @@
       "d": "2026-11-20",
       "c": "ph",
       "t": "PNP: fake online 'virtual assistant' job offers recruit Filipinos into a scam hub posing as a US FBI office; verify job offers before accepting"
+    },
+    {
+      "d": "2026-11-20",
+      "c": "hn",
+      "t": "Honduras DNVT: fake SMS traffic-fine notices claim an unpaid parking infraction, offer an early-payment 'discount' on 400 lempiras and link to a site that steals personal and bank details"
     }
   ],
   "safePhrases": [
