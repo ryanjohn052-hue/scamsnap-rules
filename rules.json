@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-20T19:27",
+  "version": "2026-11-20T20:35",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -65,7 +65,8 @@
     "moments-notice.com",
     "planetmaison.com",
     "newbooker.com",
-    "downapk.tail8dfba7.ts.net"
+    "downapk.tail8dfba7.ts.net",
+    "dmvqh.com"
   ],
   "shorteners": [],
   "badPhones": [
@@ -392,6 +393,16 @@
       "d": "2026-11-20",
       "c": "es",
       "t": "Vila-real local police: hijacked WhatsApp accounts message the owner's family and friends asking for urgent bank transfers"
+    },
+    {
+      "d": "2026-11-20",
+      "c": "us",
+      "t": "Idaho Transportation Department: fake DMV calls and voicemails claim you owe money for unpaid traffic citations, threaten penalties and push you to pay on a fake site (dmvqh.com)"
+    },
+    {
+      "d": "2026-11-20",
+      "c": "ca",
+      "t": "Manitoba RCMP: spoofed calls posing as a delivery service, your bank, the Canadian Anti-Fraud Centre and an RCMP officer claim suspicious account activity and send you to a Bitcoin ATM to 'verify' identity by depositing cash"
     }
   ],
   "safePhrases": [
