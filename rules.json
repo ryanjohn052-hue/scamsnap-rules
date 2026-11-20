@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-20T22:26",
+  "version": "2026-11-20T23:26",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -418,6 +418,26 @@
       "d": "2026-11-20",
       "c": "us",
       "t": "Lake County (Oregon) Sheriff's Office: texts from a self-styled 'Aargon Agency, Inc.' pose as a Lake Health District Hospital debt collector with fake balances and links to pay, dispute or get 'more information'"
+    },
+    {
+      "d": "2026-11-20",
+      "c": "us",
+      "t": "Hawaii DLNR Commission on Water Resource Management: emails from non-official addresses pose as CWRM staff and ask Maui (Lahaina) permit applicants to reply for payment instructions for water use permits"
+    },
+    {
+      "d": "2026-11-20",
+      "c": "us",
+      "t": "Caddo Parish (Louisiana) Sheriff's Office: callers pose as deputies, claim a warrant was issued for missed jury duty and demand money by phone"
+    },
+    {
+      "d": "2026-11-20",
+      "c": "lk",
+      "t": "Sri Lanka Police (Kandy): callers, SMS and WhatsApp messages pose as bank or financial-institution staff and ask for passwords and OTPs by phone or via fake links"
+    },
+    {
+      "d": "2026-11-20",
+      "c": "ca",
+      "t": "Kingston (Ontario) Police: fake buyers on Facebook Marketplace arrange to meet sellers at home, inspect the item and flee without paying"
     }
   ],
   "safePhrases": [
