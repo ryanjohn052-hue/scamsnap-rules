@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-20T00:35",
+  "version": "2026-11-20T01:35",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -232,6 +232,11 @@
       "d": "2026-11-18",
       "c": "us",
       "t": "Calls posing as Rock/Richland County (Wisconsin) deputies, using real deputies' names or a fake 'Sergeant Walker', say you are under investigation and ask for personal information"
+    },
+    {
+      "d": "2026-11-19",
+      "c": "us",
+      "t": "Ohio: callers posing as Brimfield Police officers demand money or payment for a warrant; spoofed emails imitating City of Cleveland staff addresses (with an added @usa.com) request payments"
     }
   ]
 }
