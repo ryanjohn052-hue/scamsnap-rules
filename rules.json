@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-20T14:26",
+  "version": "2026-11-20T16:40",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -337,6 +337,16 @@
       "d": "2026-11-20",
       "c": "lv",
       "t": "Venipak (Latvia) Black Friday warning: unordered cash-on-delivery parcels, and fake courier texts saying a parcel could not be delivered and the address must be updated or a small fee paid within hours"
+    },
+    {
+      "d": "2026-11-20",
+      "c": "us",
+      "t": "Las Vegas police (LVMPD) and FBI: callers posing as bank staff, police or attorneys claim an urgent problem, threaten arrest if you hang up, and have you withdraw cash for a courier pickup or send money"
+    },
+    {
+      "d": "2026-11-20",
+      "c": "us",
+      "t": "ComEd (Chicago) warning: spoofed calls/texts using ComEd's name claim an overdue bill or outage and threaten disconnection within an hour unless paid by gift card, prepaid card, crypto, Zelle or Venmo; fake technicians at the door ask for cash"
     }
   ],
   "safePhrases": [
