@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-20T09:26",
+  "version": "2026-11-20T10:27",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -266,6 +266,11 @@
       "d": "2026-11-20",
       "c": "de",
       "t": "Gauting/Gilching (Bavaria) police: shock calls from fake police officers say burglars are targeting you and your valuables must be secured, then collect gold bars and cash"
+    },
+    {
+      "d": "2026-11-20",
+      "c": "at",
+      "t": "Tyrol police: SMS posing as FinanzOnline asks you to enter bank details via a link; then a fake bank 'security expert' calls and has you confirm app push releases to 'cancel' transfers, which actually sends money abroad"
     }
   ],
   "safePhrases": [
