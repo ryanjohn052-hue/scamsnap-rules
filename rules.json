@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-20T17:26",
+  "version": "2026-11-20T18:30",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -362,6 +362,16 @@
       "d": "2026-11-20",
       "c": "de",
       "t": "Kirn (Rhineland-Palatinate) police: wave of calls from fake police officers citing break-ins in the neighbourhood ask about cash and valuables to collect them"
+    },
+    {
+      "d": "2026-11-20",
+      "c": "hk",
+      "t": "Hong Kong Police (CyberDefender): fake online-shop customer service cites your real name, order history and address from leaked data, offers a 'refund' and asks you to click a link, enter details or authorise a transfer"
+    },
+    {
+      "d": "2026-11-20",
+      "c": "gb",
+      "t": "UK Civil Aviation Authority: Black Friday / Travel Tuesday fake holiday and flight deals on ads, social posts and AI-made sites take payment (often bank transfer) for trips that do not exist"
     }
   ],
   "safePhrases": [
