@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-20T16:40",
+  "version": "2026-11-20T17:26",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -347,6 +347,21 @@
       "d": "2026-11-20",
       "c": "us",
       "t": "ComEd (Chicago) warning: spoofed calls/texts using ComEd's name claim an overdue bill or outage and threaten disconnection within an hour unless paid by gift card, prepaid card, crypto, Zelle or Venmo; fake technicians at the door ask for cash"
+    },
+    {
+      "d": "2026-11-20",
+      "c": "us",
+      "t": "Pennsylvania State Police: fake social media ads sell heating oil far below market price and ask for payment via cash-transfer apps; scammers then pay the real oil company with stolen cards"
+    },
+    {
+      "d": "2026-11-20",
+      "c": "us",
+      "t": "Ridgefield (Connecticut) police: calls spoofing the department's non-emergency number pose as officers giving jury-duty instructions and demand payment"
+    },
+    {
+      "d": "2026-11-20",
+      "c": "de",
+      "t": "Kirn (Rhineland-Palatinate) police: wave of calls from fake police officers citing break-ins in the neighbourhood ask about cash and valuables to collect them"
     }
   ],
   "safePhrases": [
