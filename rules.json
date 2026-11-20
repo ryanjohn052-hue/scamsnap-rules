@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-20T01:35",
+  "version": "2026-11-20T03:35",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -237,6 +237,11 @@
       "d": "2026-11-19",
       "c": "us",
       "t": "Ohio: callers posing as Brimfield Police officers demand money or payment for a warrant; spoofed emails imitating City of Cleveland staff addresses (with an added @usa.com) request payments"
+    },
+    {
+      "d": "2026-11-19",
+      "c": "us",
+      "t": "Hardeeville (South Carolina) police: calls posing as court officials say you missed jury duty and must pay a fine now to avoid arrest; fake Amazon reps claim money owed, asking for Bitcoin, gift cards or wire transfers"
     }
   ]
 }
