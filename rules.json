@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-20T18:30",
+  "version": "2026-11-20T19:27",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -372,6 +372,26 @@
       "d": "2026-11-20",
       "c": "gb",
       "t": "UK Civil Aviation Authority: Black Friday / Travel Tuesday fake holiday and flight deals on ads, social posts and AI-made sites take payment (often bank transfer) for trips that do not exist"
+    },
+    {
+      "d": "2026-11-20",
+      "c": "us",
+      "t": "Woodward (Oklahoma) police: fake emailed invoice from the 'City of Woodward Metropolitan Area Planning Commission' demands a $3,800 payment; real city mail only comes from @city-of-woodward-ok.gov"
+    },
+    {
+      "d": "2026-11-20",
+      "c": "us",
+      "t": "Harris County (Texas) Sheriff's Office: callers use real deputies' names and badge numbers about warrants, missed jury duty or a jailed relative needing bond, and demand gift cards, money transfers or Bitcoin-machine payments"
+    },
+    {
+      "d": "2026-11-20",
+      "c": "us",
+      "t": "Grand Traverse County (Michigan) sheriff: romance scammer posing as a US soldier stationed in Germany asks for money for bills and to 'bribe guards' to come home, paid via Bitcoin, Cash App and Apple gift cards"
+    },
+    {
+      "d": "2026-11-20",
+      "c": "es",
+      "t": "Vila-real local police: hijacked WhatsApp accounts message the owner's family and friends asking for urgent bank transfers"
     }
   ],
   "safePhrases": [
