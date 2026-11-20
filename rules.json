@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-20T03:35",
+  "version": "2026-11-20T04:35",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -62,7 +62,8 @@
     "lygov.art",
     "moments-notice.com",
     "planetmaison.com",
-    "newbooker.com"
+    "newbooker.com",
+    "downapk.tail8dfba7.ts.net"
   ],
   "shorteners": [],
   "badPhones": [
@@ -70,7 +71,8 @@
     "14417375993",
     "14419054600",
     "923117008916",
-    "19189230074"
+    "19189230074",
+    "919301243571"
   ],
   "recent": [
     {
@@ -242,6 +244,11 @@
       "d": "2026-11-19",
       "c": "us",
       "t": "Hardeeville (South Carolina) police: calls posing as court officials say you missed jury duty and must pay a fine now to avoid arrest; fake Amazon reps claim money owed, asking for Bitcoin, gift cards or wire transfers"
+    },
+    {
+      "d": "2026-11-20",
+      "c": "in",
+      "t": "Hyderabad Cyber Crime Police: SMS posing as Traffic e-Challan says a challan was issued on your vehicle and links to a fake 'MParivahan' APK that steals personal data"
     }
   ]
 }
