@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-20T05:27",
+  "version": "2026-11-20T06:25",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -254,6 +254,11 @@
       "d": "2026-11-20",
       "c": "hk",
       "t": "Hijacked WhatsApp accounts clone a group chat using friends' names and photos from unfamiliar numbers, urgently asking members and their relatives to transfer money (HK$10,000-27,300)"
+    },
+    {
+      "d": "2026-11-20",
+      "c": "ae",
+      "t": "Sharjah Police: fake housemaid recruitment ads on Instagram ask for advance payments to 'reserve a worker'; strangers offering to boost a child's game character ask for bank card details and OTP"
     }
   ]
 }
