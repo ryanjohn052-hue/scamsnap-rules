@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-20T04:35",
+  "version": "2026-11-20T05:27",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -249,6 +249,11 @@
       "d": "2026-11-20",
       "c": "in",
       "t": "Hyderabad Cyber Crime Police: SMS posing as Traffic e-Challan says a challan was issued on your vehicle and links to a fake 'MParivahan' APK that steals personal data"
+    },
+    {
+      "d": "2026-11-20",
+      "c": "hk",
+      "t": "Hijacked WhatsApp accounts clone a group chat using friends' names and photos from unfamiliar numbers, urgently asking members and their relatives to transfer money (HK$10,000-27,300)"
     }
   ]
 }
