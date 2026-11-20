@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-20T11:31",
+  "version": "2026-11-20T12:30",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -286,6 +286,21 @@
       "d": "2026-11-20",
       "c": "hn",
       "t": "Honduras DNVT: fake SMS traffic-fine notices claim an unpaid parking infraction, offer an early-payment 'discount' on 400 lempiras and link to a site that steals personal and bank details"
+    },
+    {
+      "d": "2026-11-20",
+      "c": "de",
+      "t": "Märkischer Kreis police: fake chamber of commerce (IHK) letters tell businesses to update company data on a website under threat of a penalty; then a caller spoofing the house bank claims suspicious transfers and asks to move money to a 'separate account'"
+    },
+    {
+      "d": "2026-11-20",
+      "c": "de",
+      "t": "Lüneburg police: fake charity collectors ask for a small card donation (5 euro) on a mobile card reader whose display is manipulated, debiting about 2,000 euro after the PIN is entered"
+    },
+    {
+      "d": "2026-11-20",
+      "c": "de",
+      "t": "Bielefeld police: fake mini-job ads for an office assistant move to a messenger and have applicants open a bank account that is then used for fraud and money laundering"
     }
   ],
   "safePhrases": [
