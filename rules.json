@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-20T13:40",
+  "version": "2026-11-20T14:26",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -317,6 +317,26 @@
       "d": "2026-11-20",
       "c": "es",
       "t": "Spanish National Police (Lugo) Black Friday warning: sponsored ads and fake social profiles lead to look-alike shops; fake store staff message about a refund and ask for bank data or to confirm a transaction"
+    },
+    {
+      "d": "2026-11-20",
+      "c": "de",
+      "t": "Bottrop police: fake police officers call and visit seniors claiming their cash must be checked for authenticity, collect it, then demand a fee to 'return' the seized money"
+    },
+    {
+      "d": "2026-11-20",
+      "c": "es",
+      "t": "La Rioja National Police: WhatsApp investment groups with fake 'advisers' push manipulated trading platforms showing quick gains, then demand 'taxes' before any withdrawal and ask for ID copies and bank data"
+    },
+    {
+      "d": "2026-11-20",
+      "c": "ar",
+      "t": "ANSES warning: fake messages and social profiles copying ANSES branding about a benefit payment or 'personal information update' ask for access keys, passwords and bank details"
+    },
+    {
+      "d": "2026-11-20",
+      "c": "lv",
+      "t": "Venipak (Latvia) Black Friday warning: unordered cash-on-delivery parcels, and fake courier texts saying a parcel could not be delivered and the address must be updated or a small fee paid within hours"
     }
   ],
   "safePhrases": [
