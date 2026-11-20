@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-20T00:28",
+  "version": "2026-11-20T00:35",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -69,7 +69,8 @@
     "14417352712",
     "14417375993",
     "14419054600",
-    "923117008916"
+    "923117008916",
+    "19189230074"
   ],
   "recent": [
     {
@@ -216,6 +217,21 @@
       "d": "2026-11-19",
       "c": "ie",
       "t": "After the Wellington IT credit union breach, texts using stolen payee details claim a landlord/club/childminder changed bank details and ask members to pay to a new account"
+    },
+    {
+      "d": "2026-11-19",
+      "c": "us",
+      "t": "Calls/voicemails from a fake Tulsa County (Oklahoma) Sheriff's deputy 'Chris Alexander' ask victims to call back a 'confidential voicemail' line to extract personal or financial details"
+    },
+    {
+      "d": "2026-11-19",
+      "c": "us",
+      "t": "Jail bond scam (Ada County, Idaho): callers posing as bail bondsmen or sheriff's staff tell relatives of recent arrestees to pay a bond fee by phone via crypto, Zelle or Venmo"
+    },
+    {
+      "d": "2026-11-18",
+      "c": "us",
+      "t": "Calls posing as Rock/Richland County (Wisconsin) deputies, using real deputies' names or a fake 'Sergeant Walker', say you are under investigation and ask for personal information"
     }
   ]
 }
