@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-20T10:27",
+  "version": "2026-11-20T11:30",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -271,6 +271,16 @@
       "d": "2026-11-20",
       "c": "at",
       "t": "Tyrol police: SMS posing as FinanzOnline asks you to enter bank details via a link; then a fake bank 'security expert' calls and has you confirm app push releases to 'cancel' transfers, which actually sends money abroad"
+    },
+    {
+      "d": "2026-11-20",
+      "c": "de",
+      "t": "Lower Franconia police: calls posing as local Sparkasse staff claim problems with your bank card and account, then send a courier to your home to collect the card and PIN"
+    },
+    {
+      "d": "2026-11-20",
+      "c": "ph",
+      "t": "PNP: fake online 'virtual assistant' job offers recruit Filipinos into a scam hub posing as a US FBI office; verify job offers before accepting"
     }
   ],
   "safePhrases": [
