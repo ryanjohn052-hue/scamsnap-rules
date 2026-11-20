@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-20T12:30",
+  "version": "2026-11-20T13:40",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -74,7 +74,8 @@
     "14419054600",
     "923117008916",
     "19189230074",
-    "919301243571"
+    "919301243571",
+    "441933440333"
   ],
   "recent": [
     {
@@ -301,6 +302,21 @@
       "d": "2026-11-20",
       "c": "de",
       "t": "Bielefeld police: fake mini-job ads for an office assistant move to a messenger and have applicants open a bank account that is then used for fraud and money laundering"
+    },
+    {
+      "d": "2026-11-20",
+      "c": "de",
+      "t": "Schwalm-Eder (Hesse) police: calls from fake bank staff claim an unauthorised 2,000 euro debit; to 'recover' it a courier comes to collect your bank card and PIN"
+    },
+    {
+      "d": "2026-11-20",
+      "c": "gb",
+      "t": "Northamptonshire Police: scam calls spoof the disused Wellingborough Police Station number 01933 440333 to ask for money transfers, financial details or remote access to your computer"
+    },
+    {
+      "d": "2026-11-20",
+      "c": "es",
+      "t": "Spanish National Police (Lugo) Black Friday warning: sponsored ads and fake social profiles lead to look-alike shops; fake store staff message about a refund and ask for bank data or to confirm a transaction"
     }
   ],
   "safePhrases": [
