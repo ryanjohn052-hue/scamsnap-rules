@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-20T21:25",
+  "version": "2026-11-20T22:26",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -413,6 +413,11 @@
       "d": "2026-11-20",
       "c": "us",
       "t": "Buchanan County (Missouri) sheriff: callers claim you missed federal or state jury duty or have a warrant and ask for card details by phone to 'process a payment' and avoid arrest"
+    },
+    {
+      "d": "2026-11-20",
+      "c": "us",
+      "t": "Lake County (Oregon) Sheriff's Office: texts from a self-styled 'Aargon Agency, Inc.' pose as a Lake Health District Hospital debt collector with fake balances and links to pay, dispute or get 'more information'"
     }
   ],
   "safePhrases": [
