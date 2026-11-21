@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-21T21:26",
+  "version": "2026-11-21T23:35",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -537,6 +537,21 @@
       "d": "2026-11-21",
       "c": "es",
       "t": "Mossos d'Esquadra / Catalan Cybersecurity Agency (Black Friday): SMS or email posing as a parcel company says your order has unpaid customs fees or a missing street number and links to a fake courier page that takes personal and bank data"
+    },
+    {
+      "d": "2026-11-21",
+      "c": "de",
+      "t": "Polizei Nordhausen (Eichsfeld): shock calls from fake police officers say a close relative caused a traffic accident and demand bail (Kaution), which a courier then collects in cash"
+    },
+    {
+      "d": "2026-11-21",
+      "c": "cn",
+      "t": "Nanjing police: SMS posing as a car maker's official recall notice, with a QR code to a fake site; callers recite your car and personal details and ask for a transfer to 'verify payout eligibility'"
+    },
+    {
+      "d": "2026-11-21",
+      "c": "cn",
+      "t": "Shanghai police: SMS/email says a training course you signed up for 'can now be refunded', moves you to a chat app, charges a refund fee, claims funds are frozen and demands more money or new phones mailed to an address"
     }
   ],
   "safePhrases": [
