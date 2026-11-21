@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-20T23:26",
+  "version": "2026-11-21T01:40",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -438,6 +438,16 @@
       "d": "2026-11-20",
       "c": "ca",
       "t": "Kingston (Ontario) Police: fake buyers on Facebook Marketplace arrange to meet sellers at home, inspect the item and flee without paying"
+    },
+    {
+      "d": "2026-11-20",
+      "c": "py",
+      "t": "Paraguay (Villa Elisa police complaint): WhatsApp callers pose as Tu Financiera 'Mango' wallet loan officers, offer a loan and have you log into the wallet app to 'confirm' a balance, then drain it"
+    },
+    {
+      "d": "2026-11-20",
+      "c": "us",
+      "t": "Polk County (Minnesota) Sheriff's Office: callers pose as a grandchild in trouble and have grandparents ship thousands in cash via a delivery service, labelled as 'Christmas ornaments' or a 'birthday gift'"
     }
   ],
   "safePhrases": [
