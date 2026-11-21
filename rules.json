@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-21T11:30",
+  "version": "2026-11-21T13:27",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -487,6 +487,11 @@
       "d": "2026-11-21",
       "c": "ca",
       "t": "P.E.I. (CBC, RCMP comment): emails impersonating the Charlottetown Farmers' Market and local festivals/non-profits invite vendors to book booths and ask for up-front payment or cash hotel deposits; real market mail is only @charlottetownfarmersmarket.com"
+    },
+    {
+      "d": "2026-11-21",
+      "c": "de",
+      "t": "Stade police (Lower Saxony): fake online shops sell Grand Theft Auto VI well below the regular price, take credit-card payment and never send the activation code"
     }
   ],
   "safePhrases": [
