@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-21T15:26",
+  "version": "2026-11-21T19:27",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -84,6 +84,26 @@
   ],
   "recent": [
     {
+      "d": "2026-11-18",
+      "c": "us",
+      "t": "After the Chase/Zelle banking outage, texts, emails and calls posing as banks say the account is frozen or needs verification and ask for login or personal details"
+    },
+    {
+      "d": "2026-11-18",
+      "c": "de",
+      "t": "Deutsche Rentenversicherung phishing email 'Kurze Sache zu Ihren Kontaktdaten' asks to confirm contact data on a fake portal before a 20 November deadline"
+    },
+    {
+      "d": "2026-11-18",
+      "c": "cy",
+      "t": "SMS impersonating Cyprus Police DIGIPOL claims an unpaid out-of-court fine and links to a fake payment site to steal card and personal details"
+    },
+    {
+      "d": "2026-11-18",
+      "c": "us",
+      "t": "Calls posing as Rock/Richland County (Wisconsin) deputies, using real deputies' names or a fake 'Sergeant Walker', say you are under investigation and ask for personal information"
+    },
+    {
       "d": "2026-11-19",
       "c": "us",
       "t": "Virtual kidnapping calls (Sioux Falls, South Dakota): 'cartel' caller with a crying woman sounding like the daughter claims she is held captive and demands a wire to an account in Mexico"
@@ -117,21 +137,6 @@
       "d": "2026-11-19",
       "c": "se",
       "t": "CERT-SE: fake invoice emails spoofing a colleague or manager link to a look-alike cloud-service login page to steal work credentials"
-    },
-    {
-      "d": "2026-11-18",
-      "c": "us",
-      "t": "After the Chase/Zelle banking outage, texts, emails and calls posing as banks say the account is frozen or needs verification and ask for login or personal details"
-    },
-    {
-      "d": "2026-11-18",
-      "c": "de",
-      "t": "Deutsche Rentenversicherung phishing email 'Kurze Sache zu Ihren Kontaktdaten' asks to confirm contact data on a fake portal before a 20 November deadline"
-    },
-    {
-      "d": "2026-11-18",
-      "c": "cy",
-      "t": "SMS impersonating Cyprus Police DIGIPOL claims an unpaid out-of-court fine and links to a fake payment site to steal card and personal details"
     },
     {
       "d": "2026-11-19",
@@ -237,11 +242,6 @@
       "d": "2026-11-19",
       "c": "us",
       "t": "Jail bond scam (Ada County, Idaho): callers posing as bail bondsmen or sheriff's staff tell relatives of recent arrestees to pay a bond fee by phone via crypto, Zelle or Venmo"
-    },
-    {
-      "d": "2026-11-18",
-      "c": "us",
-      "t": "Calls posing as Rock/Richland County (Wisconsin) deputies, using real deputies' names or a fake 'Sergeant Walker', say you are under investigation and ask for personal information"
     },
     {
       "d": "2026-11-19",
@@ -454,11 +454,6 @@
       "t": "Polk County (Minnesota) Sheriff's Office: callers pose as a grandchild in trouble and have grandparents ship thousands in cash via a delivery service, labelled as 'Christmas ornaments' or a 'birthday gift'"
     },
     {
-      "d": "2026-11-21",
-      "c": "my",
-      "t": "Johor (Seri Alam) police: caller posing as a police officer says you have a money-laundering record, passes you to a 'higher-ranking officer' and has you transfer savings to accounts they provide"
-    },
-    {
       "d": "2026-11-20",
       "c": "us",
       "t": "Giles County (Tennessee) Sheriff's Office: calls spoofing a local police number pose as the US Treasury/IRS, claim your bank account and identity are at risk, and have you withdraw cash and deposit it at Walmart with a code they give"
@@ -472,6 +467,11 @@
       "d": "2026-11-20",
       "c": "de",
       "t": "Polizei Hoechstadt: SMS/WhatsApp from an unknown number claiming to be your son with a new number asks for urgent online bank transfers"
+    },
+    {
+      "d": "2026-11-21",
+      "c": "my",
+      "t": "Johor (Seri Alam) police: caller posing as a police officer says you have a money-laundering record, passes you to a 'higher-ranking officer' and has you transfer savings to accounts they provide"
     },
     {
       "d": "2026-11-21",
@@ -507,6 +507,21 @@
       "d": "2026-11-21",
       "c": "gb",
       "t": "Wiltshire Police: calls spoofing the police 101 number pose as detectives and ask for your bank account details"
+    },
+    {
+      "d": "2026-11-21",
+      "c": "us",
+      "t": "Marlboro County (South Carolina) Sheriff's Office: calls and letters posing as law enforcement claim an outstanding warrant or pending arrest and demand payment to clear it"
+    },
+    {
+      "d": "2026-11-21",
+      "c": "hn",
+      "t": "Honduras National Police: fake website posing as the official police portal offers driver's licence and traffic-ticket procedures at a 'discount' with a same-day payment deadline, taking payment and account/banking access"
+    },
+    {
+      "d": "2026-11-21",
+      "c": "mx",
+      "t": "ESET (Infobae Mexico): fake GTA VI downloads, keys and early/VIP access, plus fake stores with 'last copies' countdowns and a cloned Google Drive page, push infostealer installers or payment"
     }
   ],
   "safePhrases": [
