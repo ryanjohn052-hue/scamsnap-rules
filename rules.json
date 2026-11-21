@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-21T10:35",
+  "version": "2026-11-21T11:30",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -482,6 +482,11 @@
       "d": "2026-11-21",
       "c": "sg",
       "t": "Singapore Police: callers posing as Simba Telecom or UnionPay claim you bought a plan or equipment, then hand you to a fake 'Monetary Authority of Singapore (MAS) officer' who says you are under investigation and sends an 'agent' to collect your cash and jewellery"
+    },
+    {
+      "d": "2026-11-21",
+      "c": "ca",
+      "t": "P.E.I. (CBC, RCMP comment): emails impersonating the Charlottetown Farmers' Market and local festivals/non-profits invite vendors to book booths and ask for up-front payment or cash hotel deposits; real market mail is only @charlottetownfarmersmarket.com"
     }
   ],
   "safePhrases": [
