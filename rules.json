@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-21T02:26",
+  "version": "2026-11-21T04:26",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -453,6 +453,21 @@
       "d": "2026-11-21",
       "c": "my",
       "t": "Johor (Seri Alam) police: caller posing as a police officer says you have a money-laundering record, passes you to a 'higher-ranking officer' and has you transfer savings to accounts they provide"
+    },
+    {
+      "d": "2026-11-20",
+      "c": "us",
+      "t": "Giles County (Tennessee) Sheriff's Office: calls spoofing a local police number pose as the US Treasury/IRS, claim your bank account and identity are at risk, and have you withdraw cash and deposit it at Walmart with a code they give"
+    },
+    {
+      "d": "2026-11-20",
+      "c": "de",
+      "t": "Polizei Unterfranken (Haibach): caller posing as a local Sparkasse employee claims problems with your bank card and account, then sends a courier to collect the card and PIN"
+    },
+    {
+      "d": "2026-11-20",
+      "c": "de",
+      "t": "Polizei Hoechstadt: SMS/WhatsApp from an unknown number claiming to be your son with a new number asks for urgent online bank transfers"
     }
   ],
   "safePhrases": [
