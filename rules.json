@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-21T19:27",
+  "version": "2026-11-21T20:30",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -522,6 +522,11 @@
       "d": "2026-11-21",
       "c": "mx",
       "t": "ESET (Infobae Mexico): fake GTA VI downloads, keys and early/VIP access, plus fake stores with 'last copies' countdowns and a cloned Google Drive page, push infostealer installers or payment"
+    },
+    {
+      "d": "2026-11-21",
+      "c": "us",
+      "t": "Austin County (Texas) Sheriff's Office: callers pose as sheriff's employees, say you missed jury duty and have an active arrest warrant, and demand immediate payment in cash, crypto, gift cards or wire to clear the warrant or bond"
     }
   ],
   "safePhrases": [
