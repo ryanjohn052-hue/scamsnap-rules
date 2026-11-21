@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-21T07:17",
+  "version": "2026-11-21T09:35",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -69,7 +69,8 @@
     "planetmaison.com",
     "newbooker.com",
     "downapk.tail8dfba7.ts.net",
-    "dmvqh.com"
+    "dmvqh.com",
+    "aikyaemerging.com"
   ],
   "shorteners": [],
   "badPhones": [
@@ -471,6 +472,11 @@
       "d": "2026-11-20",
       "c": "de",
       "t": "Polizei Hoechstadt: SMS/WhatsApp from an unknown number claiming to be your son with a new number asks for urgent online bank transfers"
+    },
+    {
+      "d": "2026-11-21",
+      "c": "in",
+      "t": "Delhi Police (IFSO): fake WhatsApp stock-tip/IPO groups posing as 'Victory Pioneers Capital' and '538 Action Price Lab' show fake profit screenshots, take investments into supplied bank accounts, then demand more for 'pending orders and other dues' before withdrawal"
     }
   ],
   "safePhrases": [
