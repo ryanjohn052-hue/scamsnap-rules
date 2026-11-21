@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-21T14:26",
+  "version": "2026-11-21T15:26",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -502,6 +502,11 @@
       "d": "2026-11-21",
       "c": "cu",
       "t": "Cuba (CiberCuba victim report): message from a friend's hijacked number says a package from the US has arrived via a 'courier agency' and asks for 20,000 pesos in import duties and shipping by bank transfer, with an AI-made photo of the box"
+    },
+    {
+      "d": "2026-11-21",
+      "c": "gb",
+      "t": "Wiltshire Police: calls spoofing the police 101 number pose as detectives and ask for your bank account details"
     }
   ],
   "safePhrases": [
