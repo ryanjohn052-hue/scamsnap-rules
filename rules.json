@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-21T01:40",
+  "version": "2026-11-21T02:26",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -448,6 +448,11 @@
       "d": "2026-11-20",
       "c": "us",
       "t": "Polk County (Minnesota) Sheriff's Office: callers pose as a grandchild in trouble and have grandparents ship thousands in cash via a delivery service, labelled as 'Christmas ornaments' or a 'birthday gift'"
+    },
+    {
+      "d": "2026-11-21",
+      "c": "my",
+      "t": "Johor (Seri Alam) police: caller posing as a police officer says you have a money-laundering record, passes you to a 'higher-ranking officer' and has you transfer savings to accounts they provide"
     }
   ],
   "safePhrases": [
