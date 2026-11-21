@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-21T20:30",
+  "version": "2026-11-21T21:26",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -527,6 +527,16 @@
       "d": "2026-11-21",
       "c": "us",
       "t": "Austin County (Texas) Sheriff's Office: callers pose as sheriff's employees, say you missed jury duty and have an active arrest warrant, and demand immediate payment in cash, crypto, gift cards or wire to clear the warrant or bond"
+    },
+    {
+      "d": "2026-11-21",
+      "c": "uy",
+      "t": "Uruguay DGI (tax agency): fraudulent emails posing as DGI about a supposed tax refund ask you to click a link for 'more information about the payment' and give confidential data"
+    },
+    {
+      "d": "2026-11-21",
+      "c": "es",
+      "t": "Mossos d'Esquadra / Catalan Cybersecurity Agency (Black Friday): SMS or email posing as a parcel company says your order has unpaid customs fees or a missing street number and links to a fake courier page that takes personal and bank data"
     }
   ],
   "safePhrases": [
