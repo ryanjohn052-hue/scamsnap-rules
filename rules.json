@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-21T04:26",
+  "version": "2026-11-21T07:17",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -30,7 +30,10 @@
     "yo trabajo en las cámaras centrales, puedo ayudarla a hacerle seguimiento al perro perdido",
     "messages held after the outage",
     "black friday a inceput! parfumuri originale dior, ysl, armani",
-    "on your mr price money account & you can win up to r500000"
+    "on your mr price money account & you can win up to r500000",
+    "הובא לידיעתנו כי צפית",
+    "official govt. link",
+    "[black friday early access] luxury products starting from"
   ],
   "badHosts": [
     "platformbyfb.com",
@@ -475,307 +478,312 @@
   ],
   "qa": [
     {
-      "t": "משטרת ישראל - המרכז הארצי לפניות נהגים: קיים קנס תעבורה פתוח על שמך. יש להסדיר תוך 24 שעות למניעת העברה לבית משפט לתעבורה: https://gov-il-fines.top/pay",
+      "t": "משטרת ישראל - מרכז קנסות תנועה: מצלמת מהירות תיעדה את רכבך בנסיעה 57 קמ\"ש באזור 50 קמ\"ש. יש לשלם את הקנס בסך 250 ש\"ח עד מחר כדי למנוע תוספת פיגורים: police-knas-il.com/pay",
       "e": "scam",
       "c": "il"
     },
     {
-      "t": "המרכז לגביית קנסות: נמצא חוב כספי בגין קנס תעבורה בסך 250 ש\"ח. להימנע מעיקולים או הגדלת הקנס שלמו כעת בקישור gviya-knasot.info/p",
+      "t": "יחידת הסייבר להב 433: הובא לידיעתנו כי צפית בתכנים אסורים ברשת. נפתח נגדך תיק פלילי. עליך להשיב למייל זה תוך 48 שעות עם פרטיך המלאים כדי להימנע ממעצר",
       "e": "scam",
       "c": "il"
     },
     {
-      "t": "עיריית תל אביב-יפו: נותרה יתרת חוב ארנונה בחשבונך. למניעת עיקול חשבון הבנק יש לשלם עד היום בחצות דרך הקישור: tlv-arnona-pay.com",
+      "t": "דואר ישראל: החבילה שלך מעוכבת במרכז המיון בשל דמי משלוח שלא שולמו (4.90 ש\"ח). לשחרור החבילה ועדכון הכתובת: israelpost-delivery.info/track",
       "e": "scam",
       "c": "il"
     },
     {
-      "t": "יד2: הקונה שילם על המודעה שלך. כדי לקבל את הכסף התקן את אפליקציית התשלום המאובטח: yad2-secure-pay.app/download",
+      "t": "משאבי אנוש: סבסוד הארוחות שלך בסיבוס ייחסם היום בשעה 15:00. לעדכון אמצעי התשלום ומניעת החסימה היכנס כאן: cibus-update-pay.com",
       "e": "scam",
       "c": "il"
     },
     {
-      "t": "רשות המסים: נמצא חוב מס לא משולם על שמך. להסדרת החוב והימנעות מהליכי גבייה היכנסו: taxes-gov-il.org/debt",
+      "t": "ביטוח לאומי: מגיע לך החזר דמי ביטוח בסך 1,870 ש\"ח. לקבלת הכסף יש למלא פרטי חשבון בנק וכרטיס אשראי בקישור: btl-hechzer.online",
       "e": "scam",
       "c": "il"
     },
     {
-      "t": "ביטוח לאומי: אושר לך מענק חד-פעמי בסך 1,850 ש\"ח. לקבלת הכסף יש לעדכן פרטי חשבון בנק בקישור btl-maanak.site",
+      "t": "בלאק פריידי בלעדי! אייפון 17 פרו ב-899 ש\"ח בלבד, נשארו 3 יחידות. תשלום מאובטח בהעברה בנקאית בלבד: ksp-blackfriday-sale.shop",
       "e": "scam",
       "c": "il"
     },
     {
-      "t": "בלאק פריידי! אייפון 17 פרו ב-799 ש\"ח בלבד, נשארו 4 יחידות. הזמינו עכשיו לפני שנגמר: black-friday-il.shop",
+      "t": "היי אמא זה אני, הטלפון שלי נפל למים וזה המספר החדש. אני צריך דחוף שתעבירי לי 3,800 ש\"ח בביט לחבר, אני אחזיר לך מחר. אל תתקשרי אני לא יכול לדבר",
       "e": "scam",
       "c": "il"
     },
     {
-      "t": "דואר ישראל: החבילה שלך מעוכבת עקב כתובת חסרה. לתיאום משלוח חוזר יש לשלם 5.90 ש\"ח: israelpost-delivery.top",
+      "t": "לאומי: זוהתה כניסה חשודה לחשבונך ממכשיר לא מוכר. אם לא אתה ביצעת, התקשר מיד למחלקת ההונאות במספר 03-7209944 ומסור את קוד האימות שתקבל",
       "e": "scam",
       "c": "il"
     },
     {
-      "t": "בנק לאומי: זוהתה פעילות חריגה בחשבונך והכרטיס הוקפא. לביטול ההקפאה התקשר מיד לנציג במספר 03-7012345 ומסור את הקוד שיישלח אליך",
+      "t": "A Traffic Challan has been issued on vehicle TS07EK4412. Pay within 24 hrs to avoid court action. Official Govt. App: https://mparivahan-echallan.apk-download.in/app",
       "e": "scam",
-      "c": "il"
+      "c": "in"
     },
     {
-      "t": "אמא זה המספר החדש שלי הטלפון נפל לי למים. את יכולה להעביר לי עכשיו 3,200 בביט? דחוף לי לשלם משהו אסביר אחר כך",
-      "e": "scam",
-      "c": "il"
-    },
-    {
-      "t": "Guyana Traffic Police: You have an outstanding speeding fine. Pay within 24 hours to receive a 50% reduction, or the matter will be sent to court. Pay now: gpf-fines-pay.com",
-      "e": "scam",
-      "c": "gy"
-    },
-    {
-      "t": "Sri Lanka Police: Speeding violation recorded on your vehicle. Settle the fine via GovPay today to avoid legal action: https://lygov.art/pay",
+      "t": "Sri Lanka Police: Your vehicle exceeded the speed limit on the Southern Expressway. Pay your fine of Rs. 3,500 via GovPay before suspension of your licence: govpay-lk-fines.art",
       "e": "scam",
       "c": "lk"
     },
     {
-      "t": "Traffic e-Challan: A challan of Rs.1000 has been issued on your vehicle TS09EX4521. Download MParivahan app to view and pay: mparivahan-echallan.apk",
+      "t": "Australia Post: Your parcel could not be delivered due to an incomplete address. Please update your details and pay the $2.95 redelivery fee within 12 hours: auspost-redelivery.info",
       "e": "scam",
-      "c": "in"
+      "c": "au"
     },
     {
-      "t": "ΑΣΤΥΝΟΜΙΑ ΚΥΠΡΟΥ: Έχετε απλήρωτο εξώδικο πρόστιμο. Πληρώστε σήμερα για να αποφύγετε δικαστική διαδικασία: cy-police-fines.com",
+      "t": "[Black Friday Early Access] Luxury handbags and watches from $39 — 90% off Gucci, Rolex, Prada. Today only, limited stock: luxury-outlet-bf.store",
       "e": "scam",
-      "c": "cy"
+      "c": "us"
     },
     {
-      "t": "Banka juaj: Të dhënat tuaja bankare duhet të përditësohen menjëherë, përndryshe llogaria do të bllokohet. Klikoni: bank-ks-update.com",
+      "t": "ComEd: Your account is past due. Power will be disconnected within 60 minutes unless you pay $487.20 now. Call 1-888-555-0193 to pay by Zelle or gift card.",
       "e": "scam",
-      "c": "xk"
+      "c": "us"
     },
     {
-      "t": "Garda Fixed Charge Processing Office: Your fixed charge notice is overdue. Pay online now to avoid court summons: garda-fcpo-pay.ie.net",
+      "t": "Heating oil SALE — 150 gallons for $1.99/gal, delivery this week! Limited trucks. Pay a deposit by Cash App or Venmo to reserve your date. Message us on Facebook.",
       "e": "scam",
-      "c": "ie"
+      "c": "us"
     },
     {
-      "t": "Hi, it's Mary from the creche. Our bank details have changed, please send this month's fees to IBAN IE29 AIBK 9311 5212 3456 78 from now on. Thanks!",
+      "t": "This is Sergeant Miller with the County Sheriff's Office. A warrant was issued for your arrest for missing federal jury duty. To avoid arrest today you must pay the $1,500 bond by phone with a debit card.",
       "e": "scam",
-      "c": "ie"
+      "c": "us"
     },
     {
-      "t": "HMRC: You have an unclaimed tax repayment of £412.68. Verify your identity and payment details to receive it: gov-uk-taxrefund.com",
+      "t": "City Planning Commission: Invoice #MPC-2211 for $3,800 is overdue. Please remit payment today by wire transfer to the account in the attached PDF to avoid penalties.",
+      "e": "scam",
+      "c": "us"
+    },
+    {
+      "t": "Idaho DMV: Final notice — you have unpaid traffic citations. Pay now at idaho-dmv-citations.com to avoid suspension of your driving privileges and additional penalties.",
+      "e": "scam",
+      "c": "us"
+    },
+    {
+      "t": "Aargon Agency, Inc.: You have an outstanding balance of $612.44 with Lake Health District Hospital. Pay or dispute now: aargon-pay.net/acct or reply STOP.",
+      "e": "scam",
+      "c": "us"
+    },
+    {
+      "t": "Canadian Anti-Fraud Centre: suspicious activity was found on your bank account. An RCMP officer will contact you. To protect your money, withdraw the cash and deposit it into the secure Bitcoin ATM we direct you to.",
+      "e": "scam",
+      "c": "ca"
+    },
+    {
+      "t": "Grandma it's me, I got in a car accident and I'm in jail. Please don't tell Mom. My lawyer says I need $9,000 for bail — a courier will pick up the cash at your house today.",
+      "e": "scam",
+      "c": "ca"
+    },
+    {
+      "t": "Northamptonshire Police here. Your bank card has been cloned and we have arrested a suspect. Do not tell your bank. A courier will collect your card and PIN for evidence.",
       "e": "scam",
       "c": "gb"
     },
     {
-      "t": "GTA 6 early access is LIVE! Claim your free download code before launch - limited codes left: gta6-earlyaccess.net",
-      "e": "scam",
-      "c": "gb"
-    },
-    {
-      "t": "Chase Alert: Your account has been temporarily frozen after the recent outage. Verify your login within 2 hours to restore access: chase-verify-secure.com",
+      "t": "Hi, I'm Mike, a US Army sergeant serving in Germany. My account is frozen until I come home. Could you send $500 in Apple gift cards so I can pay the guards and fly to you? I love you.",
       "e": "scam",
       "c": "us"
     },
     {
-      "t": "We Energies: Your power will be disconnected in 60 minutes due to an unpaid balance. Pay now by scanning the QR code or call 414-555-0198",
-      "e": "scam",
-      "c": "us"
-    },
-    {
-      "t": "This is Sergeant Walker with the County Sheriff's Office. You missed jury duty and have an active warrant. Call me back immediately to arrange payment of the fine to avoid arrest.",
-      "e": "scam",
-      "c": "us"
-    },
-    {
-      "t": "Your package delivery failed: a refurbished phone was sent to you by mistake. Reply YES and our courier will pick it up today, please confirm your address and the code we just texted you.",
-      "e": "scam",
-      "c": "us"
-    },
-    {
-      "t": "Microsoft 365: Due to a service incident, 14 incoming messages are on hold and will be deleted in 24 hours. Restore messages: m365-restore-mail.com/login",
-      "e": "scam",
-      "c": "world"
-    },
-    {
-      "t": "PayPal: Ihre Zahlungsmethode ist abgelaufen. Ihr Konto wurde eingeschränkt. Bitte aktualisieren Sie Ihre Daten bis 22.11.2026: paypal-konto-hilfe.de",
-      "e": "scam",
-      "c": "de"
-    },
-    {
-      "t": "Deutsche Rentenversicherung: Kurze Sache zu Ihren Kontaktdaten - bitte bestätigen Sie diese bis zum 20. November, sonst kann Ihre Rente nicht ausgezahlt werden: drv-kontakt.info",
-      "e": "scam",
-      "c": "de"
-    },
-    {
-      "t": "BBVA: Hemos detectado una compra de 899€ por Black Friday en su tarjeta. Si no la reconoce, cancele aqui: bbva-cancelar-compra.com",
-      "e": "scam",
-      "c": "es"
-    },
-    {
-      "t": "Hola, trabajo en la central de cámaras municipales. Vi a su perrito en las grabaciones, puedo enviarle el video si me transfiere 25.000 pesos para el respaldo.",
-      "e": "scam",
-      "c": "cl"
-    },
-    {
-      "t": "BLACK FRIDAY a inceput! Parfumuri originale Dior, YSL, Armani de la 159 lei. Stoc limitat: parfum-bf.ro.shop",
-      "e": "scam",
-      "c": "ro"
-    },
-    {
-      "t": "Get Black Friday deals on your Mr Price Money account & you can win up to R500000! Apply now: mrp-money-deals.co Stop2OptOut",
-      "e": "scam",
-      "c": "za"
-    },
-    {
-      "t": "我換咗新號碼，群組都轉咗嚟呢度。急需幫手轉 HK$12,000 去呢個戶口，今晚一定還你，唔該晒！",
+      "t": "Customer Service: Hi Mrs Chan, your order #HK88213 was charged twice. We will refund HK$1,280. Please click the link and enter your card details to receive the refund: hk-refund-cs.com",
       "e": "scam",
       "c": "hk"
     },
     {
-      "t": "مكتب توظيف: عاملة منزلية متاحة فوراً. ادفع 1500 درهم مقدماً لحجز العاملة قبل أن يحجزها غيرك. أرسل صورة الإيصال على واتساب",
+      "t": "Simba Telecom: unusual activity on your line has been linked to a scam case. You will now be transferred to an MAS officer. Please do not hang up.",
       "e": "scam",
-      "c": "ae"
+      "c": "sg"
     },
     {
-      "t": "DIFC-regulated Exotix Advisory: guaranteed 18% monthly returns. Join our Telegram VIP group and deposit USDT to start today.",
+      "t": "PDRM: Akaun bank anda dikaitkan dengan kes pengubahan wang haram. Hubungi pegawai kami segera dan pindahkan simpanan anda ke akaun selamat untuk siasatan.",
       "e": "scam",
-      "c": "ae"
+      "c": "my"
     },
     {
-      "t": "Macquarie Bank partnered with QUFC Exchange! Invest $250 today and earn passive crypto income. Watch the CEO's video: qufc-exchange.com",
+      "t": "Hallo Mama, das ist meine neue Nummer, das alte Handy ist kaputt. Kannst du heute noch eine dringende Überweisung für mich machen? Ich erkläre dir alles später.",
       "e": "scam",
-      "c": "au"
+      "c": "de"
     },
     {
-      "t": "Assurance Maladie: votre carte Vitale expire. Commandez la nouvelle carte avant le 30/11 en payant 1,25€ de frais: ameli-vitale-renouvellement.fr",
+      "t": "Sparkasse Kundenservice: Bei Ihrer Karte wurde ein Problem festgestellt. Ein Mitarbeiter holt Ihre Karte heute ab – bitte legen Sie die PIN in einen Umschlag bei.",
+      "e": "scam",
+      "c": "de"
+    },
+    {
+      "t": "Hola! Soy Laura, ¿me ayudas votando por mi sobrina en el concurso de baile? Solo tienes que entrar y poner el código que te llegue por SMS: votar-concurso.es",
+      "e": "scam",
+      "c": "es"
+    },
+    {
+      "t": "Mamá, necesito tu ayuda urgente, me han bloqueado la cuenta del banco. ¿Puedes hacerme un Bizum de 950€ a este número? Te lo devuelvo esta noche.",
+      "e": "scam",
+      "c": "es"
+    },
+    {
+      "t": "BBVA: Se ha detectado un cargo de 1.249,00€ no autorizado en su cuenta. Si no reconoce la operación, llame inmediatamente al 910 555 312.",
+      "e": "scam",
+      "c": "es"
+    },
+    {
+      "t": "Mango Billetera: Felicidades, tiene un préstamo preaprobado de 5.000.000 Gs. Ingrese a su app y confirme el saldo con el código que le enviamos para el desembolso.",
+      "e": "scam",
+      "c": "py"
+    },
+    {
+      "t": "Commercial Bank: Your account will be suspended today. To verify, reply with your online banking password and the OTP you receive now.",
+      "e": "scam",
+      "c": "lk"
+    },
+    {
+      "t": "Votre colis La Poste est en attente : frais de douane 1,99 €. Réglez avant ce soir pour éviter le retour à l'expéditeur : laposte-suivi-colis.fr",
       "e": "scam",
       "c": "fr"
     },
     {
-      "t": "קוד האימות שלך לכניסה לאתר בנק הפועלים הוא 482913. אין למסור את הקוד לאף אחד, גם לא לנציג הבנק.",
+      "t": "شرطة دبي: تم رصد مخالفة مرورية على مركبتك بقيمة 500 درهم. ادفع الآن للحصول على خصم 50% قبل انتهاء المهلة: dubai-police-fines.top",
+      "e": "scam",
+      "c": "ae"
+    },
+    {
+      "t": "Poste Italiane: il tuo conto BancoPosta è stato limitato. Conferma i tuoi dati entro 24 ore per evitare la sospensione: posteitaliane-verifica.info",
+      "e": "scam",
+      "c": "it"
+    },
+    {
+      "t": "UK holiday deal: 7 nights all-inclusive Tenerife £199pp incl. flights! Black Friday only. Secure your booking by bank transfer today: cheapsun-holidays.co",
+      "e": "scam",
+      "c": "gb"
+    },
+    {
+      "t": "קוד אימות לכניסה לאזור האישי בביטוח לאומי: 774102. הקוד תקף ל-10 דקות. אין להעביר את הקוד לאחר.",
       "e": "legit",
       "c": "il"
     },
     {
-      "t": "תזכורת: יש לך תור אצל ד\"ר כהן במכבי שירותי בריאות ביום ראשון 22.11 בשעה 10:30. לביטול השב 0.",
+      "t": "כללית: תזכורת לתור לבדיקת דם במרפאת רמת אביב ביום שלישי 24.11 בשעה 07:40. יש להגיע בצום. לביטול השב 0.",
       "e": "legit",
       "c": "il"
     },
     {
-      "t": "שלום, החבילה שלך מ-AliExpress הגיעה לנקודת האיסוף סופר-פארם דיזנגוף. ניתן לאסוף עד 27.11 עם קוד 5521.",
+      "t": "ישראכרט: בוצעה עסקה בסך 89.90 ש\"ח בכרטיס המסתיים ב-2210 ברמי לוי. לפרטים נוספים באפליקציה. אין צורך בפעולה.",
       "e": "legit",
       "c": "il"
     },
     {
-      "t": "הודעה מבנק דיסקונט: בוצע חיוב בכרטיס המסתיים ב-4417 בסך 312.90 ש\"ח בשופרסל. אין צורך בפעולה.",
+      "t": "קיבלת 200 ש\"ח בפייבוקס מדנה כהן עבור \"מתנה לגננת\". הכסף הועבר לחשבון הבנק שלך.",
       "e": "legit",
       "c": "il"
     },
     {
-      "t": "התקבלה העברה בביט מיוסי לוי בסך 150 ש\"ח. הכסף כבר בחשבון שלך.",
+      "t": "חברת החשמל: החשבון התקופתי שלך בסך 412.30 ש\"ח ייגבה בהוראת קבע ב-01.12. ניתן לצפות בחשבון באזור האישי באתר.",
       "e": "legit",
       "c": "il"
     },
     {
-      "t": "חשבונית חודש נובמבר מחברת החשמל בסך 384 ש\"ח תיגבה בהוראת קבע ב-1.12. לצפייה בחשבון באזור האישי באתר.",
+      "t": "שלום, השליח של HFD יגיע אליך מחר בין 12:00 ל-16:00 עם החבילה מאיביי. לשינוי מועד ענה על הודעה זו.",
       "e": "legit",
       "c": "il"
     },
     {
-      "t": "אל על: הטיסה LY315 לפריז ביום שלישי ממריאה בזמן. הצ'ק-אין נפתח, ניתן לבצע באפליקציה.",
+      "t": "ועד הבית: ביום ראשון בבוקר תהיה ניקיון חדר מדרגות ושטיפת חניון. נא לא להשאיר אופניים בלובי. תודה, דני",
       "e": "legit",
       "c": "il"
     },
     {
-      "t": "הורים יקרים, מחר יום שישי הלימודים מסתיימים ב-12:00 בגלל ישיבת צוות. נא לדאוג לאיסוף. בברכה, המחנכת",
+      "t": "הורים יקרים, מחר יום שישי אין לימודים בכיתה ג'2 בגלל השתלמות מורים. הצהרון פועל כרגיל. בברכה, המחנכת מיכל",
       "e": "legit",
       "c": "il"
     },
     {
-      "t": "ועד הבית: ביום שני יבוא טכנאי מעליות בין 9 ל-12, המעלית לא תעבוד. סליחה על אי הנוחות",
+      "t": "אל על: הטיסה שלך LY315 ללונדון ביום ב' 23.11 יוצאת בזמן מטרמינל 3. הצ'ק-אין באפליקציה פתוח.",
       "e": "legit",
       "c": "il"
     },
     {
-      "t": "אמא תביאי בבקשה חלב ולחם בדרך הביתה, ותגידי לאבא שהמשחק של יונתן ב-5",
+      "t": "אבא אני כבר בדרך הביתה, אגיע בעוד חצי שעה. תשאיר לי אוכל 🙂",
       "e": "legit",
       "c": "il"
     },
     {
-      "t": "לקוח יקר, הגיע מועד בדיקת הרכב השנתית שלך. ניתן לקבוע תור במוסך הקרוב אליך. מוסך אוטו-דן",
-      "e": "legit",
-      "c": "il"
-    },
-    {
-      "t": "Chase: A $1,250.00 Zelle payment from JOHN SMITH was deposited to your account ending 8812. No action is needed.",
+      "t": "Your Amazon verification code is 553918. Don't share this code with anyone.",
       "e": "legit",
       "c": "us"
     },
     {
-      "t": "Your Amazon package with 2 items was delivered to your front door at 2:14 PM. Track at amazon.com/orders",
+      "t": "Chase: You received a Zelle payment of $45.00 from Jessica M. The money is available in your account. No action needed.",
       "e": "legit",
       "c": "us"
     },
     {
-      "t": "Reminder: your dental cleaning with Dr. Patel is on Mon Nov 23 at 9:00 AM. Please arrive 10 minutes early. Reply C to confirm.",
+      "t": "CVS Pharmacy: Your prescription is ready for pickup at 1420 Main St. Reply STOP to opt out.",
       "e": "legit",
       "c": "us"
     },
     {
-      "t": "Your Royal Mail parcel will be delivered today between 11:00 and 13:00. No need to be home, it fits through the letterbox.",
+      "t": "Royal Mail: We'll deliver your parcel today between 10:15 and 12:15. Track at royalmail.com.",
       "e": "legit",
       "c": "gb"
     },
     {
-      "t": "Hi love, landed safely at Heathrow, train home now. Pick me up at the station around 7? x",
+      "t": "Hi all, reminder that the school Christmas fair is on Saturday from 10am in the main hall. Volunteers please sign up at the office. Thanks, PTA",
       "e": "legit",
       "c": "gb"
     },
     {
-      "t": "Ihr DHL Paket wurde heute in der Packstation 142 abgelegt. Abholcode: 7731. Abholung bis 27.11. möglich.",
+      "t": "Ihr DHL Paket wird heute zugestellt. Voraussichtliches Zeitfenster: 13:30–15:30 Uhr.",
       "e": "legit",
       "c": "de"
     },
     {
-      "t": "Sparkasse: Ihr neuer Kontoauszug steht im Online-Banking-Postfach bereit.",
+      "t": "Sparkasse: Ihr Kontoauszug für November steht in Ihrem Online-Banking-Postfach bereit.",
       "e": "legit",
       "c": "de"
     },
     {
-      "t": "Tu código de verificación de WhatsApp es 731-204. No compartas este código con nadie.",
+      "t": "Recordatorio: tiene cita con su médico de cabecera el jueves 26/11 a las 9:20 en el Centro de Salud Delicias.",
       "e": "legit",
       "c": "es"
     },
     {
-      "t": "Rappel: votre rendez-vous chez le kinésithérapeute est confirmé le jeudi 26 novembre à 18h. Merci de prévenir en cas d'absence.",
+      "t": "Iberia: Tu tarjeta de embarque para el vuelo IB3166 Madrid–París está disponible en la app.",
+      "e": "legit",
+      "c": "es"
+    },
+    {
+      "t": "Votre code de confirmation Doctolib est 418230. Ne le communiquez à personne.",
       "e": "legit",
       "c": "fr"
     },
     {
-      "t": "تم خصم 120 درهم من بطاقتك المنتهية بـ 3391 لدى كارفور. إذا كانت العملية من قبلك فلا داعي لأي إجراء.",
+      "t": "مرحباً، تم تأكيد موعدك في عيادة الأسنان يوم الأحد الساعة 5 مساءً. للإلغاء يرجى الاتصال بنا.",
       "e": "legit",
       "c": "ae"
     },
     {
-      "t": "Ваш заказ №4471 собран и будет доставлен завтра с 10:00 до 14:00. Курьер позвонит заранее.",
+      "t": "Grab: Your driver Ahmad is arriving in 3 minutes in a white Proton Saga, plate WXY 2231.",
       "e": "legit",
-      "c": "ru"
+      "c": "my"
     },
     {
-      "t": "Your OTP for login to the IRCTC app is 552019. Valid for 5 minutes. Do not share it with anyone.",
-      "e": "legit",
-      "c": "in"
-    },
-    {
-      "t": "Hi team, Friday's meeting is moved to 3pm in room 4B. Bring the Q4 numbers please. Thanks, Sarah",
+      "t": "Telstra: Your bill of $79.00 will be paid by direct debit on 3 Dec. No action is required.",
       "e": "legit",
       "c": "au"
     },
     {
-      "t": "Pix recebido: R$ 85,00 de MARIA OLIVEIRA. O valor já está disponível na sua conta.",
+      "t": "Mom, I landed safely in Toronto. Going to grab my bags now, will call you from the hotel.",
       "e": "legit",
-      "c": "br"
+      "c": "ca"
     },
     {
-      "t": "תתקשר אליי דחוף",
+      "t": "Netflix: Your new sign-in from Chrome on Windows in Tel Aviv. If this was you, there's nothing you need to do.",
+      "e": "legit",
+      "c": "il"
+    },
+    {
+      "t": "תתקשר אליי דחוף כשאתה רואה",
       "e": "unclear",
       "c": "il"
     },
@@ -785,67 +793,67 @@
       "c": "il"
     },
     {
-      "t": "היי, מה שלומך? הרבה זמן לא דיברנו",
+      "t": "https://bit.ly/3xQ9tZ",
       "e": "unclear",
       "c": "il"
     },
     {
-      "t": "bit.ly/3xK9pQ2",
+      "t": "היי, זה עדיין המספר של רונית?",
       "e": "unclear",
       "c": "il"
     },
     {
-      "t": "ראית את זה? https://tinyurl.com/4mz8kd2v",
+      "t": "שלחתי לך את המסמכים, תבדוק",
       "e": "unclear",
       "c": "il"
     },
     {
-      "t": "who is this?",
+      "t": "קיבלת את מה ששלחתי?",
+      "e": "unclear",
+      "c": "il"
+    },
+    {
+      "t": "Hey, are you free to talk later?",
       "e": "unclear",
       "c": "us"
     },
     {
-      "t": "Hey, is this still your number?",
+      "t": "Who is this?",
       "e": "unclear",
       "c": "us"
     },
     {
-      "t": "Call me back when you can, it's important",
-      "e": "unclear",
-      "c": "us"
-    },
-    {
-      "t": "Hi, I think we met at the conference last week, is this Daniel?",
+      "t": "Call me back please, it's important",
       "e": "unclear",
       "c": "gb"
     },
     {
-      "t": "Hallo, bist du das?",
+      "t": "Is this still available?",
+      "e": "unclear",
+      "c": "us"
+    },
+    {
+      "t": "Hallo, wer ist da?",
       "e": "unclear",
       "c": "de"
     },
     {
-      "t": "Hola, ¿me puedes llamar?",
+      "t": "¿Quién eres?",
       "e": "unclear",
       "c": "es"
     },
     {
-      "t": "Coucou, tu es dispo ce soir ?",
+      "t": "Salut, tu as reçu mon message ?",
       "e": "unclear",
       "c": "fr"
     },
     {
-      "t": "مرحبا، من معي؟",
+      "t": "أهلاً، هل هذا رقمك الجديد؟",
       "e": "unclear",
       "c": "ae"
     },
     {
-      "t": "Привет, это ты?",
-      "e": "unclear",
-      "c": "ru"
-    },
-    {
-      "t": "https://t.co/Zx81LqP0",
+      "t": "Check this out 👉 tinyurl.com/4kz8w2p",
       "e": "unclear",
       "c": "us"
     }
