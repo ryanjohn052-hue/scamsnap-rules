@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-22T15:26",
+  "version": "2026-11-22T16:30",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -641,6 +641,11 @@
       "d": "2026-11-22",
       "c": "cn",
       "t": "Shiyan (Hubei) police: porn websites and apps (e.g. one called '91') install malware that drains linked bank cards and payment accounts"
+    },
+    {
+      "d": "2026-11-22",
+      "c": "eg",
+      "t": "Egyptian Electricity Holding Company: WhatsApp messages posing as the Ministry of Electricity or power companies offer fake jobs and interview slots, then ask for money transfers (placement/booking fees) and photos of ID documents"
     }
   ],
   "safePhrases": [
