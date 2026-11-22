@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-22T17:30",
+  "version": "2026-11-22T19:25",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -651,6 +651,11 @@
       "d": "2026-11-22",
       "c": "gb",
       "t": "North Wales Police: callers posing as police officers (calls appearing from an 0300 number) say a suspect is in custody and you must 'secure' your bank accounts or check crypto holdings, then send follow-up emails asking you to click links and verify account details"
+    },
+    {
+      "d": "2026-11-22",
+      "c": "ae",
+      "t": "Abu Dhabi Police: fake social-media ads for winter rentals or sales of motorbikes, rest houses and campsites ask for advance payment via booking/payment links and request card details, OTP or verification codes"
     }
   ],
   "safePhrases": [
