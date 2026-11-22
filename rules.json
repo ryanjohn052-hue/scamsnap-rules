@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-22T04:45",
+  "version": "2026-11-22T05:26",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -85,6 +85,11 @@
     "441933440333"
   ],
   "recent": [
+    {
+      "d": "2026-11-22",
+      "c": "cn",
+      "t": "Zeekr legal department: fake Zeekr recall SMS warns of a 'safety hazard' or warranty cancellation if not handled in time, links to a fake site asking for your phone number and SMS verification code, then a fake 'customer service' line"
+    },
     {
       "d": "2026-11-18",
       "c": "us",
