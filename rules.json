@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-22T11:05",
+  "version": "2026-11-22T14:30",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -626,6 +626,16 @@
       "d": "2026-11-22",
       "c": "gb",
       "t": "Nottinghamshire Police (BBC): WhatsApp messages and audio/video calls showing a bank or FCA logo say your account is compromised, ask you to share your screen and move money to a 'safe account', leading to courier fraud"
+    },
+    {
+      "d": "2026-11-22",
+      "c": "de",
+      "t": "Polizei Dillingen (Bavaria): calls from unknown numbers posing as Dillingen police report a made-up burglary in the neighbourhood, then ask about valuables and assets at home"
+    },
+    {
+      "d": "2026-11-22",
+      "c": "es",
+      "t": "Guardia Civil Albacete: social-media crypto 'investment opportunities' promise fast, low-risk high returns, show small early gains, then demand more money and block withdrawals"
     }
   ],
   "safePhrases": [
