@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-22T05:26",
+  "version": "2026-11-22T06:26",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -604,6 +604,11 @@
       "d": "2026-11-18",
       "c": "lb",
       "t": "Lebanon Internal Security Forces: mass SMS posing as the authority collecting speeding fines ask you to pay through a link"
+    },
+    {
+      "d": "2026-11-22",
+      "c": "th",
+      "t": "Thailand Department of Employment: social-media accounts posing as overseas recruitment agencies offer jobs abroad and demand advance placement fees or transfers before any verification"
     }
   ],
   "safePhrases": [
