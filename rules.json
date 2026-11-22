@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-22T00:35",
+  "version": "2026-11-22T01:35",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -558,6 +558,16 @@
       "d": "2026-11-21",
       "c": "us",
       "t": "Plumas-Sierra Telecommunications (California/Nevada ISP): phishing email titled 'Quick-Alert-Check-In Your PST' asks customers to click a link and confirm their account details"
+    },
+    {
+      "d": "2026-11-21",
+      "c": "us",
+      "t": "Jasper County (South Carolina) Sheriff's Office: callers say you missed jury duty, threaten arrest and demand payment over the phone, possibly in Bitcoin or crypto"
+    },
+    {
+      "d": "2026-11-21",
+      "c": "us",
+      "t": "Johnson County (Kentucky) Sheriff's Office: calls, voicemails and texts from people posing as sheriff's employees use intimidation to get personal and financial information"
     }
   ],
   "safePhrases": [
