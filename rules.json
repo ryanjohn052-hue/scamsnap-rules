@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-22T01:35",
+  "version": "2026-11-22T04:45",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -34,7 +34,8 @@
     "הובא לידיעתנו כי צפית",
     "official govt. link",
     "[black friday early access] luxury products starting from",
-    "quick-alert-check-in your pst"
+    "quick-alert-check-in your pst",
+    "得买黄金寄过去充值才能解封"
   ],
   "badHosts": [
     "platformbyfb.com",
@@ -568,6 +569,36 @@
       "d": "2026-11-21",
       "c": "us",
       "t": "Johnson County (Kentucky) Sheriff's Office: calls, voicemails and texts from people posing as sheriff's employees use intimidation to get personal and financial information"
+    },
+    {
+      "d": "2026-11-21",
+      "c": "cn",
+      "t": "Wuyi (Zhejiang) police: fake 'customer service' offers to refund a failed investment course, has you install an app, then says a wrong step froze the account and you must buy gold and mail it by express to unfreeze it"
+    },
+    {
+      "d": "2026-11-21",
+      "c": "dz",
+      "t": "Algeria (consumer group Himayatak): fake pages impersonating Naftal target Gold fuel-card holders and ask for card number, PIN and SMS codes via unofficial links; Naftal's only official platform is the Mahattati app"
+    },
+    {
+      "d": "2026-11-21",
+      "c": "de",
+      "t": "Vogelsberg district (Hesse) police: renewed wave of shock calls (a relative caused a serious accident and needs bail) and fake police calls about burglars nearby, asking for cash or valuables to be handed over"
+    },
+    {
+      "d": "2026-11-20",
+      "c": "us",
+      "t": "Hampden County (Massachusetts) Sheriff's Office: caller poses as a chief deputy with a made-up badge number and leaves a voicemail with a 413-area callback number to pressure victims"
+    },
+    {
+      "d": "2026-11-19",
+      "c": "eg",
+      "t": "UAE Embassy in Cairo: fraudulent calls and messages impersonate the embassy or its staff and ask for money transfers"
+    },
+    {
+      "d": "2026-11-18",
+      "c": "lb",
+      "t": "Lebanon Internal Security Forces: mass SMS posing as the authority collecting speeding fines ask you to pay through a link"
     }
   ],
   "safePhrases": [
