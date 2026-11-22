@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-22T20:26",
+  "version": "2026-11-22T23:35",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -671,6 +671,16 @@
       "d": "2026-11-22",
       "c": "us",
       "t": "Gettysburg (Pennsylvania) Borough Police: phone calls from people posing as law enforcement say you face arrest and demand a cash payment to avoid it"
+    },
+    {
+      "d": "2026-11-22",
+      "c": "gb",
+      "t": "Lloyds Bank (Black Friday): fake deals on social media, marketplaces and fake websites at far-below-market prices, with sellers pressing for fast bank-transfer payment for goods that never arrive"
+    },
+    {
+      "d": "2026-11-22",
+      "c": "tw",
+      "t": "Taiwan Criminal Investigation Bureau: Threads posts offer a 'free 2027 Mazu calendar' for a small shipping fee, move you to LINE and a fake Black Cat courier site, then fake customer service demands 'account verification' transfers and coaches you to hide it from police and family"
     }
   ],
   "safePhrases": [
