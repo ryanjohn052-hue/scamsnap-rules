@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-22T19:25",
+  "version": "2026-11-22T20:26",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -656,6 +656,16 @@
       "d": "2026-11-22",
       "c": "ae",
       "t": "Abu Dhabi Police: fake social-media ads for winter rentals or sales of motorbikes, rest houses and campsites ask for advance payment via booking/payment links and request card details, OTP or verification codes"
+    },
+    {
+      "d": "2026-11-22",
+      "c": "us",
+      "t": "Richland/Kennewick (Washington) police: callers pose as police offering relatives of arrested people a 'pre-trial' program paid via Chime barcodes, or as banks reporting fraud and telling you to cut your cards in half for a courier to collect"
+    },
+    {
+      "d": "2026-11-22",
+      "c": "co",
+      "t": "Colombia (Infobae): callers posing as EPS health-insurer advisers call about medical appointments, then ask older people to install an app and register their fingerprint, after which card balances are emptied"
     }
   ],
   "safePhrases": [
