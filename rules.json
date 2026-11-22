@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-21T23:35",
+  "version": "2026-11-22T00:35",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -33,7 +33,8 @@
     "on your mr price money account & you can win up to r500000",
     "הובא לידיעתנו כי צפית",
     "official govt. link",
-    "[black friday early access] luxury products starting from"
+    "[black friday early access] luxury products starting from",
+    "quick-alert-check-in your pst"
   ],
   "badHosts": [
     "platformbyfb.com",
@@ -552,6 +553,11 @@
       "d": "2026-11-21",
       "c": "cn",
       "t": "Shanghai police: SMS/email says a training course you signed up for 'can now be refunded', moves you to a chat app, charges a refund fee, claims funds are frozen and demands more money or new phones mailed to an address"
+    },
+    {
+      "d": "2026-11-21",
+      "c": "us",
+      "t": "Plumas-Sierra Telecommunications (California/Nevada ISP): phishing email titled 'Quick-Alert-Check-In Your PST' asks customers to click a link and confirm their account details"
     }
   ],
   "safePhrases": [
