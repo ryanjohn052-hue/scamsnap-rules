@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-22T09:23",
+  "version": "2026-11-22T09:30",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -612,6 +612,11 @@
       "d": "2026-11-22",
       "c": "th",
       "t": "Thailand Department of Employment: social-media accounts posing as overseas recruitment agencies offer jobs abroad and demand advance placement fees or transfers before any verification"
+    },
+    {
+      "d": "2026-11-22",
+      "c": "cn",
+      "t": "Shanghai Jiading police: fake futures/crude-oil trading platform pitched by 'teachers' in chat groups promises an 80%+ win rate with only a 10,000-yuan margin, has you scan a QR code to install its app and deposit into personal bank accounts"
     }
   ],
   "safePhrases": [
