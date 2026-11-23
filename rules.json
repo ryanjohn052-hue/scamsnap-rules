@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-23T00:35",
+  "version": "2026-11-23T02:35",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -40,7 +40,8 @@
     "if this was not you reply back no",
     "הובא לידיעתנו כי צפית בחומרים",
     "wa login lahmgelegt",
-    "msf outage notification"
+    "msf outage notification",
+    "還付金（¥48,200）の手続きが未完了となっております"
   ],
   "badHosts": [
     "platformbyfb.com",
@@ -686,6 +687,11 @@
       "d": "2026-11-22",
       "c": "us",
       "t": "Gilmer County (Georgia) Sheriff's Office: fake social-media fundraisers for the Eagle Mountain Campground fire impersonate local groups and a church, reuse real fire photos and ask for donations to unfamiliar accounts or via suspicious links"
+    },
+    {
+      "d": "2026-11-23",
+      "c": "jp",
+      "t": "Japan (e-Tax/National Tax Agency lure): email from 'e-Tax' titled 'urgent: refund procedure incomplete' says a ¥48,200 tax refund will be lost unless you click 'check now', leading to a phishing page hosted on Amazon S3"
     }
   ],
   "safePhrases": [
