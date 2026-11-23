@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-23T15:30",
+  "version": "2026-11-23T16:30",
   "words": {
     "ORGS": [
       "abn amro",
@@ -1060,6 +1060,21 @@
       "d": "2026-11-23",
       "c": "us",
       "t": "FedEx lookalike voicemails/texts ('Hello, this is a delivery notification') say a package is on hold or the address is wrong and push you to fedexfhk.com before November 24 to 'verify' delivery details, then ask for a small holding fee with card details"
+    },
+    {
+      "d": "2026-11-23",
+      "c": "us",
+      "t": "Brookville (Ohio) Police: calls spoofing the police department's real phone number in caller ID ask residents for passwords, PINs and login credentials"
+    },
+    {
+      "d": "2026-11-23",
+      "c": "us",
+      "t": "Tennessee Bureau of Investigation: fake hostage calls, sometimes from a familiar or saved contact number, claim a loved one is being held and demand ransom via Venmo, Cash App or Green Dot cards"
+    },
+    {
+      "d": "2026-11-23",
+      "c": "co",
+      "t": "Fedemunicipios (Colombia): SMS/WhatsApp messages using SIMIT and transit-secretariat names and logos claim pending traffic fines and link to fake sites asking for passwords, verification codes, bank data or immediate payment"
     }
   ],
   "safePhrases": [
