@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-23T02:35",
+  "version": "2026-11-23T03:35",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -41,7 +41,9 @@
     "הובא לידיעתנו כי צפית בחומרים",
     "wa login lahmgelegt",
     "msf outage notification",
-    "還付金（¥48,200）の手続きが未完了となっております"
+    "還付金（¥48,200）の手続きが未完了となっております",
+    "利用情報のご確認が取れなかったため、7,240マイルの自動加算が保留されています",
+    "富山県警です、富山で起きた事件に関与していた心あたりはないでしょうか"
   ],
   "badHosts": [
     "platformbyfb.com",
@@ -80,7 +82,8 @@
     "dmvqh.com",
     "aikyaemerging.com",
     "outagefixed.sbs",
-    "outagerestored.sbs"
+    "outagerestored.sbs",
+    "dgfxmqj.com"
   ],
   "shorteners": [],
   "badPhones": [
@@ -692,6 +695,16 @@
       "d": "2026-11-23",
       "c": "jp",
       "t": "Japan (e-Tax/National Tax Agency lure): email from 'e-Tax' titled 'urgent: refund procedure incomplete' says a ¥48,200 tax refund will be lost unless you click 'check now', leading to a phishing page hosted on Amazon S3"
+    },
+    {
+      "d": "2026-11-23",
+      "c": "jp",
+      "t": "ANA Mileage Club lookalike email 'マイル加算申請フォームのご案内' says 7,240 miles are on hold and must be claimed within 3 days, links to a fake AMC login page to steal account credentials"
+    },
+    {
+      "d": "2026-11-23",
+      "c": "jp",
+      "t": "Phone calls posing as Toyama Prefectural Police and Rakuten Card ask if you were involved in an incident in Toyama or read out your name, birth date and address to 'confirm' them, leading to transfer fraud"
     }
   ],
   "safePhrases": [
