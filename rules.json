@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-23T09:23",
+  "version": "2026-11-23T09:26",
   "words": {
     "ORGS": [
       "postnord",
@@ -736,6 +736,11 @@
       "d": "2026-11-23",
       "c": "jp",
       "t": "Phone calls posing as Toyama Prefectural Police and Rakuten Card ask if you were involved in an incident in Toyama or read out your name, birth date and address to 'confirm' them, leading to transfer fraud"
+    },
+    {
+      "d": "2026-11-23",
+      "c": "au",
+      "t": "ASIC: emails (some using a real ASIC staff member's name and email footer) and calls offer to recover money lost to investment/crypto scams for an upfront fee, and ask for personal documents or bank details via encrypted apps"
     }
   ],
   "safePhrases": [
