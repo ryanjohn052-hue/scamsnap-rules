@@ -1,10 +1,170 @@
 {
   "v": 1,
-  "version": "2026-11-23T10:26",
+  "version": "2026-11-23T08:42",
   "words": {
     "ORGS": [
+      "abn amro",
+      "airtel",
+      "ameli",
+      "an post",
+      "antai",
+      "anz bank",
+      "apple id",
+      "aramex",
+      "auspost",
+      "axis bank",
+      "banamex",
+      "banco de chile",
+      "banco do brasil",
+      "bancoestado",
+      "bancolombia",
+      "bancomer",
+      "bancoposte",
+      "bank of america",
+      "bankinter",
+      "banorte",
+      "banreservas",
+      "barclays",
+      "bbva",
+      "belfius",
+      "binance",
+      "bnp paribas",
+      "boursorama",
+      "bpost",
+      "bradesco",
+      "caisse d'epargne",
+      "caixa econômica",
+      "caixabank",
+      "caja rural",
+      "cajamar",
+      "canada post",
+      "canada revenue",
+      "capitec",
+      "cash app",
+      "chase bank",
+      "chilexpress",
+      "china post",
+      "citibank",
+      "coinbase",
+      "colissimo",
+      "comdirect",
+      "commerzbank",
+      "commonwealth bank",
+      "correios",
+      "correos",
+      "correos express",
+      "credit agricole",
+      "credit mutuel",
+      "crédit agricole",
+      "crédit mutuel",
+      "davivienda",
+      "desjardins",
+      "deutsche bank",
+      "dgfip",
+      "dhl express",
+      "easybanking",
+      "emirates post",
+      "eskom",
+      "estafeta",
+      "facebook security",
+      "gcash",
+      "google account",
+      "halifax",
+      "hdfc bank",
+      "hermes",
+      "hsbc",
+      "ibercaja",
+      "icloud",
+      "india post",
+      "ing-diba",
+      "inpost",
+      "instagram support",
+      "interbank",
+      "intesa sanpaolo",
+      "itaú",
+      "j&t express",
+      "japan post",
+      "kotak",
+      "kutxabank",
+      "la banque postale",
+      "linkt",
+      "lloyds",
+      "m-pesa",
+      "maybank",
+      "mediolanum",
+      "mercado pago",
+      "meta business",
+      "metamask",
+      "microsoft account",
+      "mondial relay",
+      "monzo",
+      "mpesa",
+      "mygov",
+      "nacex",
+      "natwest",
+      "nedbank",
+      "nsfas",
+      "nubank",
+      "nz post",
+      "office 365",
+      "omniva",
+      "optus",
+      "outlook team",
+      "parcelforce",
+      "paytm",
+      "poczta polska",
+      "pos indonesia",
+      "pos malaysia",
+      "post.ch",
+      "postbank",
+      "poste suisse",
+      "postepay",
+      "postnl",
       "postnord",
-      "gcash"
+      "proximus",
+      "purolator",
+      "qatar post",
+      "rabobank",
+      "rbc royal",
+      "revolut",
+      "sabadell",
+      "safaricom",
+      "sagawa",
+      "santander",
+      "santander uk",
+      "sbi card",
+      "scotiabank",
+      "sedex",
+      "service canada",
+      "sicredi",
+      "singpost",
+      "smsa",
+      "sns bank",
+      "societe generale",
+      "société générale",
+      "sparkasse",
+      "speed post",
+      "standard chartered",
+      "state bank of india",
+      "swisscom",
+      "td bank",
+      "telkomsel",
+      "telstra",
+      "tng ewallet",
+      "toll ipec",
+      "touch n go",
+      "unicaja",
+      "unicredit",
+      "ups store",
+      "venmo",
+      "volksbank",
+      "wells fargo",
+      "westpac",
+      "whatsapp support",
+      "yamato",
+      "yes bank",
+      "yodel",
+      "österreichische post"
     ],
     "PAYMENT": [
       "regularize",
@@ -64,7 +224,107 @@
     "あなたの情報がダークウェブで見つかりました",
     "お客様のパスワード流出が確認されました",
     "bloqueado por falta de atualização cadastral",
-    "ilagay ang iyong gcash mpin"
+    "ilagay ang iyong gcash mpin",
+    "dvla swansea have been trying to contact you",
+    "have been trying to contact you click below",
+    "will hold your paytm amount",
+    "complete your paytm kyc",
+    "your paytm kyc",
+    "paytm office ph",
+    "kindly redeem your points",
+    "redeem your points in cash",
+    "kindly convert your points",
+    "convert your points into cash",
+    "your points into cash by click",
+    "points in cash by click here",
+    "card points worth rs",
+    "card points worth inr",
+    "points worth rs",
+    "cash or voucher by click here",
+    "kyc is pending please call",
+    "verification is pending please call our customer",
+    "document verification is pending please call",
+    "sim verification is pending",
+    "a withdrawal has been requested from an unknown",
+    "requested from an unknown ip address",
+    "with the risk of losing assets",
+    "your registered mobile number needs to be",
+    "electricity power will be disconnected",
+    "your electricity will be disconnected",
+    "here's a little gift for you",
+    "activar el nuevo sistema de seguridad",
+    "nuevo sistema de seguridad web",
+    "tienes que activar el nuevo sistema",
+    "tiene que activar el nuevo sistema",
+    "hasta que actualice el nuevo sistema",
+    "temporalmente por razones de seguridad",
+    "temporalmente por motivos de seguridad",
+    "seguridad para reactivarla",
+    "para reactivarla actualice",
+    "seguridad para activarla puede acceder",
+    "para activarla puede acceder de forma segura",
+    "no podra utilizar su cuenta",
+    "no podra utilizar su tarjeta",
+    "no se han pagado las tasas de aduana",
+    "aranceles aduaneros. siga estas instrucciones",
+    "falta un numero de calle en el paquete",
+    "si no ha sido usted siga los pasos",
+    "siga los pasos en este enlace para cancelar",
+    "lamentamos informarle que su cuenta ha sido",
+    "intento de acceso sospechoso en su cuenta",
+    "ha resultado favorable para usted. pulse",
+    "pulse aquí para recibir la devolución",
+    "el resultado de su ejercicio anterior ha resultado favorable",
+    "el bono oficial de 200€",
+    "uw huidige betaalpas vervalt",
+    "betaalpas vervalt voor gebruik",
+    "vraag nu de vernieuwde betaalpas",
+    "de vernieuwde betaalpas gratis",
+    "vraag uw nieuwe betaalpas geheel gratis",
+    "vraag uw nieuwe bankpas geheel gratis",
+    "geheel gratis aan en voorkom blokkade",
+    "gratis aan en voorkom blokkade",
+    "en voorkom blokkade via",
+    "en voorkom blokkering van uw bankrekening",
+    "voorkom blokkade en vraag gratis",
+    "uw betaalpas is over 2 dagen",
+    "uw betaalpas is verloopt",
+    "te bevestigen om blokkade te voorkomen",
+    "rekening in de 'quarantaine zone'",
+    "u dient uw apparaat voor",
+    "de inlog van uw easybanking verloopt",
+    "in om uw toegang te verlengen en voorkom blokkade",
+    "vraag nu kosteloos aan via",
+    "bankkaart te blokkeren. verifieer jezelf",
+    "rabobank alert: is verouderd",
+    "veuillez la récupérer sous peine de contravention",
+    "sous peine de contravention",
+    "n'était pas muni de la vignette",
+    "pas muni de la vignette réglementaire",
+    "vignette réglementaire crit'air",
+    "mais il n'y a aucun affranchissement",
+    "aucun affranchissement. suivez les instructions",
+    "votre nouvelle carte vitale est disponible",
+    "nous avons déterminé que vous recevrez un remboursement",
+    "veuillez remplir votre formulaire de remboursement",
+    "remplir le formulaire de remboursement suivant",
+    "formulaire de remboursement et confirmez-le",
+    "après la dernière vérification de votre dossier d'assurance maladie",
+    "bénéficiez d'une aide de 1500€ du fonds de solidarité",
+    "veuillez le vérifier et le recevoir",
+    "bitte überprüfen und akzeptieren sie es",
+    "bitte verlängern sie ihre legitimation",
+    "sie müssen noch einen betrag von",
+    "und erhalten sie den betrag per",
+    "è stato trattenuto presso il nostro centro",
+    "e stato trattenuto presso il nostro centro",
+    "presso il nostro centro di spedizione. istruzioni",
+    "risulta associata ad un nuovo dispositivo",
+    "se non sei tu bloccalo",
+    "per seguire la procedura di sblocco",
+    "è stata richiesta un'autorizzazione di spesa",
+    "gli indirizzi e-mail non confermati rimarranno inattivi",
+    "telah kredit ke tng ewallet anda"
   ],
   "badHosts": [
     "platformbyfb.com",
@@ -758,184 +1018,204 @@
   ],
   "qa": [
     {
-      "t": "BBVA: Hemos detectado un acceso no autorizado a su cuenta desde un dispositivo nuevo. Si no ha sido usted, verifique de inmediato: bbva-seguridad-acceso.com",
+      "t": "Your parcel is being held at our depot due to an unpaid £2.70 shipping fee.\n\nPlease pay the fees before 12/05, 12/05 otherwise the parcel will be returned.",
       "e": "scam",
-      "c": "es"
+      "c": "world"
     },
     {
-      "t": "This is Officer Daniels with the RCMP. Your SIN has been linked to money laundering and your bank accounts will be frozen today. Do not hang up and do not tell anyone, press 1 to speak to an investigator.",
+      "t": "- Purchase Made: $100.00 charged for concert tickets via ppal. Need help? Call 07700900123. (i/d-4794ASWQQ)",
       "e": "scam",
-      "c": "ca"
+      "c": "world"
     },
     {
-      "t": "Federal Trade Commission: Your identity was used to open fraudulent accounts. To protect your savings you must move them to a secure government account. Call our fraud desk now and visit FTC-help.com",
+      "t": " pedido  flotilla y queremos  opinion , : https://bit.ly/a7Kx2",
       "e": "scam",
-      "c": "us"
+      "c": "world"
     },
     {
-      "t": "Social Security Administration: Your 2027 COLA increase cannot be applied until you verify your benefits. Confirm your SSN here to avoid suspension: ssa-cola-verify.com",
+      "t": "Post Office: You missed your package 12/05 at 12/05. Please reschedule your delivery via: https://secure-notice.net/a7Kx2",
       "e": "scam",
-      "c": "us"
+      "c": "world"
     },
     {
-      "t": "USPS: Your package could not be delivered due to an unpaid $1.25 redelivery fee. Pay within 12 hours or it will be returned: usps-redeliver-help.com",
+      "t": "Dear Consumer\nYour Electricity power will be disconnected 12/05 at 9.30_pm from Electricity office because your 12/05 bill was not update please contact immediately with our Electricity officer at https://secure-notice.net/a7Kx2ank you",
       "e": "scam",
-      "c": "us"
+      "c": "world"
     },
     {
-      "t": "PostNord: Ditt paket väntar. Betala tullavgift 29 kr för att få det levererat: postnord-se-avgift.com",
+      "t": "Dear Customers, Govermet Service Center Reserve Bank ATM Customers Are Used To Inform All Bank Account Holder O Renewal In Your Own Account To Make 12/05 Bike If You Do No Account Renewal O So The Reserve Bank Head Branch From Your Account Will Be Closed Within 12/05 Helpline Contact No.07700900123",
       "e": "scam",
-      "c": "se"
+      "c": "world"
     },
     {
-      "t": "DHL: Ihre Sendung wird aufgehalten. Bitte bestätigen Sie die Zustellung und zahlen Sie 2,49 € Gebühren: dhl-zustellung-de.info",
+      "t": " plan  y  gratuitas. Informacion de tu consumo en https://secure-notice.net/a7Kx2",
       "e": "scam",
-      "c": "de"
+      "c": "world"
     },
     {
-      "t": "Ameli: Votre carte Vitale arrive à expiration. Commandez la nouvelle carte (frais 1,49 €) avant le 30/11: ameli-renouvellement.fr-carte.com",
+      "t": "Your Benefits Pay CPR is in suspension mode due to illegal payment received in your account kindly modify your account here https://secure-notice.net/a7Kx2",
       "e": "scam",
-      "c": "fr"
+      "c": "world"
     },
     {
-      "t": "HMRC: You are due a tax refund of £326.18. Claim it before midnight or it will be cancelled: hmrc-refund-claim.uk.com",
+      "t": "Hi  confirm your credentials 12/05 otherwise your order will be returned to the sender",
       "e": "scam",
-      "c": "gb"
+      "c": "world"
     },
     {
-      "t": "e-Tax【至急】還付金のお手続きが未完了です。期限までにお手続きがない場合は失効します。今すぐ確認：etax-kanpu.s3.amazonaws.com",
+      "t": "Your ******** Online-Account has been locked due to failed login attempts. Tap on https://secure-notice.net/a7Kx2 to reinstate and update your profile. Ref: 33476",
       "e": "scam",
-      "c": "jp"
+      "c": "world"
     },
     {
-      "t": "【緊急】Amazonプライム会員の更新に失敗しました。24時間以内にお支払い方法を更新してください: amazon-jp-update.top",
+      "t": "Dear Customer your S.B.I –ing Account will be suspended. 12/05 please Update your PAN Card visit the link https://rebrand.ly/a7Kx2",
       "e": "scam",
-      "c": "jp"
+      "c": "world"
     },
     {
-      "t": "【免費索取】2027媽祖年曆限量贈送，只需支付運費60元，請加LINE客服完成登記",
+      "t": "We attempted to deliver your package at 12/05 on 12/05, 12/05 but no one was available.\n\nYour parcel was returned to our depot and you need to reschedule your package delivery.\n\nPlease reschedule your package delivery by pressing here https://secure-notice.net/a7Kx2",
       "e": "scam",
-      "c": "tw"
+      "c": "world"
     },
     {
-      "t": "Gilmer County fire relief: our church is collecting for families who lost everything in the Eagle Mountain fire. Please donate via Cash App $EagleMtnRelief24 today, every dollar counts!",
+      "t": "Dear Customer your SBI bank account has been suspended for KYC Please Complete your KYC 10 min click here link https://secure-notice.net/a7Kx2",
       "e": "scam",
-      "c": "us"
+      "c": "world"
     },
     {
-      "t": "Hi, I'm Lisa from the crypto team. Our VIP members made 340% this month on our AI trading platform. Minimum deposit only $250, guaranteed returns. Join the WhatsApp group: wa.me/447700900123",
+      "t": "Nos agents ont constaté que votre véhicule n'était pas muni de la vignette réglementaire Crit'Air 2023. Veuillez la récupérer sous peine de contravention dans les prochaines 12/05. Sur le -joint :",
       "e": "scam",
-      "c": "gb"
+      "c": "world"
     },
     {
-      "t": "Pagkatapos ng verification, matatanggap mo ang ₱5,000 ayuda mula sa DSWD. I-click ang link at ilagay ang iyong GCash MPIN: dswd-ayuda-claim.com",
+      "t": "Mensaje 1/1 de RAMON ROMAN -016: CAIXABANK: Compra aceptada por importe de 986.45 EUR. Si no ha sido usted siga los pasos en este enlace para cancelarla:https://is.gd/a7Kx2",
       "e": "scam",
-      "c": "ph"
+      "c": "world"
     },
     {
-      "t": "Вітаємо! Ви отримали соціальну виплату 6500 грн від держави. Для отримання введіть дані картки: viplata-gov-ua.site",
+      "t": "500% EXTRA TALKTIME when you load with *555*REC HARGE-PIN#. Enjoy",
       "e": "scam",
-      "c": "ua"
+      "c": "world"
     },
     {
-      "t": "Szanowny Kliencie, Twoja paczka InPost oczekuje na dopłatę 1,20 zł. Bez dopłaty przesyłka zostanie zwrócona: inpost-doplata.pl-pay.com",
+      "t": " läuft am 9 mai ab. Bitte verlängern Sie ihre Legitimitation unter:https://secure-notice.net/a7Kx2ine",
       "e": "scam",
-      "c": "pl"
+      "c": "world"
     },
     {
-      "t": "Reminder from Dr. Patel's dental office: your cleaning is Tue Nov 24 at 3:15pm. Reply C to confirm or call the office to reschedule.",
+      "t": "Alert! Your new Mobile No. XXXXXXXXXX9199 is updated in HDFC Bank Cust ID 12/05 on 12/05. To chat with us on WhatsApp, click https://secure-notice.net/a7Kx2",
+      "e": "scam",
+      "c": "world"
+    },
+    {
+      "t": "Tracking Number-UK951490118\nSorry To Let You Know That Your Package Which Arrived On 12/05 Will Be Sent Back: https://secure-notice.net/a7Kx2",
+      "e": "scam",
+      "c": "world"
+    },
+    {
+      "t": "Dear  Your office Return has yet to be filed and needs it urgent attention. Respond https://t.ly/a7Kx2 with work email to act as stated on the Page.",
+      "e": "scam",
+      "c": "world"
+    },
+    {
+      "t": "IRS FRAUD: As an increased security and fraud protection your IRS account has been put on hold as we noticed a few unusual transactions. Verify now at\n\nhttps://secure-notice.net/a7Kx2\n\nwith idme to prevent permanent account closure",
+      "e": "scam",
+      "c": "world"
+    },
+    {
+      "t": "Proximus: Votre facture est PAYEE 2 fois par erreur, rendez-vous sur",
+      "e": "scam",
+      "c": "world"
+    },
+    {
+      "t": "Dear Customer your SBI YONO NETBANKING Account https://secure-notice.net/a7Kx2 update your PAN card KYC immediately click the link https://secure-notice.net/a7Kx2",
+      "e": "scam",
+      "c": "world"
+    },
+    {
+      "t": "ßancolomßia informa compra realizada en Alkosto por 12/05. Si no realizaste la compra reversa el pago aqui https://secure-notice.net/a7Kx2",
+      "e": "scam",
+      "c": "world"
+    },
+    {
+      "t": "Se ha realizado un cargo de 2997.97 EUR en su cuenta. Si no reconoce este pago verifique inmediatamente: https://secure-notice.net/a7Kx2  ha realizado un cargo de 2957.99 EUR en su cuenta. Si no reconoce este pago verifique inmediatamente: https://secure-notice.net/a7Kx2",
+      "e": "scam",
+      "c": "world"
+    },
+    {
+      "t": "Your [REDACTED] Online-Account has been locked due to failed login attempts. Tap on https://secure-notice.net/a7Kx2 to reinstate and update your profile. Ref: 33476",
+      "e": "scam",
+      "c": "world"
+    },
+    {
+      "t": " is uit veiligheidsoverwegingen in beperking gesteld. Los het op door uw Mobiel Banken app bij te werken via: http://",
+      "e": "scam",
+      "c": "world"
+    },
+    {
+      "t": "URGENTE AGENCIA TRIBUTARIA: El resultado de su ejercicio anterior ha resultado favorable para usted. Pulse aquí para recibir la devolución de 17844€ más el bono oficial de 200€ inmediatamente antes del día Gracias.",
+      "e": "scam",
+      "c": "world"
+    },
+    {
+      "t": "Ok both our days. So what are you making for dinner tonite? Am I invited?",
       "e": "legit",
-      "c": "us"
+      "c": "world"
     },
     {
-      "t": "Royal Mail: We delivered your parcel today at 11:42 and left it in your safe place (porch).",
+      "t": "Havent still waitin as usual... Ü come back sch oredi?",
       "e": "legit",
-      "c": "gb"
+      "c": "world"
     },
     {
-      "t": "Tu código de verificación de WhatsApp: 381-552. No compartas este código con nadie.",
+      "t": "It so happens that there r 2waxsto do wat you want. She can come and ill get her medical insurance. And she'll be able to deliver and have basic care. I'm currently shopping for the right medical insurance for her. So just give me til friday morning. Thats when i.ll see the major person that can guide me to the right insurance.",
       "e": "legit",
-      "c": "es"
+      "c": "world"
     },
     {
-      "t": "Mercado Pago: Recibiste $12.500 de Juan Pérez. Ya está disponible en tu cuenta.",
+      "t": "You got job in wipro:)you will get every thing in life in 2 or 3 years.",
       "e": "legit",
-      "c": "ar"
+      "c": "world"
     },
     {
-      "t": "Votre colis Colissimo n° 6A1234567890 sera livré demain entre 9h et 13h. Suivi sur l'application La Poste.",
+      "t": "She ran off with a younger man. we will make pretty babies together :)",
       "e": "legit",
-      "c": "fr"
+      "c": "world"
     },
     {
-      "t": "Ihre Rechnung der Stadtwerke für November ist im Kundenportal verfügbar. Der Betrag von 84,30 € wird am 01.12. per Lastschrift eingezogen.",
+      "t": "* Will have two more cartons off u and is very pleased with shelves",
       "e": "legit",
-      "c": "de"
+      "c": "world"
     },
     {
-      "t": "Você recebeu uma transferência Pix de R$ 45,00 de Carlos Lima. O dinheiro já está na sua conta Nubank.",
+      "t": "Were trying to find a Chinese food place around here",
       "e": "legit",
-      "c": "br"
+      "c": "world"
     },
     {
-      "t": "تذكير من عيادة الأسنان: موعدك يوم الأربعاء الساعة 5 مساءً. للإلغاء يرجى الاتصال بالعيادة.",
+      "t": "\"Response\" is one of d powerful weapon 2 occupy a place in others 'HEART'... So, always give response 2 who cares 4 U\"... Gud night..swt dreams..take care",
       "e": "legit",
-      "c": "ae"
+      "c": "world"
     },
     {
-      "t": "رمز التحقق الخاص بك لتطبيق أبشر هو 5821. لا تشارك هذا الرمز مع أي شخص.",
-      "e": "legit",
-      "c": "sa"
-    },
-    {
-      "t": "Мама, я доехала, всё хорошо. Позвоню вечером, целую",
-      "e": "legit",
-      "c": "ru"
-    },
-    {
-      "t": "ヤマト運輸です。お荷物は本日18時～20時にお届け予定です。ご不在の場合は不在票を投函します。",
-      "e": "legit",
-      "c": "jp"
-    },
-    {
-      "t": "Hey, are we still on for dinner Saturday at 7? I booked the Italian place on Main St.",
-      "e": "legit",
-      "c": "us"
-    },
-    {
-      "t": "Check this out https://tinyurl.com/4pkm9x2v",
+      "t": "Call me back asap",
       "e": "unclear",
-      "c": "us"
+      "c": "world"
     },
     {
-      "t": "Hola, ¿quién eres? Tengo tu número guardado sin nombre",
+      "t": "https://bit.ly/3kQ9x2",
       "e": "unclear",
-      "c": "es"
+      "c": "world"
     },
     {
-      "t": "Bonjour, c'est bien vous qui avez appelé ce matin ?",
+      "t": "who is this?",
       "e": "unclear",
-      "c": "fr"
+      "c": "world"
     },
     {
-      "t": "مرحبا، هل هذا رقمك الجديد؟",
+      "t": "Hi, are you free later?",
       "e": "unclear",
-      "c": "sa"
-    },
-    {
-      "t": "Oi, tudo bem? Preciso falar com você",
-      "e": "unclear",
-      "c": "br"
-    },
-    {
-      "t": "Your request has been received. Reference 88213.",
-      "e": "unclear",
-      "c": "us"
-    },
-    {
-      "t": "Hallo, ich habe eine Frage zu deiner Anzeige",
-      "e": "unclear",
-      "c": "de"
+      "c": "world"
     }
   ]
 }
