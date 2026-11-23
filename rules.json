@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-23T13:30",
+  "version": "2026-11-23T14:35",
   "words": {
     "ORGS": [
       "abn amro",
@@ -364,7 +364,9 @@
     "aikyaemerging.com",
     "outagefixed.sbs",
     "outagerestored.sbs",
-    "dgfxmqj.com"
+    "dgfxmqj.com",
+    "personendaten-online-aktualisieren.de",
+    "meine-daten-verifizieren.de"
   ],
   "shorteners": [],
   "badPhones": [
@@ -1036,6 +1038,21 @@
       "d": "2026-11-23",
       "c": "es",
       "t": "Guardia Civil Zamora: WhatsApp accounts taken over without any link or code (older iOS/WhatsApp versions); scammers write from the victim's real number to contacts asking for urgent money by bank transfer or Bizum"
+    },
+    {
+      "d": "2026-11-23",
+      "c": "world",
+      "t": "Booking.com guests (Infobae/Tourinews): WhatsApp Business accounts with a +1 prefix quote real reservation details (name, dates, property, reference) and say the stay must be 'verified' within 24 hours or be cancelled, linking to fake pages that steal card data"
+    },
+    {
+      "d": "2026-11-23",
+      "c": "de",
+      "t": "Verbraucherzentrale: emails from 'VR eG' posing as Volksbanken/Raiffeisenbanken demand a 'security check' by 23 November or a TAN update within 48 hours citing the ZAG law, threatening account lock, and link to a fake banking login"
+    },
+    {
+      "d": "2026-11-23",
+      "c": "cl",
+      "t": "PDI Chile: WhatsApp messages and calls from unknown numbers use AI-cloned voices of children, relatives or bosses describing an emergency and ask for urgent money transfers"
     }
   ],
   "safePhrases": [
