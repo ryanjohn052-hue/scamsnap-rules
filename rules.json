@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-23T03:35",
+  "version": "2026-11-23T05:35",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -43,7 +43,9 @@
     "msf outage notification",
     "還付金（¥48,200）の手続きが未完了となっております",
     "利用情報のご確認が取れなかったため、7,240マイルの自動加算が保留されています",
-    "富山県警です、富山で起きた事件に関与していた心あたりはないでしょうか"
+    "富山県警です、富山で起きた事件に関与していた心あたりはないでしょうか",
+    "あなたの情報がダークウェブで見つかりました",
+    "お客様のパスワード流出が確認されました"
   ],
   "badHosts": [
     "platformbyfb.com",
@@ -96,6 +98,16 @@
     "441933440333"
   ],
   "recent": [
+    {
+      "d": "2026-11-23",
+      "c": "cn",
+      "t": "Wuhan Jiang'an police: fake online investment platform promising 'guaranteed' high returns says your account must be 'activated' to unlock investment rights, and has you withdraw cash and hand it to a courier in person"
+    },
+    {
+      "d": "2026-11-23",
+      "c": "jp",
+      "t": "Rakuten Securities data-leak follow-on scams: emails/SMS posing as Rakuten Securities or other Rakuten brands offer leak 'compensation', say your data was found on the dark web or passwords leaked, or pitch class-action fees, linking to fake login pages (Rakuten sends no URLs by email)"
+    },
     {
       "d": "2026-11-22",
       "c": "cn",
