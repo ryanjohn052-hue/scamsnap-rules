@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-23T21:27",
+  "version": "2026-11-23T23:26",
   "words": {
     "ORGS": [
       "abn amro",
@@ -1100,6 +1100,11 @@
       "d": "2026-11-23",
       "c": "gb",
       "t": "Nottinghamshire Police: unsolicited WhatsApp messages, voice or video calls showing an FCA or bank logo say your account is compromised and money must go to a 'safe account', ask you to share your phone screen, then send a courier (sometimes an Uber taxi) to collect bank cards, PINs, cash or valuables"
+    },
+    {
+      "d": "2026-11-23",
+      "c": "us",
+      "t": "Kent County (Delaware) Levy Court: calls spoofing the Sheriff's Office and Finance Office numbers, from a 'deputy' using a real deputy's surname, say you missed federal jury duty and a warrant is out, then demand payment via crypto ATMs"
     }
   ],
   "safePhrases": [
