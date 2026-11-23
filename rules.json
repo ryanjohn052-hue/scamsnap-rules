@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-23T18:25",
+  "version": "2026-11-23T20:40",
   "words": {
     "ORGS": [
       "abn amro",
@@ -1090,6 +1090,11 @@
       "d": "2026-11-23",
       "c": "de",
       "t": "Mittelhessen police (Giessen): shock calls lasting hours from fake doctors, prosecutors or police officers ask for money or valuables, bank and card data, PayPal logins or a transfer"
+    },
+    {
+      "d": "2026-11-23",
+      "c": "in",
+      "t": "Greater Noida cyber police: sponsored Facebook/Instagram ads using mobile-operator logos promise a full year of recharge for Rs 399, then ask for your number, payment, bank details, OTP or UPI PIN"
     }
   ],
   "safePhrases": [
