@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-23T17:30",
+  "version": "2026-11-23T18:25",
   "words": {
     "ORGS": [
       "abn amro",
@@ -1080,6 +1080,16 @@
       "d": "2026-11-23",
       "c": "ca",
       "t": "Manitoba RCMP (Minnedosa): spoofed calls posing as a delivery service, the bank, the Canadian Anti-Fraud Centre and RCMP report a suspicious purchase, then send you to an 'identity verification machine' (a bitcoin ATM) to scan a barcode and deposit cash"
+    },
+    {
+      "d": "2026-11-23",
+      "c": "at",
+      "t": "Vorarlberg police (new wave): callers posing as police or detectives claim burglaries in your neighbourhood, ask what cash and valuables you have, then fake officers come to the door to collect cash and jewellery 'for safekeeping'"
+    },
+    {
+      "d": "2026-11-23",
+      "c": "de",
+      "t": "Mittelhessen police (Giessen): shock calls lasting hours from fake doctors, prosecutors or police officers ask for money or valuables, bank and card data, PayPal logins or a transfer"
     }
   ],
   "safePhrases": [
