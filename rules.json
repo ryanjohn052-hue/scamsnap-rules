@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-23T20:40",
+  "version": "2026-11-23T21:27",
   "words": {
     "ORGS": [
       "abn amro",
@@ -1095,6 +1095,11 @@
       "d": "2026-11-23",
       "c": "in",
       "t": "Greater Noida cyber police: sponsored Facebook/Instagram ads using mobile-operator logos promise a full year of recharge for Rs 399, then ask for your number, payment, bank details, OTP or UPI PIN"
+    },
+    {
+      "d": "2026-11-23",
+      "c": "gb",
+      "t": "Nottinghamshire Police: unsolicited WhatsApp messages, voice or video calls showing an FCA or bank logo say your account is compromised and money must go to a 'safe account', ask you to share your phone screen, then send a courier (sometimes an Uber taxi) to collect bank cards, PINs, cash or valuables"
     }
   ],
   "safePhrases": [
