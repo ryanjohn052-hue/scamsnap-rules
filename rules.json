@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-23T05:35",
+  "version": "2026-11-23T09:22",
   "words": {},
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
@@ -45,7 +45,9 @@
     "利用情報のご確認が取れなかったため、7,240マイルの自動加算が保留されています",
     "富山県警です、富山で起きた事件に関与していた心あたりはないでしょうか",
     "あなたの情報がダークウェブで見つかりました",
-    "お客様のパスワード流出が確認されました"
+    "お客様のパスワード流出が確認されました",
+    "bloqueado por falta de atualização cadastral",
+    "ilagay ang iyong gcash mpin"
   ],
   "badHosts": [
     "platformbyfb.com",
@@ -724,162 +726,157 @@
   ],
   "qa": [
     {
-      "t": "משטרת ישראל - אגף התנועה: לרכבך דוח תנועה שלא שולם. אם לא ישולם תוך 24 שעות התיק יועבר לבית משפט לתעבורה. לתשלום: gov-il-tnua.info/dohot",
+      "t": "עיריית חיפה: מבדיקה במערכות הגבייה עולה כי קיים בחשבונך חוב ארנונה שטרם שולם בסך 318.40 ש\"ח. להסדרה מיידית ומניעת עיקול: haifa-gviya.info/pay מנהל אגף הגבייה",
       "e": "scam",
       "c": "il"
     },
     {
-      "t": "הובא לידיעתנו כי צפית בחומרים אסורים ברשת. נפתח נגדך תיק פלילי. עליך להשיב למייל זה תוך 48 שעות עם הסבר, אחרת יוצא נגדך צו מעצר. משטרת ישראל - היחידה הארצית לסייבר",
+      "t": "להב 433 - יחידת הסייבר: הובא לידיעתנו כי צפית בחומרים אסורים ברשת. עליך להשיב למייל זה תוך 48 שעות אחרת ייפתחו נגדך הליכים משפטיים.",
       "e": "scam",
       "c": "il"
     },
     {
-      "t": "דואר ישראל: החבילה שלך ממתינה במרכז המיון. חסר מספר בית בכתובת. לעדכון ותשלום דמי טיפול 4.90 ש\"ח: israelpost-delivery.top/il",
+      "t": "דואר ישראל: החבילה שלך ממתינה במרכז המיון. נדרש תשלום מכס של 7.90 ש\"ח לשחרור. שלם עד מחר: israelpost-mechess.com",
       "e": "scam",
       "c": "il"
     },
     {
-      "t": "אמא היי זה אני, הטלפון שלי נפל למים וזה המספר החדש. תשמרי אותו. את יכולה להעביר לי 3,200 ש\"ח בביט? אני צריך לשלם משהו דחוף ואין לי גישה לאפליקציה",
+      "t": "🔥 בלאק פריידיי נייקי: נעלי ריצה ב-89 ש\"ח בלבד! מלאי אחרון, המבצע נגמר הלילה >> nike-il-sale.shop",
       "e": "scam",
       "c": "il"
     },
     {
-      "t": "קיבלת העברה של 450 ש\"ח בביט שממתינה לאישור. כדי לקבל את הכסף יש להיכנס ולהזין את פרטי הכרטיס: bit-transfer-confirm.com",
+      "t": "בנק הפועלים: זוהתה פעילות חריגה בחשבונך וכרטיס האשראי הוקפא. לאימות זהותך ושחרור הכרטיס היכנס: poalim-secure-verify.net",
       "e": "scam",
       "c": "il"
     },
     {
-      "t": "כביש 6: נמצאה יתרת חוב על נסיעה ברכבך. תשלום עד היום יחסוך קנס של 145 ש\"ח: road6-pay-il.com",
+      "t": "ביטוח לאומי: הנך זכאי/ת להחזר של 2,140 ש\"ח. יש לעדכן פרטי חשבון בנק עד 25.11 בקישור: btl-hachzarim.org",
       "e": "scam",
       "c": "il"
     },
     {
-      "t": "قوى الأمن الداخلي: لديك مخالفة سرعة غير مدفوعة. يرجى الدفع خلال 24 ساعة لتجنب مضاعفة الغرامة: isf-fines-pay.com",
+      "t": "חברת החשמל: בשל חוב פתוח בסך 412 ש\"ח החשמל בנכס ינותק מחר ב-08:00. להסדרת התשלום: iec-payment.online",
+      "e": "scam",
+      "c": "il"
+    },
+    {
+      "t": "היי אמא, זה הטלפון החדש שלי, הישן נפל למים. תשמרי את המספר. את יכולה להעביר לי 3,200 בביט? אני אחזיר מחר, זה דחוף",
+      "e": "scam",
+      "c": "il"
+    },
+    {
+      "t": "הודעה ממשטרת ישראל: נרשם נגדך דוח מהירות שטרם שולם. אי תשלום תוך 24 שעות יגרור שלילת רישיון. לתשלום: police-dohot.co",
+      "e": "scam",
+      "c": "il"
+    },
+    {
+      "t": "שלום, אני מגייסת מחברת אמזון. עבודה מהבית, 30 דקות ביום, 400-900 ש\"ח ליום. רק צריך לעשות לייקים למוצרים. מעוניין/ת? כתבו לי בטלגרם",
+      "e": "scam",
+      "c": "il"
+    },
+    {
+      "t": "وزارة الداخلية: لديك مخالفة سرعة غير مدفوعة بقيمة 150,000 ليرة. ادفع الآن لتجنب الغرامة الإضافية: isf-pay-fines.com",
       "e": "scam",
       "c": "lb"
     },
     {
-      "t": "سفارة دولة الإمارات بالقاهرة: تمت الموافقة على طلب تأشيرتك. يرجى تحويل رسوم الإصدار 3500 جنيه إلى الحساب التالي خلال يومين لاستلام التأشيرة",
+      "t": "إيجار دراجات نارية واستراحات وعزب بأسعار خاصة لنهاية الأسبوع! احجز الآن وادفع عربون 300 درهم عبر الرابط لتأكيد الحجز",
       "e": "scam",
-      "c": "eg"
+      "c": "ae"
     },
     {
-      "t": "This is Deputy Harris with the Sheriff's Office. You missed jury duty and there is an active warrant for your arrest. To clear it today, call 413-555-0199 and pay the bond with gift cards or Bitcoin.",
+      "t": "نفطال: مبروك! لقد ربحت بطاقة وقود مجانية بقيمة 10000 دج بمناسبة الذكرى السنوية. أجب على الاستبيان واستلم جائزتك: naftal-cadeau.xyz",
       "e": "scam",
-      "c": "us"
+      "c": "dz"
     },
     {
-      "t": "Chase Fraud Alert: Did you attempt a purchase of $1,249.00 at Best Buy? Reply YES or NO. If NO, call our fraud team at 1-888-555-0172 immediately.",
+      "t": "Polícia Civil - Intimação Eletrônica: Você possui uma intimação pendente referente ao processo nº 0034821-77.2026. Acesse o documento em até 24h: intimacao-pc-gov.com",
       "e": "scam",
-      "c": "us"
+      "c": "br"
     },
     {
-      "t": "AusPost: Your parcel could not be delivered due to an incomplete address. Update your details within 12 hrs: auspost-redelivery.info",
+      "t": "gov.br: Sua conta será bloqueada. Cadastre agora um e-mail de recuperação para manter o acesso aos serviços: govbr-recuperacao.site",
       "e": "scam",
-      "c": "au"
+      "c": "br"
     },
     {
-      "t": "Malta Police: You have an outstanding traffic fine of EUR 75. Failure to pay within 48 hours will result in court action. Pay here: mt-police-fines.com",
+      "t": "CAIXA: Seu Bolsa Família de dezembro foi BLOQUEADO por falta de atualização cadastral. Regularize pelo app: bolsafamilia-atualiza.app",
       "e": "scam",
-      "c": "mt"
+      "c": "br"
     },
     {
-      "t": "BBVA: Hemos detectado un acceso no autorizado a su cuenta. Un agente le llamará en breve para verificar sus datos. No cuelgue.",
+      "t": "AEROMEXICO: Se registró un cargo de compra en AEROMÉXICO con su tarjeta por $8,450 MXN. Si no reconoce este cargo comuníquese al 5598165595",
+      "e": "scam",
+      "c": "mx"
+    },
+    {
+      "t": "Correos: Su paquete no ha podido ser entregado por dirección incompleta. Actualice sus datos y abone 1,99€ aquí: correos-es-entrega.com",
       "e": "scam",
       "c": "es"
     },
     {
-      "t": "Crédit Agricole: un prélèvement de 389,90€ est en attente. Si vous n'êtes pas à l'origine de cette opération, annulez-la ici: ca-annulation-prelevement.com",
-      "e": "scam",
-      "c": "fr"
-    },
-    {
-      "t": "Hi, I'm from HR. Please review the attached updated employment contract and salary adjustment before Monday: Contract_2026_Revised.apk",
-      "e": "scam",
-      "c": "sg"
-    },
-    {
-      "t": "您好，您报名的培训课程现可申请全额退款，请添加客服QQ 38291045 办理，退款需先缴纳手续费。",
-      "e": "scam",
-      "c": "cn"
-    },
-    {
-      "t": "קוד האימות שלך לכניסה לאתר כללית הוא 482913. אין להעביר את הקוד לאף אחד, גם לא לנציג כללית.",
+      "t": "קוד האימות שלך לכניסה לאתר בנק לאומי הוא 482913. אין להעביר את הקוד לאף אחד, גם לא לנציגי הבנק.",
       "e": "legit",
       "c": "il"
     },
     {
-      "t": "מכבי: תזכורת לתור לד\"ר כהן ביום שלישי 24.11 בשעה 10:30 בסניף רמת גן. לביטול השב 0",
+      "t": "מכבי שירותי בריאות: תזכורת לתור לד\"ר כהן ביום רביעי 25.11 בשעה 10:30, סניף רמת אביב. לביטול השיבו 0.",
       "e": "legit",
       "c": "il"
     },
     {
-      "t": "דואר ישראל: דבר דואר RR123456789IL הגיע לסניף דואר הרצל 15 ומוכן לאיסוף. יש להציג תעודה מזהה.",
+      "t": "שלום, משלוח מס' IL4471 מחברת HFD יגיע אליך היום בין 14:00 ל-18:00. השליח יתקשר לפני ההגעה.",
       "e": "legit",
       "c": "il"
     },
     {
-      "t": "בנק לאומי: בוצעה עסקה בכרטיס המסתיים ב-4421 בסך 186.50 ש\"ח בשופרסל. ההודעה לידיעה בלבד, אין צורך בפעולה.",
+      "t": "כאל: בוצעה עסקה בכרטיס המסתיים ב-4421 בסך 189.90 ש\"ח בשופרסל דיל. אין צורך בפעולה נוספת.",
       "e": "legit",
       "c": "il"
     },
     {
-      "t": "התקבלה העברה בביט מיוסי לוי על סך 120 ש\"ח. הכסף כבר בחשבונך.",
+      "t": "התקבלה העברה בביט מדנה לוי בסך 150 ש\"ח. \"על הפיצה מאתמול\"",
       "e": "legit",
       "c": "il"
     },
     {
-      "t": "חברת החשמל: חשבון החשמל לתקופה ספטמבר-אוקטובר בסך 412 ש\"ח ייגבה בהוראת קבע ב-1.12. אין צורך בפעולה.",
+      "t": "הוראת הקבע לחברת פרטנר בסך 59 ש\"ח תחויב בחשבונך ב-02.12. לפרטים באזור האישי.",
       "e": "legit",
       "c": "il"
     },
     {
-      "t": "הורים יקרים, מחר יום שישי יום פעילות בבית הספר. יש לשלוח עם הילדים כובע ובקבוק מים. תודה, המחנכת רונית",
+      "t": "אל על: הטיסה LY001 לניו יורק ביום ה' 26.11 יוצאת כמתוכנן ב-00:40. הצ'ק אין נפתח 3 שעות לפני ההמראה.",
       "e": "legit",
       "c": "il"
     },
     {
-      "t": "ועד הבית: ביום ראשון בין 8:00 ל-12:00 תהיה הפסקת מים לצורך תיקון צנרת. סליחה על אי הנוחות",
+      "t": "הורים יקרים, מחר יום ספורט בבית הספר. נא לשלוח את הילדים עם בגדי ספורט, כובע ובקבוק מים. תודה, המחנכת רונית",
       "e": "legit",
       "c": "il"
     },
     {
-      "t": "אבא, אני מגיעה בשבע לארוחת ערב, להביא משהו?",
+      "t": "ועד הבית: ביום שלישי בין 9:00-12:00 תתבצע הפסקת מים בבניין לצורך תיקון צנרת. סליחה על אי הנוחות",
       "e": "legit",
       "c": "il"
     },
     {
-      "t": "אל על: טיסה LY315 לפריז ביום 25.11 יוצאת בזמן. הצ'ק אין נפתח 3 שעות לפני ההמראה. נסיעה טובה!",
+      "t": "אבא אני יוצא מהאימון עכשיו, תאסוף אותי מהשער האחורי בעוד רבע שעה?",
       "e": "legit",
       "c": "il"
     },
     {
-      "t": "שלום, הדוח שלך בגין חניה שולם בהצלחה. אסמכתא 77821. עיריית תל אביב-יפו",
-      "e": "legit",
-      "c": "il"
-    },
-    {
-      "t": "كلاليت: نذكرك بموعدك لدى طبيب العائلة يوم الأربعاء الساعة 9:15. لإلغاء الموعد اتصل بـ *2700",
-      "e": "legit",
-      "c": "il"
-    },
-    {
-      "t": "Your Amazon verification code is 553201. Don't share this code with anyone. We will never call you to ask for it.",
+      "t": "Your Amazon order #113-4928374 has shipped and will arrive Wednesday. Track it in the Amazon app under Your Orders.",
       "e": "legit",
       "c": "us"
     },
     {
-      "t": "Chase: A $52.17 purchase at Target was made on your card ending 9921. No action needed if this was you.",
+      "t": "Chase: A $64.20 purchase at Target was made on your card ending 7712. No action needed if you made this purchase.",
       "e": "legit",
       "c": "us"
     },
     {
-      "t": "USPS: Your package 9400 1118 9922 3456 7812 34 was delivered in or at the mailbox at 2:14 pm.",
-      "e": "legit",
-      "c": "us"
-    },
-    {
-      "t": "CVS Pharmacy: Your prescription is ready for pickup at 125 Main St. Reply STOP to opt out.",
+      "t": "Your Uber code is 7731. Never share this code.",
       "e": "legit",
       "c": "us"
     },
@@ -889,39 +886,39 @@
       "c": "il"
     },
     {
-      "t": "bit.ly/3xK9pQz",
+      "t": "מי זה?",
       "e": "unclear",
       "c": "il"
     },
     {
-      "t": "שלום, יש לי שאלה לגבי הדירה שפרסמת",
+      "t": "https://bit.ly/3xQ7aPz",
       "e": "unclear",
       "c": "il"
     },
     {
-      "t": "مرحبا، هل هذا رقم أحمد؟",
+      "t": "היי, ראיתי את המודעה שלך. זה עדיין רלוונטי?",
       "e": "unclear",
       "c": "il"
     },
     {
-      "t": "Call me back asap",
+      "t": "שלום, יש לך דקה? רציתי לשאול אותך משהו",
+      "e": "unclear",
+      "c": "il"
+    },
+    {
+      "t": "Who is this?",
       "e": "unclear",
       "c": "us"
     },
     {
-      "t": "Did you get my email?",
+      "t": "Hi, sorry to bother you. Is this Michael?",
+      "e": "unclear",
+      "c": "us"
+    },
+    {
+      "t": "Call me back when you can",
       "e": "unclear",
       "c": "gb"
-    },
-    {
-      "t": "Rappelle-moi stp c'est urgent",
-      "e": "unclear",
-      "c": "fr"
-    },
-    {
-      "t": "Привет, это кто?",
-      "e": "unclear",
-      "c": "ru"
     }
   ]
 }
