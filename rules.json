@@ -1,7 +1,24 @@
 {
   "v": 1,
-  "version": "2026-11-23T09:22",
-  "words": {},
+  "version": "2026-11-23T09:23",
+  "words": {
+    "ORGS": [
+      "postnord",
+      "gcash"
+    ],
+    "PAYMENT": [
+      "regularize",
+      "ilagay ang iyong",
+      "verifique"
+    ],
+    "DEBT": [
+      "bloqueado por",
+      "intimação pendente"
+    ],
+    "FRAUD_ALERT": [
+      "acceso no autorizado"
+    ]
+  },
   "phrases": [
     "זוהה שימוש בתמונות המוגנות בזכויות יוצרים",
     "צוות ניהול זכויות יוצרים",
