@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-23T12:30",
+  "version": "2026-11-23T13:30",
   "words": {
     "ORGS": [
       "abn amro",
@@ -1026,6 +1026,16 @@
       "d": "2026-11-23",
       "c": "id",
       "t": "Polda Metro Jaya (Jakarta): callers/messages posing as Dukcapil (civil registry), the tax directorate, ministries, police, TNI or bank staff ask for personal data, codes or transfers"
+    },
+    {
+      "d": "2026-11-23",
+      "c": "sg",
+      "t": "FairPrice (Singapore): calls, messages or emails posing as FairPrice, Income, NTUC Union or FairPrice Loyalty say you won vouchers, push you to click links, verify identity, give banking details or pay immediately for vouchers or insurance"
+    },
+    {
+      "d": "2026-11-23",
+      "c": "es",
+      "t": "Guardia Civil Zamora: WhatsApp accounts taken over without any link or code (older iOS/WhatsApp versions); scammers write from the victim's real number to contacts asking for urgent money by bank transfer or Bizum"
     }
   ],
   "safePhrases": [
