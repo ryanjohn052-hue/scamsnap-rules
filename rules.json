@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-23T16:30",
+  "version": "2026-11-23T17:30",
   "words": {
     "ORGS": [
       "abn amro",
@@ -1075,6 +1075,11 @@
       "d": "2026-11-23",
       "c": "co",
       "t": "Fedemunicipios (Colombia): SMS/WhatsApp messages using SIMIT and transit-secretariat names and logos claim pending traffic fines and link to fake sites asking for passwords, verification codes, bank data or immediate payment"
+    },
+    {
+      "d": "2026-11-23",
+      "c": "ca",
+      "t": "Manitoba RCMP (Minnedosa): spoofed calls posing as a delivery service, the bank, the Canadian Anti-Fraud Centre and RCMP report a suspicious purchase, then send you to an 'identity verification machine' (a bitcoin ATM) to scan a barcode and deposit cash"
     }
   ],
   "safePhrases": [
