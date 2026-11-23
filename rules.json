@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-23T11:26",
+  "version": "2026-11-23T12:30",
   "words": {
     "ORGS": [
       "abn amro",
@@ -1016,6 +1016,16 @@
       "d": "2026-11-23",
       "c": "se",
       "t": "Swedish Police (Black Week/Christmas): fake online shops copying well-known stores with very low time-limited prices take card details; fake buyers send sellers links to fake shipping/payment pages asking them to approve with BankID"
+    },
+    {
+      "d": "2026-11-23",
+      "c": "id",
+      "t": "Polda Metro Jaya (Jakarta): extortion using AI-generated videos made from the victim's own photos, with threats to spread them unless money is paid"
+    },
+    {
+      "d": "2026-11-23",
+      "c": "id",
+      "t": "Polda Metro Jaya (Jakarta): callers/messages posing as Dukcapil (civil registry), the tax directorate, ministries, police, TNI or bank staff ask for personal data, codes or transfers"
     }
   ],
   "safePhrases": [
