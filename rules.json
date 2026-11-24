@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-24T09:40",
+  "version": "2026-11-24T11:28",
   "words": {
     "ORGS": [
       "abn amro",
@@ -390,26 +390,6 @@
   ],
   "recent": [
     {
-      "d": "2026-11-23",
-      "c": "cn",
-      "t": "Wuhan Jiang'an police: fake online investment platform promising 'guaranteed' high returns says your account must be 'activated' to unlock investment rights, and has you withdraw cash and hand it to a courier in person"
-    },
-    {
-      "d": "2026-11-23",
-      "c": "jp",
-      "t": "Rakuten Securities data-leak follow-on scams: emails/SMS posing as Rakuten Securities or other Rakuten brands offer leak 'compensation', say your data was found on the dark web or passwords leaked, or pitch class-action fees, linking to fake login pages (Rakuten sends no URLs by email)"
-    },
-    {
-      "d": "2026-11-22",
-      "c": "cn",
-      "t": "Zeekr legal department: fake Zeekr recall SMS warns of a 'safety hazard' or warranty cancellation if not handled in time, links to a fake site asking for your phone number and SMS verification code, then a fake 'customer service' line"
-    },
-    {
-      "d": "2026-11-18",
-      "c": "us",
-      "t": "After the Chase/Zelle banking outage, texts, emails and calls posing as banks say the account is frozen or needs verification and ask for login or personal details"
-    },
-    {
       "d": "2026-11-18",
       "c": "de",
       "t": "Deutsche Rentenversicherung phishing email 'Kurze Sache zu Ihren Kontaktdaten' asks to confirm contact data on a fake portal before a 20 November deadline"
@@ -423,6 +403,11 @@
       "d": "2026-11-18",
       "c": "us",
       "t": "Calls posing as Rock/Richland County (Wisconsin) deputies, using real deputies' names or a fake 'Sergeant Walker', say you are under investigation and ask for personal information"
+    },
+    {
+      "d": "2026-11-18",
+      "c": "lb",
+      "t": "Lebanon Internal Security Forces: mass SMS posing as the authority collecting speeding fines ask you to pay through a link"
     },
     {
       "d": "2026-11-19",
@@ -573,6 +558,11 @@
       "d": "2026-11-19",
       "c": "us",
       "t": "Hardeeville (South Carolina) police: calls posing as court officials say you missed jury duty and must pay a fine now to avoid arrest; fake Amazon reps claim money owed, asking for Bitcoin, gift cards or wire transfers"
+    },
+    {
+      "d": "2026-11-19",
+      "c": "eg",
+      "t": "UAE Embassy in Cairo: fraudulent calls and messages impersonate the embassy or its staff and ask for money transfers"
     },
     {
       "d": "2026-11-20",
@@ -790,6 +780,11 @@
       "t": "Polizei Hoechstadt: SMS/WhatsApp from an unknown number claiming to be your son with a new number asks for urgent online bank transfers"
     },
     {
+      "d": "2026-11-20",
+      "c": "us",
+      "t": "Hampden County (Massachusetts) Sheriff's Office: caller poses as a chief deputy with a made-up badge number and leaves a voicemail with a 413-area callback number to pressure victims"
+    },
+    {
       "d": "2026-11-21",
       "c": "my",
       "t": "Johor (Seri Alam) police: caller posing as a police officer says you have a money-laundering record, passes you to a 'higher-ranking officer' and has you transfer savings to accounts they provide"
@@ -905,19 +900,9 @@
       "t": "Vogelsberg district (Hesse) police: renewed wave of shock calls (a relative caused a serious accident and needs bail) and fake police calls about burglars nearby, asking for cash or valuables to be handed over"
     },
     {
-      "d": "2026-11-20",
-      "c": "us",
-      "t": "Hampden County (Massachusetts) Sheriff's Office: caller poses as a chief deputy with a made-up badge number and leaves a voicemail with a 413-area callback number to pressure victims"
-    },
-    {
-      "d": "2026-11-19",
-      "c": "eg",
-      "t": "UAE Embassy in Cairo: fraudulent calls and messages impersonate the embassy or its staff and ask for money transfers"
-    },
-    {
-      "d": "2026-11-18",
-      "c": "lb",
-      "t": "Lebanon Internal Security Forces: mass SMS posing as the authority collecting speeding fines ask you to pay through a link"
+      "d": "2026-11-22",
+      "c": "cn",
+      "t": "Zeekr legal department: fake Zeekr recall SMS warns of a 'safety hazard' or warranty cancellation if not handled in time, links to a fake site asking for your phone number and SMS verification code, then a fake 'customer service' line"
     },
     {
       "d": "2026-11-22",
@@ -993,6 +978,16 @@
       "d": "2026-11-22",
       "c": "us",
       "t": "Gilmer County (Georgia) Sheriff's Office: fake social-media fundraisers for the Eagle Mountain Campground fire impersonate local groups and a church, reuse real fire photos and ask for donations to unfamiliar accounts or via suspicious links"
+    },
+    {
+      "d": "2026-11-23",
+      "c": "cn",
+      "t": "Wuhan Jiang'an police: fake online investment platform promising 'guaranteed' high returns says your account must be 'activated' to unlock investment rights, and has you withdraw cash and hand it to a courier in person"
+    },
+    {
+      "d": "2026-11-23",
+      "c": "jp",
+      "t": "Rakuten Securities data-leak follow-on scams: emails/SMS posing as Rakuten Securities or other Rakuten brands offer leak 'compensation', say your data was found on the dark web or passwords leaked, or pitch class-action fees, linking to fake login pages (Rakuten sends no URLs by email)"
     },
     {
       "d": "2026-11-23",
@@ -1128,6 +1123,21 @@
       "d": "2026-11-24",
       "c": "us",
       "t": "Brazoria County (Texas): calls spoofing the Sheriff's Office number from a fake sergeant, plus emails posing as the U.S. Marshals with a fake warrant, say you missed federal jury duty and have arrest warrants, demanding a $10,000 bond (or 30% of it)"
+    },
+    {
+      "d": "2026-11-24",
+      "c": "de",
+      "t": "Märkischer Kreis police (Menden): fake browser warning claims technical problems and shows a 'customer hotline'; the caller asks for personal data, has you install remote-access software, then gets you to make bank transfers"
+    },
+    {
+      "d": "2026-11-24",
+      "c": "gb",
+      "t": "Durham Constabulary: cold callers posing as Durham police officers say someone in custody is claiming to be you and ask you to 'reconfirm' your address and bank details"
+    },
+    {
+      "d": "2026-11-24",
+      "c": "us",
+      "t": "Bellevue (Nebraska) Police: after lost-pet posts, scammers text owners or rescues claiming they found the animal, using AI-generated photos of it, to get money or personal information"
     }
   ],
   "safePhrases": [
