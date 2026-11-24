@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-24T18:27",
+  "version": "2026-11-24T19:35",
   "words": {
     "ORGS": [
       "abn amro",
@@ -792,7 +792,8 @@
     "dgfxmqj.com",
     "personendaten-online-aktualisieren.de",
     "meine-daten-verifizieren.de",
-    "fedexfhk.com"
+    "fedexfhk.com",
+    "dmb-fairfaxcounty.us"
   ],
   "shorteners": [],
   "badPhones": [
@@ -805,16 +806,6 @@
     "441933440333"
   ],
   "recent": [
-    {
-      "d": "2026-11-19",
-      "c": "us",
-      "t": "Calls spoofing the Glasgow (Kentucky) Police Department number: a woman caller asks the victim to send $250 for 'vehicle maintenance'"
-    },
-    {
-      "d": "2026-11-19",
-      "c": "ae",
-      "t": "DFSA warns a fake investment website and Telegram groups impersonate DIFC-regulated Exotix Advisory Ltd (its name, registration number and address) to get investors to send money"
-    },
     {
       "d": "2026-11-19",
       "c": "au",
@@ -1554,6 +1545,16 @@
       "d": "2026-11-24",
       "c": "de",
       "t": "Brandenburg police (Prignitz): 'shock calls' from callers posing as doctors who say a close relative is seriously ill, pressing seniors for money or personal details"
+    },
+    {
+      "d": "2026-11-24",
+      "c": "us",
+      "t": "Fairfax County (Virginia): emails from 'dmb-fairfaxcounty.us' cite real county contracts and ask vendors to reply for payment instructions or pay a fee; FCPD also warns of a fake site charging to file police reports"
+    },
+    {
+      "d": "2026-11-24",
+      "c": "co",
+      "t": "Prosperidad Social (Meta, Colombia): texts, WhatsApp, calls and posts about pending subsidies (Colombia Mayor, Renta Ciudadana, IVA refund, fake 'Bono Mujer') link to fake registration pages asking for personal, bank or wallet data, passwords or money"
     }
   ],
   "safePhrases": [
