@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-24T16:26",
+  "version": "2026-11-24T17:26",
   "words": {
     "ORGS": [
       "abn amro",
@@ -808,16 +808,6 @@
     {
       "d": "2026-11-19",
       "c": "us",
-      "t": "Pima County (Arizona) sheriff/FBI: calls posing as your bank report 'unusual activity' to extract account details; AI voice-cloned relatives fake emergencies to get money"
-    },
-    {
-      "d": "2026-11-19",
-      "c": "es",
-      "t": "Spain Interior Ministry Black Friday warning: SMS/emails posing as banks, shops or public bodies about an urgent purchase or delivery ask for card/bank data or payment"
-    },
-    {
-      "d": "2026-11-19",
-      "c": "us",
       "t": "City of Bluefield (West Virginia) warns of fake payment requests for its Holiday of Lights event via PayPal, Venmo or other apps; the city takes only cash or check in person"
     },
     {
@@ -1554,6 +1544,16 @@
       "d": "2026-11-24",
       "c": "de",
       "t": "Adenau police: callers posing as police officers from Euskirchen or Mayen say burglars were arrested nearby and two suspects are on the run, then ask for personal data and what cash and valuables you keep at home"
+    },
+    {
+      "d": "2026-11-24",
+      "c": "il",
+      "t": "Israel National Cyber Directorate: SMS posing as Israel Police says a traffic ticket is unpaid, threatens extra fines or legal action, and links to a fake payment site that steals card and personal details"
+    },
+    {
+      "d": "2026-11-24",
+      "c": "il",
+      "t": "Israel National Cyber Directorate: WhatsApp messages from foreign numbers posing as the Israel Tax Authority promise a tax refund and push a malicious Android app that reads messages and verification codes, accesses the camera and allows remote control"
     }
   ],
   "safePhrases": [
