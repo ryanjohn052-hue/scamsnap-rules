@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-24T20:30",
+  "version": "2026-11-24T21:30",
   "words": {
     "ORGS": [
       "abn amro",
@@ -809,16 +809,6 @@
   "recent": [
     {
       "d": "2026-11-19",
-      "c": "us",
-      "t": "Fake Microsoft pop-up alert leads to a call saying the bank account is unsafe; victim told to withdraw cash and hand it to a 'federal agent' in person (Indiana)"
-    },
-    {
-      "d": "2026-11-19",
-      "c": "world",
-      "t": "Fake Microsoft 365 service-health emails after the Outlook/Exchange outage say held messages will be deleted in 24h; 'Restore messages' link leads to a fake Microsoft login to steal credentials"
-    },
-    {
-      "d": "2026-11-19",
       "c": "ie",
       "t": "After the Wellington IT credit union breach, texts using stolen payee details claim a landlord/club/childminder changed bank details and ask members to pay to a new account"
     },
@@ -1556,6 +1546,16 @@
       "d": "2026-11-24",
       "c": "hn",
       "t": "Honduras National Police: messages and social-media posts about pending traffic fines or driving-permit renewal promise discounts or avoiding surcharges and push fraudulent links that compromise WhatsApp, social-media and bank accounts"
+    },
+    {
+      "d": "2026-11-24",
+      "c": "us",
+      "t": "Oklahoma City police: callers spoofing real City of Oklahoma City phone numbers pose as city officials offering to enroll you in Medicare and ask for Social Security and Medicare numbers, bank details and verification codes"
+    },
+    {
+      "d": "2026-11-24",
+      "c": "us",
+      "t": "City of Winston-Salem (NC): phishing emails from lookalike city addresses using real Planning Department staff names send fake invoices for planning, permit or zoning fees and ask for payment outside city systems"
     }
   ],
   "safePhrases": [
