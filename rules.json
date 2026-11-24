@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-24T15:12",
+  "version": "2026-11-24T15:26",
   "words": {
     "ORGS": [
       "abn amro",
@@ -774,16 +774,6 @@
   "recent": [
     {
       "d": "2026-11-19",
-      "c": "us",
-      "t": "Calls, texts and emails posing as We Energies (Wisconsin) threaten immediate power shutoff unless paid now by gift card, crypto, payment app or QR code"
-    },
-    {
-      "d": "2026-11-19",
-      "c": "gb",
-      "t": "Fake HMRC tax refund emails/texts claim an 'unclaimed tax repayment' and send victims to a spoofed GOV.UK site to 'verify identity and payment details'"
-    },
-    {
-      "d": "2026-11-19",
       "c": "xk",
       "t": "Kosovo Police warn of SMS posing as banks saying bank details must be updated, linking to fake pages that steal banking credentials"
     },
@@ -1521,6 +1511,16 @@
       "d": "2026-11-24",
       "c": "ae",
       "t": "Abu Dhabi Police: fake social-media ads for cheap winter desert camps, rest-house bookings and motorbike rentals ask for an up-front payment to 'lock in' the booking, bank details or a verification code"
+    },
+    {
+      "d": "2026-11-24",
+      "c": "de",
+      "t": "Neubrandenburg police (Vorpommern-Ruegen): phishing email posing as the ELSTER tax portal asks you to update personal data via a link; then a fake bank employee calls about 'irregularities', takes remote control of the PC and gets push-TAN transfers approved"
+    },
+    {
+      "d": "2026-11-24",
+      "c": "us",
+      "t": "Bossier Sheriff's Office (Louisiana): calls and texts from people posing as the FDIC or FTC ask you to transfer or move money between accounts and give bank account numbers, passwords or verification codes"
     }
   ],
   "safePhrases": [
