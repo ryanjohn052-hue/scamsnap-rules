@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-24T15:29",
+  "version": "2026-11-24T16:26",
   "words": {
     "ORGS": [
       "abn amro",
@@ -807,21 +807,6 @@
   "recent": [
     {
       "d": "2026-11-19",
-      "c": "xk",
-      "t": "Kosovo Police warn of SMS posing as banks saying bank details must be updated, linking to fake pages that steal banking credentials"
-    },
-    {
-      "d": "2026-11-19",
-      "c": "gy",
-      "t": "SMS posing as Guyana Traffic Police offer a 50% traffic-fine discount if paid within 24 hours, threaten court, and link to fake payment sites"
-    },
-    {
-      "d": "2026-11-19",
-      "c": "us",
-      "t": "Door-to-door fake Medicare agents (North Carolina) with clipboards, fake badges and brochures claim to check enrollment or sign up new benefits to get personal/Medicare details"
-    },
-    {
-      "d": "2026-11-19",
       "c": "us",
       "t": "Pima County (Arizona) sheriff/FBI: calls posing as your bank report 'unusual activity' to extract account details; AI voice-cloned relatives fake emergencies to get money"
     },
@@ -1554,6 +1539,21 @@
       "d": "2026-11-24",
       "c": "us",
       "t": "Bossier Sheriff's Office (Louisiana): calls and texts from people posing as the FDIC or FTC ask you to transfer or move money between accounts and give bank account numbers, passwords or verification codes"
+    },
+    {
+      "d": "2026-11-24",
+      "c": "de",
+      "t": "Brandenburg police (Zehdenick): paper letter posing as your bank asks you to scan a QR code to 'update' your data, then a fake bank employee calls and talks you into logging into online banking, draining the account"
+    },
+    {
+      "d": "2026-11-24",
+      "c": "de",
+      "t": "Mettmann police (Wuelfrath): caller posing as a bank employee reports suspicious debits and offers to 'exchange' your bank card, then a stranger comes to the door to collect the debit card"
+    },
+    {
+      "d": "2026-11-24",
+      "c": "de",
+      "t": "Adenau police: callers posing as police officers from Euskirchen or Mayen say burglars were arrested nearby and two suspects are on the run, then ask for personal data and what cash and valuables you keep at home"
     }
   ],
   "safePhrases": [
