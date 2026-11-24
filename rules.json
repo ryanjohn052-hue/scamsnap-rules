@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-24T12:08",
+  "version": "2026-11-24T12:40",
   "words": {
     "ORGS": [
       "abn amro",
@@ -389,26 +389,6 @@
     "441933440333"
   ],
   "recent": [
-    {
-      "d": "2026-11-18",
-      "c": "de",
-      "t": "Deutsche Rentenversicherung phishing email 'Kurze Sache zu Ihren Kontaktdaten' asks to confirm contact data on a fake portal before a 20 November deadline"
-    },
-    {
-      "d": "2026-11-18",
-      "c": "cy",
-      "t": "SMS impersonating Cyprus Police DIGIPOL claims an unpaid out-of-court fine and links to a fake payment site to steal card and personal details"
-    },
-    {
-      "d": "2026-11-18",
-      "c": "us",
-      "t": "Calls posing as Rock/Richland County (Wisconsin) deputies, using real deputies' names or a fake 'Sergeant Walker', say you are under investigation and ask for personal information"
-    },
-    {
-      "d": "2026-11-18",
-      "c": "lb",
-      "t": "Lebanon Internal Security Forces: mass SMS posing as the authority collecting speeding fines ask you to pay through a link"
-    },
     {
       "d": "2026-11-19",
       "c": "us",
@@ -1138,6 +1118,26 @@
       "d": "2026-11-24",
       "c": "us",
       "t": "Bellevue (Nebraska) Police: after lost-pet posts, scammers text owners or rescues claiming they found the animal, using AI-generated photos of it, to get money or personal information"
+    },
+    {
+      "d": "2026-11-24",
+      "c": "at",
+      "t": "Styria police: fake emails, SMS and WhatsApp messages posing as hotels or travel providers quote real booking data (hotel, dates, guest name) and ask you to re-enter card details to 'confirm' the reservation or pay an 'outstanding' amount via a fake payment page"
+    },
+    {
+      "d": "2026-11-24",
+      "c": "de",
+      "t": "Trier police: 'stranded traveller' (often claiming to be from the UK or Ireland) at stations, car parks or service areas says their card was stolen, shows a manipulated banking app 'instant transfer' as repayment and asks you to hand over cash"
+    },
+    {
+      "d": "2026-11-24",
+      "c": "ch",
+      "t": "Glarus cantonal police: doorstep caller claims to be a locked-out neighbour who lost their key, asks for cash for a hotel night and leaves a (stolen) bicycle as a 'deposit'; repayment never comes"
+    },
+    {
+      "d": "2026-11-24",
+      "c": "at",
+      "t": "Upper Austria police: emails from lookalike addresses of real companies and freight forwarders place fake orders so goods are collected and diverted; check sender addresses for swapped letters (i for l, single for double letters)"
     }
   ],
   "safePhrases": [
