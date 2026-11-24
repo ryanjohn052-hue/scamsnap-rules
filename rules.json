@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-24T05:31",
+  "version": "2026-11-24T09:40",
   "words": {
     "ORGS": [
       "abn amro",
@@ -325,7 +325,15 @@
     "è stata richiesta un'autorizzazione di spesa",
     "gli indirizzi e-mail non confermati rimarranno inattivi",
     "telah kredit ke tng ewallet anda",
-    "please visit the website, fedexfhk.com before november 24 to verify your order or delivery information"
+    "please visit the website, fedexfhk.com before november 24 to verify your order or delivery information",
+    "a federal warrant has been issued in your name",
+    "for failure to appear for jury duty",
+    "لتأكيد موعد المقابلة يرجى تحويل",
+    "la policía me retiene",
+    "nieuwe pas aan om blokkering te voorkomen",
+    "להורדת אפליקציית ההטבות",
+    "マイル加算申請フォームはこちら",
+    "tengo un problema con el banco y necesito hacer un pago urgente"
   ],
   "badHosts": [
     "platformbyfb.com",
@@ -1127,204 +1135,199 @@
   ],
   "qa": [
     {
-      "t": "Your parcel is being held at our depot due to an unpaid £2.70 shipping fee.\n\nPlease pay the fees before 12/05, 12/05 otherwise the parcel will be returned.",
+      "t": "משטרת ישראל - אגף התנועה: נמצא דוח תנועה פתוח על שמך בסך 250 ש\"ח. אם החוב לא יוסדר תוך 24 שעות התיק יועבר לבית המשפט לתעבורה. להסדרה: https://gov-il-tnua.com/pay",
+      "e": "scam",
+      "c": "IL"
+    },
+    {
+      "t": "עיריית חולון: נמצאה יתרת חוב ארנונה בסך 312.40 ש\"ח בחשבונך. למניעת הטלת ריבית והליכי גבייה יש להסדיר את התשלום כאן: https://holon-arnona.top/pay",
+      "e": "scam",
+      "c": "IL"
+    },
+    {
+      "t": "🔥 בלאק פריידיי בלעדי! מכונת קפה של ברנד מוביל ב-149 ש\"ח בלבד במקום 1,899. נשארו 7 יחידות, ההצעה נגמרת בחצות: https://blackfriday-il-deals.shop",
+      "e": "scam",
+      "c": "IL"
+    },
+    {
+      "t": "בנק הפועלים: זוהתה פעולה חריגה בכרטיס האשראי שלך בסך 3,480 ש\"ח. אם לא ביצעת את הפעולה, יש לאמת את פרטיך באופן מיידי: https://poalim-secure-check.com",
+      "e": "scam",
+      "c": "IL"
+    },
+    {
+      "t": "ביטוח לאומי: מגיע לך החזר דמי ביטוח בסך 1,240 ש\"ח. לקבלת ההחזר יש למלא את פרטי חשבון הבנק עד מחר: https://btl-refund.net/form",
+      "e": "scam",
+      "c": "IL"
+    },
+    {
+      "t": "Hello, this is a delivery notification from FedEx. Your package is on hold because the address is incomplete. Please visit the website, fedexfhk.com before November 24 to verify your order or delivery information.",
+      "e": "scam",
+      "c": "US"
+    },
+    {
+      "t": "U.S. Marshals Service NOTICE: A federal warrant has been issued in your name for failure to appear for jury duty. To avoid arrest, a bond of $3,000 must be posted today. Call Sgt. Miller immediately at 979-555-0142.",
+      "e": "scam",
+      "c": "US"
+    },
+    {
+      "t": "TxTag: You have an outstanding toll balance of $6.85. To avoid a late fee of $50 and registration hold, pay by 11/26: https://txtag-pay.help/invoice",
+      "e": "scam",
+      "c": "US"
+    },
+    {
+      "t": "CommBank: Your 12,400 rewards points expire tonight. Redeem them now before they are lost: https://cba-rewards-redeem.com",
+      "e": "scam",
+      "c": "AU"
+    },
+    {
+      "t": "Booking.com: Dear guest, your reservation at Hotel Lisboa Centro (Nov 29 - Dec 2, ref 4471902231) must be verified within 24 hours or it will be cancelled. Please confirm your card here: https://booking-verify-guest.com/4471902231",
       "e": "scam",
       "c": "world"
     },
     {
-      "t": "- Purchase Made: $100.00 charged for concert tickets via ppal. Need help? Call 07700900123. (i/d-4794ASWQQ)",
+      "t": "【e-Tax】至急：還付手続きが完了していません。還付金48,200円が失効する前に、こちらから確認してください：https://etax-refund-check.s3.amazonaws.com/index.html",
       "e": "scam",
-      "c": "world"
+      "c": "JP"
     },
     {
-      "t": " pedido  flotilla y queremos  opinion , : https://bit.ly/a7Kx2",
+      "t": "SIMIT: Usted tiene una multa de tránsito pendiente por $468.000. Evite el embargo y pague hoy con descuento del 50% en: https://simit-pagos-col.com",
       "e": "scam",
-      "c": "world"
+      "c": "CO"
     },
     {
-      "t": "Post Office: You missed your package 12/05 at 12/05. Please reschedule your delivery via: https://secure-notice.net/a7Kx2",
+      "t": "Santander: Se ha detectado un cargo de 879,90€ en su cuenta. Si no reconoce esta operación llame urgentemente al 910 555 312 para anularla.",
       "e": "scam",
-      "c": "world"
+      "c": "ES"
     },
     {
-      "t": "Dear Consumer\nYour Electricity power will be disconnected 12/05 at 9.30_pm from Electricity office because your 12/05 bill was not update please contact immediately with our Electricity officer at https://secure-notice.net/a7Kx2ank you",
+      "t": "Halo kak, saya dari customer service Trip.com. Untuk mengonfirmasi pesanan hotel kakak, mohon kirimkan kode OTP 6 digit yang baru saja masuk ke nomor kakak ya",
       "e": "scam",
-      "c": "world"
+      "c": "ID"
     },
     {
-      "t": "Dear Customers, Govermet Service Center Reserve Bank ATM Customers Are Used To Inform All Bank Account Holder O Renewal In Your Own Account To Make 12/05 Bike If You Do No Account Renewal O So The Reserve Bank Head Branch From Your Account Will Be Closed Within 12/05 Helpline Contact No.07700900123",
+      "t": "وزارة الكهرباء: تم قبولك مبدئياً في وظيفة بالشركة القابضة لكهرباء مصر. لتأكيد موعد المقابلة يرجى تحويل 350 جنيه رسوم حجز وإرسال صورة البطاقة على واتساب",
       "e": "scam",
-      "c": "world"
+      "c": "EG"
     },
     {
-      "t": " plan  y  gratuitas. Informacion de tu consumo en https://secure-notice.net/a7Kx2",
+      "t": "免費送2027媽祖月曆！只需支付運費60元，請加LINE客服完成帳戶驗證：https://blackcat-pay.tw-ship.com",
       "e": "scam",
-      "c": "world"
+      "c": "TW"
     },
     {
-      "t": "Your Benefits Pay CPR is in suspension mode due to illegal payment received in your account kindly modify your account here https://secure-notice.net/a7Kx2",
+      "t": "Bonjour c'est le livreur, j'ai un colis pour vous mais je n'ai pas pu le livrer. Pouvez-vous confirmer votre adresse ici : https://colis-relais-fr.info",
       "e": "scam",
-      "c": "world"
+      "c": "FR"
     },
     {
-      "t": "Hi  confirm your credentials 12/05 otherwise your order will be returned to the sender",
+      "t": "Nubank: Detectamos uma compra de R$ 2.349,00 no seu cartão. Caso não reconheça, ligue imediatamente para a central de segurança 0800 555 2211 e informe o código enviado.",
       "e": "scam",
-      "c": "world"
+      "c": "BR"
     },
     {
-      "t": "Your ******** Online-Account has been locked due to failed login attempts. Tap on https://secure-notice.net/a7Kx2 to reinstate and update your profile. Ref: 33476",
-      "e": "scam",
-      "c": "world"
+      "t": "קוד האימות שלך לכניסה לאפליקציית לאומי הוא 482913. אין למסור את הקוד לאף אחד, גם לא לנציגי הבנק.",
+      "e": "legit",
+      "c": "IL"
     },
     {
-      "t": "Dear Customer your S.B.I –ing Account will be suspended. 12/05 please Update your PAN Card visit the link https://rebrand.ly/a7Kx2",
-      "e": "scam",
-      "c": "world"
+      "t": "שלום, השליח של צ'יטה יגיע אליך היום בין 14:00 ל-18:00 עם משלוח מ-KSP. אין צורך בפעולה.",
+      "e": "legit",
+      "c": "IL"
     },
     {
-      "t": "We attempted to deliver your package at 12/05 on 12/05, 12/05 but no one was available.\n\nYour parcel was returned to our depot and you need to reschedule your package delivery.\n\nPlease reschedule your package delivery by pressing here https://secure-notice.net/a7Kx2",
-      "e": "scam",
-      "c": "world"
+      "t": "קיבלת 150 ש\"ח בביט מדנה כהן: \"על הפיצה אתמול 🍕\"",
+      "e": "legit",
+      "c": "IL"
     },
     {
-      "t": "Dear Customer your SBI bank account has been suspended for KYC Please Complete your KYC 10 min click here link https://secure-notice.net/a7Kx2",
-      "e": "scam",
-      "c": "world"
+      "t": "הורים יקרים, מחר יום שישי אין לימודים בשל יום היערכות של צוות המורים. הצהרון יפעל כרגיל. בברכה, הנהלת בית הספר",
+      "e": "legit",
+      "c": "IL"
     },
     {
-      "t": "Nos agents ont constaté que votre véhicule n'était pas muni de la vignette réglementaire Crit'Air 2023. Veuillez la récupérer sous peine de contravention dans les prochaines 12/05. Sur le -joint :",
-      "e": "scam",
-      "c": "world"
+      "t": "אבא תוכל לאסוף את נועה מהחוג ב-17:30? אני תקועה בפקק",
+      "e": "legit",
+      "c": "IL"
     },
     {
-      "t": "Mensaje 1/1 de RAMON ROMAN -016: CAIXABANK: Compra aceptada por importe de 986.45 EUR. Si no ha sido usted siga los pasos en este enlace para cancelarla:https://is.gd/a7Kx2",
-      "e": "scam",
-      "c": "world"
+      "t": "مكابي: تذكير بموعدك لفحص الدم يوم الأربعاء 25.11 الساعة 08:00 في فرع الناصرة. يرجى الحضور صائماً.",
+      "e": "legit",
+      "c": "IL"
     },
     {
-      "t": "500% EXTRA TALKTIME when you load with *555*REC HARGE-PIN#. Enjoy",
-      "e": "scam",
-      "c": "world"
+      "t": "Amazon: Your package with Wool Socks 6-pack was delivered. It was handed to a resident.",
+      "e": "legit",
+      "c": "US"
     },
     {
-      "t": " läuft am 9 mai ab. Bitte verlängern Sie ihre Legitimitation unter:https://secure-notice.net/a7Kx2ine",
-      "e": "scam",
-      "c": "world"
+      "t": "CVS Pharmacy: Your prescription is ready for pickup at 1420 Main St. Reply STOP to opt out of texts.",
+      "e": "legit",
+      "c": "US"
     },
     {
-      "t": "Alert! Your new Mobile No. XXXXXXXXXX9199 is updated in HDFC Bank Cust ID 12/05 on 12/05. To chat with us on WhatsApp, click https://secure-notice.net/a7Kx2",
-      "e": "scam",
-      "c": "world"
+      "t": "Running 10 mins late, save me a seat at the pub x",
+      "e": "legit",
+      "c": "GB"
     },
     {
-      "t": "Tracking Number-UK951490118\nSorry To Let You Know That Your Package Which Arrived On 12/05 Will Be Sent Back: https://secure-notice.net/a7Kx2",
-      "e": "scam",
-      "c": "world"
+      "t": "Doctolib : rappel de votre rendez-vous avec Dr Martin le jeudi 26 novembre à 15h30. En cas d'empêchement, pensez à annuler.",
+      "e": "legit",
+      "c": "FR"
     },
     {
-      "t": "Dear  Your office Return has yet to be filed and needs it urgent attention. Respond https://t.ly/a7Kx2 with work email to act as stated on the Page.",
-      "e": "scam",
-      "c": "world"
+      "t": "Seu código de verificação do iFood é 3381. Não compartilhe com ninguém.",
+      "e": "legit",
+      "c": "BR"
     },
     {
-      "t": "IRS FRAUD: As an increased security and fraud protection your IRS account has been put on hold as we noticed a few unusual transactions. Verify now at\n\nhttps://secure-notice.net/a7Kx2\n\nwith idme to prevent permanent account closure",
-      "e": "scam",
-      "c": "world"
+      "t": "هيئة كهرباء ومياه دبي: فاتورتك لشهر نوفمبر بقيمة 486.20 درهم متاحة الآن في تطبيق ديوا. شكراً لك.",
+      "e": "legit",
+      "c": "AE"
     },
     {
-      "t": "Proximus: Votre facture est PAYEE 2 fois par erreur, rendez-vous sur",
-      "e": "scam",
-      "c": "world"
-    },
-    {
-      "t": "Dear Customer your SBI YONO NETBANKING Account https://secure-notice.net/a7Kx2 update your PAN card KYC immediately click the link https://secure-notice.net/a7Kx2",
-      "e": "scam",
-      "c": "world"
-    },
-    {
-      "t": "ßancolomßia informa compra realizada en Alkosto por 12/05. Si no realizaste la compra reversa el pago aqui https://secure-notice.net/a7Kx2",
-      "e": "scam",
-      "c": "world"
-    },
-    {
-      "t": "Se ha realizado un cargo de 2997.97 EUR en su cuenta. Si no reconoce este pago verifique inmediatamente: https://secure-notice.net/a7Kx2  ha realizado un cargo de 2957.99 EUR en su cuenta. Si no reconoce este pago verifique inmediatamente: https://secure-notice.net/a7Kx2",
-      "e": "scam",
-      "c": "world"
-    },
-    {
-      "t": "Your [REDACTED] Online-Account has been locked due to failed login attempts. Tap on https://secure-notice.net/a7Kx2 to reinstate and update your profile. Ref: 33476",
-      "e": "scam",
-      "c": "world"
-    },
-    {
-      "t": " is uit veiligheidsoverwegingen in beperking gesteld. Los het op door uw Mobiel Banken app bij te werken via: http://",
-      "e": "scam",
-      "c": "world"
-    },
-    {
-      "t": "URGENTE AGENCIA TRIBUTARIA: El resultado de su ejercicio anterior ha resultado favorable para usted. Pulse aquí para recibir la devolución de 17844€ más el bono oficial de 200€ inmediatamente antes del día Gracias.",
-      "e": "scam",
-      "c": "world"
-    },
-    {
-      "t": "Ok both our days. So what are you making for dinner tonite? Am I invited?",
+      "t": "Netflix: A new device signed in to your account in Tel Aviv. If this was you, you don't need to do anything.",
       "e": "legit",
       "c": "world"
     },
     {
-      "t": "Havent still waitin as usual... Ü come back sch oredi?",
-      "e": "legit",
-      "c": "world"
-    },
-    {
-      "t": "It so happens that there r 2waxsto do wat you want. She can come and ill get her medical insurance. And she'll be able to deliver and have basic care. I'm currently shopping for the right medical insurance for her. So just give me til friday morning. Thats when i.ll see the major person that can guide me to the right insurance.",
-      "e": "legit",
-      "c": "world"
-    },
-    {
-      "t": "You got job in wipro:)you will get every thing in life in 2 or 3 years.",
-      "e": "legit",
-      "c": "world"
-    },
-    {
-      "t": "She ran off with a younger man. we will make pretty babies together :)",
-      "e": "legit",
-      "c": "world"
-    },
-    {
-      "t": "* Will have two more cartons off u and is very pleased with shelves",
-      "e": "legit",
-      "c": "world"
-    },
-    {
-      "t": "Were trying to find a Chinese food place around here",
-      "e": "legit",
-      "c": "world"
-    },
-    {
-      "t": "\"Response\" is one of d powerful weapon 2 occupy a place in others 'HEART'... So, always give response 2 who cares 4 U\"... Gud night..swt dreams..take care",
-      "e": "legit",
-      "c": "world"
-    },
-    {
-      "t": "Call me back asap",
+      "t": "תתקשר אליי כשאתה יכול, זה חשוב",
       "e": "unclear",
-      "c": "world"
+      "c": "IL"
     },
     {
-      "t": "https://bit.ly/3kQ9x2",
+      "t": "https://did.li/x8Rt2",
       "e": "unclear",
-      "c": "world"
+      "c": "IL"
     },
     {
-      "t": "who is this?",
+      "t": "היי, קיבלתי את המספר שלך מחבר משותף. אפשר לשאול אותך משהו?",
       "e": "unclear",
-      "c": "world"
+      "c": "IL"
     },
     {
-      "t": "Hi, are you free later?",
+      "t": "Hey is this still your number?",
       "e": "unclear",
-      "c": "world"
+      "c": "US"
+    },
+    {
+      "t": "Did you see this? bit.ly/3Qk8Lz",
+      "e": "unclear",
+      "c": "US"
+    },
+    {
+      "t": "Hola, ¿quién eres? Tengo una llamada perdida de este número",
+      "e": "unclear",
+      "c": "ES"
+    },
+    {
+      "t": "Hallo, ich habe deine Nummer von Sabine bekommen. Hast du kurz Zeit?",
+      "e": "unclear",
+      "c": "DE"
+    },
+    {
+      "t": "Oi, tudo bem? Preciso falar com você",
+      "e": "unclear",
+      "c": "BR"
     }
   ]
 }
