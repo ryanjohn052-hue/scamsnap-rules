@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-24T18:26",
+  "version": "2026-11-24T18:27",
   "words": {
     "ORGS": [
       "abn amro",
@@ -807,21 +807,6 @@
   "recent": [
     {
       "d": "2026-11-19",
-      "c": "cl",
-      "t": "Coquimbo (Chile) DISEP: WhatsApp from someone posing as a municipal camera-center operator offers to track a lost pet on CCTV for a fee and asks for payment and details"
-    },
-    {
-      "d": "2026-11-19",
-      "c": "ie",
-      "t": "Emails posing as the Garda Fixed Charge Processing Office demand online payment of fake traffic fines to steal bank and personal details (real notices come by post only)"
-    },
-    {
-      "d": "2026-11-19",
-      "c": "us",
-      "t": "Calls posing as named Moore County (North Carolina) Sheriff staff cite a subpoena, DNA test or a jailed relative and demand bond or release-program payment, often by gift card"
-    },
-    {
-      "d": "2026-11-19",
       "c": "us",
       "t": "Calls spoofing the Glasgow (Kentucky) Police Department number: a woman caller asks the victim to send $250 for 'vehicle maintenance'"
     },
@@ -1554,6 +1539,21 @@
       "d": "2026-11-24",
       "c": "de",
       "t": "Munich police case: callers posing as police officers ask an elderly man to transfer money to a third-party account 'to catch criminals', then a fake prosecutor threatens guardianship (Entmuendigung) proceedings if he does not pay"
+    },
+    {
+      "d": "2026-11-24",
+      "c": "de",
+      "t": "Freiburg police: wave of calls from fake police officers, prosecutors or bank employees with invented stories to get at savings and valuables; several arrests, more attempts expected this week"
+    },
+    {
+      "d": "2026-11-24",
+      "c": "gh",
+      "t": "Ghana Cyber Security Authority: Black Friday lookalike brand shops ranked high in search, fake social-media sellers wanting payment to personal Mobile Money wallets, and SMS/WhatsApp/email links to fake shops that steal card details and passwords"
+    },
+    {
+      "d": "2026-11-24",
+      "c": "de",
+      "t": "Brandenburg police (Prignitz): 'shock calls' from callers posing as doctors who say a close relative is seriously ill, pressing seniors for money or personal details"
     }
   ],
   "safePhrases": [
