@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-24T11:28",
+  "version": "2026-11-24T12:08",
   "words": {
     "ORGS": [
       "abn amro",
@@ -1145,199 +1145,604 @@
   ],
   "qa": [
     {
-      "t": "משטרת ישראל - אגף התנועה: נמצא דוח תנועה פתוח על שמך בסך 250 ש\"ח. אם החוב לא יוסדר תוך 24 שעות התיק יועבר לבית המשפט לתעבורה. להסדרה: https://gov-il-tnua.com/pay",
+      "t": "ממתינה לך תשובה מהבנקאי",
       "e": "scam",
       "c": "IL"
     },
     {
-      "t": "עיריית חולון: נמצאה יתרת חוב ארנונה בסך 312.40 ש\"ח בחשבונך. למניעת הטלת ריבית והליכי גבייה יש להסדיר את התשלום כאן: https://holon-arnona.top/pay",
+      "t": "קופת חולים כללית: החשבון שלך יושעה עקב אי עדכון פרטים. לעדכון: https://clalit-update.online",
       "e": "scam",
       "c": "IL"
     },
     {
-      "t": "🔥 בלאק פריידיי בלעדי! מכונת קפה של ברנד מוביל ב-149 ש\"ח בלבד במקום 1,899. נשארו 7 יחידות, ההצעה נגמרת בחצות: https://blackfriday-il-deals.shop",
+      "t": "הובא לידיעתנו כי צפית בחומרים המציגים קטינים המעורבים בפעילות מינית מפורשת",
       "e": "scam",
       "c": "IL"
     },
     {
-      "t": "בנק הפועלים: זוהתה פעולה חריגה בכרטיס האשראי שלך בסך 3,480 ש\"ח. אם לא ביצעת את הפעולה, יש לאמת את פרטיך באופן מיידי: https://poalim-secure-check.com",
+      "t": "זכרו את דבריי, מי שמחזיק בשלוש המניות האלה, יהפוך למיליארדר עד סוף 2026. אני אמשיך להמליץ על מניות איכותיות וזולות בקבוצת הוואטסאפ שלי. המחיר הנוכחי רק 1.62 שקלים. אם תקנה 500 מניות, תוכל להרוויח 1.8 מיליון שקלים בטווח הקצר. כמובן, זה בחינם ואם תפספס את ההזדמנות הזו אולי תתחרט על כך כל חייך",
       "e": "scam",
       "c": "IL"
     },
     {
-      "t": "ביטוח לאומי: מגיע לך החזר דמי ביטוח בסך 1,240 ש\"ח. לקבלת ההחזר יש למלא את פרטי חשבון הבנק עד מחר: https://btl-refund.net/form",
+      "t": "ביטוח לאומי שלום. זאת הודעה על חוב קיים. סכום זה כולל את סכום החשבון סכום שייגבו לפני קנסות. לתשלום אונליין בקישור הבא",
       "e": "scam",
       "c": "IL"
     },
     {
-      "t": "Hello, this is a delivery notification from FedEx. Your package is on hold because the address is incomplete. Please visit the website, fedexfhk.com before November 24 to verify your order or delivery information.",
+      "t": "אגרת רישוי הרכב שלך לא שולמה. הרישיון יבוטל. לתשלום מהיר במשרד התחבורה: https://mot-gov-il.info/pay",
+      "e": "scam",
+      "c": "IL"
+    },
+    {
+      "t": "שלחנו את מענק המעסיק, אך קיימת בעיה בנתונים",
+      "e": "scam",
+      "c": "IL"
+    },
+    {
+      "t": "החבילה שלך בדואר ישראל הגיעה למחסן אך נחשבת לא ניתנת למסירה עקב פרטי כתובת לא ברורים. נא לאשר את הכתובת בקישור תוך 12 שעות. (תשובה Y. לאחר מכן עצור את ה-SMS ופתח מחדש את קישור הפעלת ה-SMS, או העתק את הקישור ל-Safari ופתח אותו) צוות דואר ישראל מאחל לכם חיים מאושרים!",
+      "e": "scam",
+      "c": "IL"
+    },
+    {
+      "t": "ביטוח לאומי: אושר לך מענק חד פעמי בסך 2,350 ₪. לקבלת הכסף יש למלא פרטי חשבון בנק בקישור: bit.ly/btl-maanak",
+      "e": "scam",
+      "c": "IL"
+    },
+    {
+      "t": "הרווח שוחרר למשקיעים שלי הבוקר, כך שבאמת אין לך בעיה לעבוד איתי",
+      "e": "scam",
+      "c": "IL"
+    },
+    {
+      "t": "קוד האימות שלך מוואטסאפ הוא 482-913. אם לא ביקשת, שלח לי את הקוד בטעות קיבלתי אותו, תעביר בבקשה",
+      "e": "scam",
+      "c": "IL"
+    },
+    {
+      "t": "כביש 6: נמצא חוב פתוח בסך 47.80 ש\"ח. להסדרה מיידית ולמניעת קנס כפול: https://kvish6-pay.info/il",
+      "e": "scam",
+      "c": "IL"
+    },
+    {
+      "t": "אדידס מחלקת 3,000 זוגות נעליים, חולצות ומסיכות חינם לכולם",
+      "e": "scam",
+      "c": "IL"
+    },
+    {
+      "t": "החבילה שלך הגיעה נא לשלם את העמלה 11.90 שח לקבל מספר חבילה",
+      "e": "scam",
+      "c": "IL"
+    },
+    {
+      "t": "החבילה שלך ממתינה למשלוח, עלינו לאשר את התשלום כדי שנוכל לעבד את בקשתך",
+      "e": "scam",
+      "c": "IL"
+    },
+    {
+      "t": "הזדמנות השקעה בלעדית: הקבוצה של יועץ ההשקעות הבכיר מניבה 30% בחודש. הצטרפו לקבוצת הטלגרם: t.me/vip_invest_il",
+      "e": "scam",
+      "c": "IL"
+    },
+    {
+      "t": "משתמש דואר ישראל, איזה כיף, החבילה שלך הגיעה לארץ, אבל עצר במכס, אתה צריך לשלם 298.79 שקל לשחרר אותו. החבילה שלך לא תשתחרר עד לקבלת התשלום, עליך לשלם תוך 48 שעות. לאחר 48 שעות, נתחיל בלקיחת עמלה של 25.04 שקל ליום. לתשלום מאובטח לחץ כאן",
+      "e": "scam",
+      "c": "IL"
+    },
+    {
+      "t": "אלה שעבדו בין השנים 1990 ו-2019, זכאים לקבל 15,000 שקלים מהמוסד לביטוח לאומי. בדוק אם שמך מופיע ברשימת האנשים הזכאים להטבה זו",
+      "e": "scam",
+      "c": "IL"
+    },
+    {
+      "t": "הביטוח הלאומי מעמיד לרשותך מסלול פיצויים מיוחד בעקבות המלחמה. הגש בקשה לסיוע כספי עכשיו",
+      "e": "scam",
+      "c": "IL"
+    },
+    {
+      "t": "הצעת עבודה מהבית! 300-900 ₪ ביום, רק לעשות לייקים לסרטונים. לפרטים בוואטסאפ: wa.me/447700900123",
+      "e": "scam",
+      "c": "IL"
+    },
+    {
+      "t": "נטפליקס: התשלום האחרון נכשל והמנוי שלך יבוטל היום. עדכן אמצעי תשלום: https://netflix-il-billing.com",
+      "e": "scam",
+      "c": "IL"
+    },
+    {
+      "t": "שלום לך. להזכירך, המועד האחרון לתשלום חשבון החשמל באחד או יותר מחשבונות החשמל שלך חלף. נבקשך להסדיר את התשלום בהקדם. מומלץ לאשר את פרטי חשבונך כעת באתר (כאן מופיע קישור לאתר מתחזה). באזור האישי קיים מידע על כלל החשבונות שלך וגישה לתשלום מהיר באמצעות כרטיס אשראי. תודה, חברת החשמל",
+      "e": "scam",
+      "c": "IL"
+    },
+    {
+      "t": "יש לך הודעה קולית חדשה מבנק הפועלים. להאזנה התקן את האפליקציה: https://hapoalim-voice.apk.download",
+      "e": "scam",
+      "c": "IL"
+    },
+    {
+      "t": "שלום, אנו חברת ביטוח ואנו מציעים כחלק משירותינו לבדוק את הביטוחים הקיימים לכם, כדי למנוע כפילויות. נשמח לקבל את תעודת הזהות שלכם, ופרטי ההזדהות שלכם לאתר \"הר הכסף\" כדי לבדוק את הביטוחים שלכם.",
+      "e": "scam",
+      "c": "IL"
+    },
+    {
+      "t": "החבילה שלך מ-AliExpress הגיעה לנקודת האיסוף סופר-פארם דיזנגוף. קוד איסוף: 7241. שעות פתיחה 08:00-22:00",
+      "e": "legit",
+      "c": "IL"
+    },
+    {
+      "t": "החבילה שלך נמסרה לתיבת הדואר. דואר ישראל",
+      "e": "legit",
+      "c": "IL"
+    },
+    {
+      "t": "מוקד 106 עיריית חיפה: הפנייה שלך מספר 55821 בנושא פנס רחוב טופלה. תודה",
+      "e": "legit",
+      "c": "IL"
+    },
+    {
+      "t": "קיבלת 120 ₪ מדנה לוי בביט. הכסף כבר בחשבון שלך.",
+      "e": "legit",
+      "c": "IL"
+    },
+    {
+      "t": "נפגשים מחר ב-7 אצל סבתא, תביאו עוגה",
+      "e": "legit",
+      "c": "IL"
+    },
+    {
+      "t": "עליכם להירשם מחדש לשירותים המזוהים (כגון האזור האישי), הודעה זו תקפה עד למועד הסרתה",
+      "e": "legit",
+      "c": "IL"
+    },
+    {
+      "t": "Your flight LY001 to New York is on time, boarding at gate B7",
+      "e": "legit",
+      "c": "IL"
+    },
+    {
+      "t": "The school trip is on Friday, kids need a packed lunch",
+      "e": "legit",
+      "c": "IL"
+    },
+    {
+      "t": "Your package from IKEA will be delivered between 10:00 and 14:00 tomorrow",
+      "e": "legit",
+      "c": "IL"
+    },
+    {
+      "t": "Your table for 4 at 8pm tonight is confirmed",
+      "e": "legit",
+      "c": "IL"
+    },
+    {
+      "t": "Amazon: A purchase of $849.99 iPhone was placed on your account. If this wasn't you, call 1-888-555-0143 immediately.",
       "e": "scam",
       "c": "US"
     },
     {
-      "t": "U.S. Marshals Service NOTICE: A federal warrant has been issued in your name for failure to appear for jury duty. To avoid arrest, a bond of $3,000 must be posted today. Call Sgt. Miller immediately at 979-555-0142.",
+      "t": "DMV Notice: Unpaid traffic violation. Your license will be suspended on 11/24. Pay now: https://dmv-ca-gov.pay-ticket.cc",
       "e": "scam",
       "c": "US"
     },
     {
-      "t": "TxTag: You have an outstanding toll balance of $6.85. To avoid a late fee of $50 and registration hold, pay by 11/26: https://txtag-pay.help/invoice",
+      "t": "The USPS package has arrived at the warehouse and cannot be delivered due to incomplete address information. Please confirm your address in the link. The US Postal team wishes you a wonderful day!",
       "e": "scam",
       "c": "US"
     },
     {
-      "t": "CommBank: Your 12,400 rewards points expire tonight. Redeem them now before they are lost: https://cba-rewards-redeem.com",
+      "t": "Hey! Sorry, wrong number? I was looking for Mike for the golf weekend. Anyway, nice to meet you, where are you from?",
       "e": "scam",
-      "c": "AU"
+      "c": "US"
     },
     {
-      "t": "Booking.com: Dear guest, your reservation at Hotel Lisboa Centro (Nov 29 - Dec 2, ref 4471902231) must be verified within 24 hours or it will be cancelled. Please confirm your card here: https://booking-verify-guest.com/4471902231",
+      "t": "Congrats! Your crypto wallet received 0.85 BTC airdrop. Connect your wallet to claim before it expires: https://claim-btc-airdrop.io",
       "e": "scam",
-      "c": "world"
+      "c": "US"
     },
     {
-      "t": "【e-Tax】至急：還付手続きが完了していません。還付金48,200円が失効する前に、こちらから確認してください：https://etax-refund-check.s3.amazonaws.com/index.html",
+      "t": "Dear Selected candidate, You have been selected through the School recruiting department for a job offer. This is a part time position that will only require 1-2hrs ,3 days a week, no work experience or skill is required. You can make $500 weekly without affecting your regular activities and academics. NOTE: This is for verified selected staff/students/Alumni of Cornell University, also international students are welcome for this opportunity. To apply/check your eligibility by visiting the Application Portal. to apply. Best Regards Cornell University Aid",
       "e": "scam",
-      "c": "JP"
+      "c": "US"
     },
     {
-      "t": "SIMIT: Usted tiene una multa de tránsito pendiente por $468.000. Evite el embargo y pague hoy con descuento del 50% en: https://simit-pagos-col.com",
+      "t": "Hey (your name), are we still meeting for the golf game/spa appointment this Thursday?",
       "e": "scam",
-      "c": "CO"
+      "c": "US"
     },
     {
-      "t": "Santander: Se ha detectado un cargo de 879,90€ en su cuenta. Si no reconoce esta operación llame urgentemente al 910 555 312 para anularla.",
+      "t": "You seem very nice, my name is Lydia, where are you from?",
       "e": "scam",
-      "c": "ES"
+      "c": "US"
     },
     {
-      "t": "Halo kak, saya dari customer service Trip.com. Untuk mengonfirmasi pesanan hotel kakak, mohon kirimkan kode OTP 6 digit yang baru saja masuk ke nomor kakak ya",
+      "t": "Medicare: Your benefits card is expiring. Call now to get your new card and keep your coverage: 1-866-555-0177",
       "e": "scam",
-      "c": "ID"
+      "c": "US"
     },
     {
-      "t": "وزارة الكهرباء: تم قبولك مبدئياً في وظيفة بالشركة القابضة لكهرباء مصر. لتأكيد موعد المقابلة يرجى تحويل 350 جنيه رسوم حجز وإرسال صورة البطاقة على واتساب",
+      "t": "Some DEPTS are currently hiring individuals who can assist some of their visiting professors by providing basic admin duties remotely. The successful candidate will Liaise with staff, other departments, and/or external organisations concerning matters regarding assigned work as well as coordinating with the Director. Weekly Salary: $400 ( $350 +$50 for miscellaneous including tax) For More Information;Get in touch with Prof [NAME] { Sincerely, [Name] (***) ***-***",
       "e": "scam",
-      "c": "EG"
+      "c": "US"
     },
     {
-      "t": "免費送2027媽祖月曆！只需支付運費60元，請加LINE客服完成帳戶驗證：https://blackcat-pay.tw-ship.com",
-      "e": "scam",
-      "c": "TW"
-    },
-    {
-      "t": "Bonjour c'est le livreur, j'ai un colis pour vous mais je n'ai pas pu le livrer. Pouvez-vous confirmer votre adresse ici : https://colis-relais-fr.info",
-      "e": "scam",
-      "c": "FR"
-    },
-    {
-      "t": "Nubank: Detectamos uma compra de R$ 2.349,00 no seu cartão. Caso não reconheça, ligue imediatamente para a central de segurança 0800 555 2211 e informe o código enviado.",
-      "e": "scam",
-      "c": "BR"
-    },
-    {
-      "t": "קוד האימות שלך לכניסה לאפליקציית לאומי הוא 482913. אין למסור את הקוד לאף אחד, גם לא לנציגי הבנק.",
-      "e": "legit",
-      "c": "IL"
-    },
-    {
-      "t": "שלום, השליח של צ'יטה יגיע אליך היום בין 14:00 ל-18:00 עם משלוח מ-KSP. אין צורך בפעולה.",
-      "e": "legit",
-      "c": "IL"
-    },
-    {
-      "t": "קיבלת 150 ש\"ח בביט מדנה כהן: \"על הפיצה אתמול 🍕\"",
-      "e": "legit",
-      "c": "IL"
-    },
-    {
-      "t": "הורים יקרים, מחר יום שישי אין לימודים בשל יום היערכות של צוות המורים. הצהרון יפעל כרגיל. בברכה, הנהלת בית הספר",
-      "e": "legit",
-      "c": "IL"
-    },
-    {
-      "t": "אבא תוכל לאסוף את נועה מהחוג ב-17:30? אני תקועה בפקק",
-      "e": "legit",
-      "c": "IL"
-    },
-    {
-      "t": "مكابي: تذكير بموعدك لفحص الدم يوم الأربعاء 25.11 الساعة 08:00 في فرع الناصرة. يرجى الحضور صائماً.",
-      "e": "legit",
-      "c": "IL"
-    },
-    {
-      "t": "Amazon: Your package with Wool Socks 6-pack was delivered. It was handed to a resident.",
+      "t": "Your Lyft receipt: $18.40 for your ride on Nov 18. Thanks for riding with Lyft!",
       "e": "legit",
       "c": "US"
     },
     {
-      "t": "CVS Pharmacy: Your prescription is ready for pickup at 1420 Main St. Reply STOP to opt out of texts.",
+      "t": "Hey, are we still on for dinner tonight at 7? Let me know if you're running late",
       "e": "legit",
       "c": "US"
     },
     {
-      "t": "Running 10 mins late, save me a seat at the pub x",
+      "t": "Thank you for confirming this activity. Your account is safe for continued use.",
       "e": "legit",
-      "c": "GB"
-    },
-    {
-      "t": "Doctolib : rappel de votre rendez-vous avec Dr Martin le jeudi 26 novembre à 15h30. En cas d'empêchement, pensez à annuler.",
-      "e": "legit",
-      "c": "FR"
-    },
-    {
-      "t": "Seu código de verificação do iFood é 3381. Não compartilhe com ninguém.",
-      "e": "legit",
-      "c": "BR"
-    },
-    {
-      "t": "هيئة كهرباء ومياه دبي: فاتورتك لشهر نوفمبر بقيمة 486.20 درهم متاحة الآن في تطبيق ديوا. شكراً لك.",
-      "e": "legit",
-      "c": "AE"
-    },
-    {
-      "t": "Netflix: A new device signed in to your account in Tel Aviv. If this was you, you don't need to do anything.",
-      "e": "legit",
-      "c": "world"
-    },
-    {
-      "t": "תתקשר אליי כשאתה יכול, זה חשוב",
-      "e": "unclear",
-      "c": "IL"
-    },
-    {
-      "t": "https://did.li/x8Rt2",
-      "e": "unclear",
-      "c": "IL"
-    },
-    {
-      "t": "היי, קיבלתי את המספר שלך מחבר משותף. אפשר לשאול אותך משהו?",
-      "e": "unclear",
-      "c": "IL"
-    },
-    {
-      "t": "Hey is this still your number?",
-      "e": "unclear",
       "c": "US"
     },
     {
-      "t": "Did you see this? bit.ly/3Qk8Lz",
-      "e": "unclear",
+      "t": "CVS Pharmacy: Your prescription is ready for pickup at 123 Main St. Reply STOP to opt out.",
+      "e": "legit",
       "c": "US"
     },
     {
-      "t": "Hola, ¿quién eres? Tengo una llamada perdida de este número",
-      "e": "unclear",
-      "c": "ES"
+      "t": "USPS 01123456789123456789, Expected Delivery by: Monday, September 11, 2017 Reply STOP to cancel",
+      "e": "legit",
+      "c": "US"
     },
     {
-      "t": "Hallo, ich habe deine Nummer von Sabine bekommen. Hast du kurz Zeit?",
-      "e": "unclear",
-      "c": "DE"
+      "t": "Your verification code is 739201. Don't share this code with anyone.",
+      "e": "legit",
+      "c": "US"
     },
     {
-      "t": "Oi, tudo bem? Preciso falar com você",
-      "e": "unclear",
-      "c": "BR"
+      "t": "EVRI: We attempted delivery of GB10092452 on the 06 AUG 2023. Use: rebook.info-89.com. To select a new slot.",
+      "e": "scam",
+      "c": "UK"
+    },
+    {
+      "t": "Royal Mail: Your parcel has a £1.99 unpaid shipping fee. Pay now or it will be returned to sender: https://royalmail-redelivery.uk-fee.com",
+      "e": "scam",
+      "c": "UK"
+    },
+    {
+      "t": "As Part of the NHS promise to battle the COV-10 virus, HMRC has issued a payment of £258 as a goodwill payment. Follow link to apply.",
+      "e": "scam",
+      "c": "UK"
+    },
+    {
+      "t": "Royal Mail: Your package is waiting for delivery. Please confirm the settlement of £1.99 on the following link: [LINK REDACTED]",
+      "e": "scam",
+      "c": "UK"
+    },
+    {
+      "t": "The banking app has put a 48-hour security on the app due to fraud. All nice but I have to pay two payments",
+      "e": "scam",
+      "c": "UK"
+    },
+    {
+      "t": "Hi mum I’m texting you off a friends phone I’ve smashed mine and their phones about to die, can you WhatsApp my new number please.",
+      "e": "scam",
+      "c": "UK"
+    },
+    {
+      "t": "We have been trying to contact you, follow below for more information,",
+      "e": "scam",
+      "c": "UK"
+    },
+    {
+      "t": "It Seems that, XXXXXX, is your password. I require your complete attention for the upcoming 24 hrs, or I may make sure you that you live out of guilt for the rest of your lifetime. Hey, you do not know me personally. However I know all the things concerning you. Your present fb contact list, mobile phone contacts along with all the digital activity in your computer from past 176 days. Which includes, your self pleasure video footage, which brings me to the main motive why I'm composing this particular mail to you. Well the last time you went to see the porn material websites, my malware ended ",
+      "e": "scam",
+      "c": "UK"
+    },
+    {
+      "t": "New Zealand parcel: Your parcel has arrived, but your shipment has been suspended due to missing house number. Check and update your address details. (Please reply \"Y\" then close this message. Reopen it, tap the link, or copy and paste it into Safari to continue.)",
+      "e": "scam",
+      "c": "UK"
+    },
+    {
+      "t": "xxxxxx is your YouTube verification code",
+      "e": "legit",
+      "c": "UK"
+    },
+    {
+      "t": "Your Tesco order will be delivered tomorrow between 10am and 11am. Your driver will text you on the day.",
+      "e": "legit",
+      "c": "UK"
+    },
+    {
+      "t": "Your parcel 'Wig' is expected to arrive on Monday.",
+      "e": "legit",
+      "c": "UK"
+    },
+    {
+      "t": "Hallo, Mama, das ist meine neue Nummer. Kannst du die speichern und mir auf WhatsApp schreiben?",
+      "e": "scam",
+      "c": "EU"
+    },
+    {
+      "t": "CORREOS EXPRESS: Su paquete no ha podido ser entregado; no se han cobrado las tasas de aduana (1,98€). Puede pagar en este enlace: [enlace fraudulento]",
+      "e": "scam",
+      "c": "EU"
+    },
+    {
+      "t": "Su Bizum está temporalmente suspendido por seguridad. Reactívelo aquí: https://bizum.es-particulares.es/bizum/",
+      "e": "scam",
+      "c": "EU"
+    },
+    {
+      "t": "notre système a détecté que votre SecurePass n'est pas vérifié",
+      "e": "scam",
+      "c": "EU"
+    },
+    {
+      "t": "Sicherheitsüberprüfung erforderlich-Bitte bestätigen Sie Ihre Kontodaten [Jetzt aktivieren]",
+      "e": "scam",
+      "c": "EU"
+    },
+    {
+      "t": "Hallo Mama, ich habe ein neues Handy. Bitte speichere die neue Nummer ab!",
+      "e": "scam",
+      "c": "EU"
+    },
+    {
+      "t": "[Correos] Su paquete no se ha podido entregar, no se han cobrado las tasas aduana (1,79€). Puede pagar en este enlace: [URL maliciosa]",
+      "e": "scam",
+      "c": "EU"
+    },
+    {
+      "t": "Hallo Mama, hallo Papa, mein Handy ist kaputt gegangen, das ist meine neue Nummer. Du kannst sie dir einspeichern und die alte löschen.",
+      "e": "scam",
+      "c": "EU"
+    },
+    {
+      "t": "Chronopost : Votre colis a été mis en attente, car il ne respecte pas le poids indiqué, Rendez-vous vite sur : mon-suivi-chronopost.info/logistique",
+      "e": "scam",
+      "c": "EU"
+    },
+    {
+      "t": "ANTAI : Vous avez un retard de paiement de 35,00 € dossier référence 20023099. Consulter mon dossier infraction via : gouvinfractions.com/index/php",
+      "e": "scam",
+      "c": "EU"
+    },
+    {
+      "t": "Coucou maman, c'est mon nouveau numéro de téléphone peux-tu I'enregistrer et m'envoyer un message via WhatsApp quand tu as le temps http://wa.me/33765120050",
+      "e": "scam",
+      "c": "EU"
+    },
+    {
+      "t": "Mama se me ha mojado el movil y no funciona, enviame un mensaje por wasap en cuanto puedas a este nuevo numero.",
+      "e": "scam",
+      "c": "EU"
+    },
+    {
+      "t": "Hoi pap, dit is mijn nieuwe telefoonnummer, het oude nummer kun je verwijderen.",
+      "e": "scam",
+      "c": "EU"
+    },
+    {
+      "t": "Ameli : Votre nouvelle carte vitale est disponible. Faites votre demande via : https://registre-cartevitale.fr/",
+      "e": "scam",
+      "c": "EU"
+    },
+    {
+      "t": "Tu próxima Inspección periódica de gas en C/ está prevista para el día 23 de Abril entre las 9:00 horas y las 12:00 horas. Para mas información consulta aquí https://i.nedgia.es/swxWi9v4",
+      "e": "legit",
+      "c": "EU"
+    },
+    {
+      "t": "Hallo Schatz, ich bin gleich zu Hause. Soll ich noch Brot mitbringen?",
+      "e": "legit",
+      "c": "EU"
+    },
+    {
+      "t": "CitaPrevia: Le invitamos a responder una breve encuesta, totalmente anónima, para conocer su nivel de satisfacción con los servicios prestados por la Agencia Tributaria de Andalucía e identificar elementos de mejora. https://tuturno.lajunta.es/00011578d07d9c54de3b996ec4091935c04",
+      "e": "legit",
+      "c": "EU"
+    },
+    {
+      "t": "Osakidetza quiere enviarte comunicaciones por WhatsApp a este numero, pero necesita tu consentimiento https://www.osakidetza.euskadi.eus/osakidetza-en-whatsapp/webosk00-landcon/es/",
+      "e": "legit",
+      "c": "EU"
+    },
+    {
+      "t": "Por la visita del Papa, hay que reforzar las reservas de sangre. Dona antes de su llegada en tu punto habitual de donación www.comunidad.madrid/donarsangre",
+      "e": "legit",
+      "c": "EU"
+    },
+    {
+      "t": "En breve será citado por la inspección médica del INSS para valorar la procedencia de su baja médica. https://run.gob.es/vumCSMS",
+      "e": "legit",
+      "c": "EU"
+    },
+    {
+      "t": "【车辆中心】尊敬的车主,您的“ETC通行卡”9月16日已冻结，请立即前往车辆中心：gs.ssvbvi.cn重新办理，恢复通行！",
+      "e": "scam",
+      "c": "ASIA"
+    },
+    {
+      "t": "件名: ＥＴＣサービスのお知らせ\nＥＴＣサービスをご利用いただきありがとうございます\nＥＴＣサービスは無効になりました。\n引き続きサービスをご利用いただきたい場合は、下記リンクより詳細をご確認ください。\nhttps://www.etc-meisai.jp.●●●●.shop/",
+      "e": "scam",
+      "c": "ASIA"
+    },
+    {
+      "t": "您的臺灣郵政包裹,追蹤號碼 1ZX091Y70390363136,今天不會送達。為了避免影響交付,請點擊以下連結⋯⋯ https://grco.de/bfJUR9",
+      "e": "scam",
+      "c": "ASIA"
+    },
+    {
+      "t": "Your Electricity Power will be disconnected tonight at 9.30pm because your previous month’s bill was not updated. Contact our electricity officer on 9XXXXXXXXX or click on this link xxxxxx",
+      "e": "scam",
+      "c": "ASIA"
+    },
+    {
+      "t": "給大家推薦一個群， 群内每天早上9点發佈大盤走勢解析，以及2支帶有買賣點的熱點個股。\n秒進輸入:sss\nsourl.cn/QrrekH",
+      "e": "scam",
+      "c": "ASIA"
+    },
+    {
+      "t": "【ETC出行】您的ETC信息认证未完成，为避免冻结权限用申请二次验证，点击etckko.com认证，回T退订。",
+      "e": "scam",
+      "c": "ASIA"
+    },
+    {
+      "t": "엄마, 휴대폰 액정 깨졌어. 보험처리 도와줘",
+      "e": "scam",
+      "c": "ASIA"
+    },
+    {
+      "t": "您订购的产品出现质量问题，可为您办理退款或重新发货。",
+      "e": "scam",
+      "c": "ASIA"
+    },
+    {
+      "t": "OO세무서입니다. 미환급 세금 80만원 있습니다. 세금 환급을 위해 신분증, 계좌번호를 보내주세요.",
+      "e": "scam",
+      "c": "ASIA"
+    },
+    {
+      "t": "aapke liye good news hai aapke iss number pe Kaun Banega Maha Crorepati ki Janab se Aapke is number pe 25 lakh rupay ka lottery laga hai lottery hasil karne ke liye is number par contact kare. Rana Pratap Singh- 0017726175812",
+      "e": "scam",
+      "c": "ASIA"
+    },
+    {
+      "t": "政府已啟用「111政府專屬短碼簡訊平臺」，請牢記111政府專用短碼，讓冒充政府機關的簡訊無所遁形，讓我們一同守護國家社會的安全。\n中華電信關心您",
+      "e": "legit",
+      "c": "ASIA"
+    },
+    {
+      "t": "收到可疑簡訊附短網址（近期以.xyz為大宗）請小心，切勿點擊連結、輸入個資或安裝不明程式，可使用「防詐達人」辨識網址！165關心您。",
+      "e": "legit",
+      "c": "ASIA"
+    },
+    {
+      "t": "【中央研究院】誠摯邀請您於112年11月21日前花5分鐘填寫「國人幸福感」問卷，填完可得50元7-11禮券! https://poll.survey.sinica.edu.tw/CAI/x?jqBJuWslgzkP5FETjD9CM1UW2yK7Mg0fx",
+      "e": "legit",
+      "c": "ASIA"
+    },
+    {
+      "t": "Koliniz yanlış adres nedeniyle gönderim merkezine iade edilmiştir. Tekrar gönderilmesi için lütfen adresinizi güncelleyin",
+      "e": "scam",
+      "c": "ME"
+    },
+    {
+      "t": "عنوان شحنتك لا يتضمن رقم المنزل، لذلك لن يمكن توصيله، يرجى تحديث البيانات على الرابط",
+      "e": "scam",
+      "c": "ME"
+    },
+    {
+      "t": "پرونده شکایت واصل گردید",
+      "e": "scam",
+      "c": "ME"
+    },
+    {
+      "t": "Sayın vatandaş, hakkınızda açılan ceza dosyanızın uzlaştırma evresine geçilmiştir. Mağduriyet yaşamamanız için acilen dosyayı inceleyin: (Sahte Link)",
+      "e": "scam",
+      "c": "ME"
+    },
+    {
+      "t": "HGS borcunuz var, icra işlemi başlatılacaktır",
+      "e": "scam",
+      "c": "ME"
+    },
+    {
+      "t": "Değerli müşterimiz, paketinizi birçok kez teslim etmeye çalıştık ancak adres bilgilerinizin hatalı olması nedeniyle teslimat gerçekleştirilemedi! Lütfen bilgileri 6 saat içinde düzenleyin: Belirtilen süre içerisinde bilgilerin güncellenmemesi halinde günlük gözaltı ücreti alınacaktır.",
+      "e": "scam",
+      "c": "ME"
+    },
+    {
+      "t": "عزيزى العميل حسابك البنكى الخاص تم إيقافه مؤقتا لتحديث نرجو الاتصال بنا",
+      "e": "scam",
+      "c": "ME"
+    },
+    {
+      "t": "بريد الإمارات.. لقد فقد ساعي البريد شحنتك بالصدفة، يرجى إعادة ملء بياناتك عبر الرابط لإعادة التحديث",
+      "e": "scam",
+      "c": "ME"
+    },
+    {
+      "t": "Вечір на радість! Не зневажте, допоможіть, будь ласка. Скиньте на рахунок 300 грн. Сиджу на зоні, дуже тяжко. Доводиться чесно просити у людей",
+      "e": "scam",
+      "c": "RU"
+    },
+    {
+      "t": "Ваш счёт пополнен на 5 000 ₽",
+      "e": "scam",
+      "c": "RU"
+    },
+    {
+      "t": "Ваша карта заблокирована из-за подозрительной операции. Для восстановления доступа перейдите по ссылке",
+      "e": "scam",
+      "c": "RU"
+    },
+    {
+      "t": "Вашу посилку затримано через неправильний індекс",
+      "e": "scam",
+      "c": "RU"
+    },
+    {
+      "t": "Можете ли вы прокомментировать нашу продукцию? За один отзыв вы можете получить от 100 до 6986 грн. Ежедневный доход – 8000 грн. Это простое удаленное задание. Если вы хотите принять участие, пожалуйста, укажите свой возраст",
+      "e": "scam",
+      "c": "RU"
+    },
+    {
+      "t": "Toskuyu bez tebya… Otdamsya v horoshie ruki. Tvoya Kreditka.",
+      "e": "legit",
+      "c": "RU"
+    },
+    {
+      "t": "СберБанк: зачисление/списание ХХХ ₽",
+      "e": "legit",
+      "c": "RU"
+    },
+    {
+      "t": "Zhdu tebya v Privatbanke, skuchayu. Tvoya Kreditka.",
+      "e": "legit",
+      "c": "RU"
+    },
+    {
+      "t": "Your OTP has been changed to 08#2134890. Contact 07#6134121 if you did not effect the change.",
+      "e": "scam",
+      "c": "AF"
+    },
+    {
+      "t": "Dear valued customer, due to BVN system upgrade, your account and ATM card has been blocked. Contact customer care on 089********.",
+      "e": "scam",
+      "c": "AF"
+    },
+    {
+      "t": "To avoid immediate suspension of your line, click the link to verify your details.",
+      "e": "scam",
+      "c": "AF"
+    },
+    {
+      "t": "Hello, my fellow members. I tried Inua Jamii Empowerment and won Ksh 95,000 into my MPesa account. Click below to claim yours. https://api.whatsapp.com/send?phone=254XXXXXXX07&text=REWARDS",
+      "e": "scam",
+      "c": "AF"
+    },
+    {
+      "t": "Dear client, we require you to send the first and second OTP numbers you received on your phone via SMS to 07#72£65. This is required by the South African Police to verify your bank account that is attached to your mobile phone number. You will be prosecuted if you don't send it immediately.",
+      "e": "scam",
+      "c": "AF"
+    },
+    {
+      "t": "#telebirr በየትኛውም የአገሪቱ ክፍል ለሚኖሩ ቤተሰቦችዎ፣ ጓደኞችዎ ወይም ለሚወዷቸው ሰዎች የቴሌብር አገልግሎት ተጠቃሚ ሆኑም አልሆኑም ገንዘብ በፍጥነት ለመላክ ያስችልዎታል።",
+      "e": "legit",
+      "c": "AF"
+    },
+    {
+      "t": "Correios: Informamos que sua encomenda foi retida para anlise pela fiscalizao alfandegria. Consulte detalhes acessando: pedidobarrado.com.",
+      "e": "scam",
+      "c": "LATAM"
+    },
+    {
+      "t": "Boa tarde, mãe. Adiciona meu novo número. Estou passando meus contatos pessoais para esse número",
+      "e": "scam",
+      "c": "LATAM"
+    },
+    {
+      "t": "Telcel Aviso! Tus 21,980 puntos vencerán en 3 días. Canjéalos ahora en: https://telccel.vip/mx",
+      "e": "scam",
+      "c": "LATAM"
     }
   ]
 }
