@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-24T22:35",
+  "version": "2026-11-24T23:25",
   "words": {
     "ORGS": [
       "abn amro",
@@ -810,16 +810,6 @@
     {
       "d": "2026-11-19",
       "c": "us",
-      "t": "Jail bond scam (Ada County, Idaho): callers posing as bail bondsmen or sheriff's staff tell relatives of recent arrestees to pay a bond fee by phone via crypto, Zelle or Venmo"
-    },
-    {
-      "d": "2026-11-19",
-      "c": "us",
-      "t": "Ohio: callers posing as Brimfield Police officers demand money or payment for a warrant; spoofed emails imitating City of Cleveland staff addresses (with an added @usa.com) request payments"
-    },
-    {
-      "d": "2026-11-19",
-      "c": "us",
       "t": "Hardeeville (South Carolina) police: calls posing as court officials say you missed jury duty and must pay a fine now to avoid arrest; fake Amazon reps claim money owed, asking for Bitcoin, gift cards or wire transfers"
     },
     {
@@ -1556,6 +1546,16 @@
       "d": "2026-11-24",
       "c": "ca",
       "t": "Red Deer RCMP (Alberta): at self-checkouts suspects have staff activate prepaid or gift cards, distract them, swap in unactivated cards, then ask for a cash refund on the 'cancelled' purchase"
+    },
+    {
+      "d": "2026-11-24",
+      "c": "us",
+      "t": "Texas DPS holiday advisory: fake delivery texts say a package is on hold or will be returned unless you update your address or pay a fee, plus look-alike shopping sites mimicking familiar retailers that steal payment details"
+    },
+    {
+      "d": "2026-11-24",
+      "c": "us",
+      "t": "Columbia Borough Police (Pennsylvania): texts say you are parked in a 'No Parking Zone' and link to a generic DMV-style site to pay a $5.99 or $6.99 fine, stealing card details"
     }
   ],
   "safePhrases": [
