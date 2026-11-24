@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-24T12:40",
+  "version": "2026-11-24T13:31",
   "words": {
     "ORGS": [
       "abn amro",
@@ -389,21 +389,6 @@
     "441933440333"
   ],
   "recent": [
-    {
-      "d": "2026-11-19",
-      "c": "us",
-      "t": "Virtual kidnapping calls (Sioux Falls, South Dakota): 'cartel' caller with a crying woman sounding like the daughter claims she is held captive and demands a wire to an account in Mexico"
-    },
-    {
-      "d": "2026-11-19",
-      "c": "us",
-      "t": "Calls posing as a Pickaway County (Ohio) Sheriff's sergeant claim outstanding citations and an active arrest warrant, demanding thousands of dollars via a Bitcoin ATM"
-    },
-    {
-      "d": "2026-11-19",
-      "c": "us",
-      "t": "Fake Chevron Federal Credit Union notices left on doors (Des Moines, Iowa) cite a non-existent home equity line of credit balance and urge an immediate call; victims asked for crypto or gift cards"
-    },
     {
       "d": "2026-11-19",
       "c": "us",
@@ -1138,6 +1123,21 @@
       "d": "2026-11-24",
       "c": "at",
       "t": "Upper Austria police: emails from lookalike addresses of real companies and freight forwarders place fake orders so goods are collected and diverted; check sender addresses for swapped letters (i for l, single for double letters)"
+    },
+    {
+      "d": "2026-11-24",
+      "c": "ch",
+      "t": "Bern cantonal police: SMS says a debit was taken from your account and asks you to call; a fake UBS or bank employee warns the account will be blocked and asks for bank cards, banking data or cash handed to a courier for a 'safe account'"
+    },
+    {
+      "d": "2026-11-24",
+      "c": "za",
+      "t": "Cape Town CCID: people dressed as officials stop tourists claiming a special permit is needed to walk the street (film shoot, President in town), 'sell' it on a card-machine-like device, take the card and PIN and withdraw cash"
+    },
+    {
+      "d": "2026-11-24",
+      "c": "hk",
+      "t": "Hong Kong police case: email posing as an airline partner says its receiving bank account details changed and requests advance payment for business expenses to new accounts (business email compromise)"
     }
   ],
   "safePhrases": [
