@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-24T13:31",
+  "version": "2026-11-24T14:30",
   "words": {
     "ORGS": [
       "abn amro",
@@ -389,31 +389,6 @@
     "441933440333"
   ],
   "recent": [
-    {
-      "d": "2026-11-19",
-      "c": "us",
-      "t": "Calls posing as a Toms River (New Jersey) police officer, giving a name and badge number, demand payment for alleged jury-duty violations"
-    },
-    {
-      "d": "2026-11-19",
-      "c": "us",
-      "t": "Calls posing as Sarasota (Florida) Police demand money for fines, warrants or bonds, threatening arrest; pay by gift cards, crypto, payment apps or wire"
-    },
-    {
-      "d": "2026-11-19",
-      "c": "gb",
-      "t": "GTA 6 launch-day phishing (UK ICO warning): emails/messages offering free downloads, early access or exclusive content to steal personal data, logins or payment"
-    },
-    {
-      "d": "2026-11-19",
-      "c": "se",
-      "t": "CERT-SE: fake invoice emails spoofing a colleague or manager link to a look-alike cloud-service login page to steal work credentials"
-    },
-    {
-      "d": "2026-11-19",
-      "c": "us",
-      "t": "Calls posing as a judge or jail official tell families an inmate (New Mexico, Socorro County) can be released and driven home for a payment of up to $1,000"
-    },
     {
       "d": "2026-11-19",
       "c": "us",
@@ -1138,6 +1113,31 @@
       "d": "2026-11-24",
       "c": "hk",
       "t": "Hong Kong police case: email posing as an airline partner says its receiving bank account details changed and requests advance payment for business expenses to new accounts (business email compromise)"
+    },
+    {
+      "d": "2026-11-24",
+      "c": "ua",
+      "t": "Ukraine Patrol Police: fake Telegram accounts copying the official 'Traffic Fines' bot send drivers fine notices with real-looking amounts, a 'discount' or a deadline and press them to pay through the bot's link"
+    },
+    {
+      "d": "2026-11-24",
+      "c": "de",
+      "t": "Rhein-Kreis Neuss police (Kaarst): callers posing as bank staff claim your computer has a virus, have you install remote-access software, then debit money from your account"
+    },
+    {
+      "d": "2026-11-24",
+      "c": "de",
+      "t": "Füssen police: paper letter posing as your own bank asks you to scan a QR code to 'update the banking app', leading to a phishing site that steals banking logins"
+    },
+    {
+      "d": "2026-11-24",
+      "c": "de",
+      "t": "Rheinpfalz police (Ludwigshafen): Facebook job ads promise earnings from AI-made content, then ask for transfers to 'test your solvency' plus ID copies, later used to take loans in your name"
+    },
+    {
+      "d": "2026-11-24",
+      "c": "ae",
+      "t": "Abu Dhabi Police: fake social-media ads for cheap winter desert camps, rest-house bookings and motorbike rentals ask for an up-front payment to 'lock in' the booking, bank details or a verification code"
     }
   ],
   "safePhrases": [
