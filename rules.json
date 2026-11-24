@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-24T19:35",
+  "version": "2026-11-24T20:30",
   "words": {
     "ORGS": [
       "abn amro",
@@ -749,7 +749,8 @@
     "palun tasuge vajalikud tasud, et",
     "piegades addresses del pakas piegade",
     "6 månader spotify premium nu",
-    "första 500 deltagarna"
+    "första 500 deltagarna",
+    "última oportunidad para pagar su infracción"
   ],
   "badHosts": [
     "platformbyfb.com",
@@ -806,16 +807,6 @@
     "441933440333"
   ],
   "recent": [
-    {
-      "d": "2026-11-19",
-      "c": "au",
-      "t": "ASIC/Macquarie warn 'QUFC Exchange' crypto platform falsely claims a Macquarie Bank partnership, using AI-generated videos of its executives, to lure investments"
-    },
-    {
-      "d": "2026-11-19",
-      "c": "de",
-      "t": "PayPal phishing email (Verbraucherzentrale): payment method expired or cannot be authorised, account restricted unless details are updated via link before a deadline"
-    },
     {
       "d": "2026-11-19",
       "c": "us",
@@ -1555,6 +1546,16 @@
       "d": "2026-11-24",
       "c": "co",
       "t": "Prosperidad Social (Meta, Colombia): texts, WhatsApp, calls and posts about pending subsidies (Colombia Mayor, Renta Ciudadana, IVA refund, fake 'Bono Mujer') link to fake registration pages asking for personal, bank or wallet data, passwords or money"
+    },
+    {
+      "d": "2026-11-24",
+      "c": "mx",
+      "t": "Mexico City SSC cyber police: SMS and emails with official-looking government logos claim an unpaid traffic fine ('Evite recargos', 'Pago pendiente', 'Última oportunidad para pagar su infracción') and link to fake payment sites that take personal and bank data"
+    },
+    {
+      "d": "2026-11-24",
+      "c": "hn",
+      "t": "Honduras National Police: messages and social-media posts about pending traffic fines or driving-permit renewal promise discounts or avoiding surcharges and push fraudulent links that compromise WhatsApp, social-media and bank accounts"
     }
   ],
   "safePhrases": [
