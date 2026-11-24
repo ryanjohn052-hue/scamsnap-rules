@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-23T23:26",
+  "version": "2026-11-24T00:26",
   "words": {
     "ORGS": [
       "abn amro",
@@ -1105,6 +1105,11 @@
       "d": "2026-11-23",
       "c": "us",
       "t": "Kent County (Delaware) Levy Court: calls spoofing the Sheriff's Office and Finance Office numbers, from a 'deputy' using a real deputy's surname, say you missed federal jury duty and a warrant is out, then demand payment via crypto ATMs"
+    },
+    {
+      "d": "2026-11-23",
+      "c": "us",
+      "t": "FBI Detroit (holiday season): fake online stores cloning IKEA, Amazon and big-box retailers advertise very low prices on social media to take card details, while fake FedEx/Amazon/USPS texts claim a held package, postage due or a 'tariff' fee and ask you to click and pay"
     }
   ],
   "safePhrases": [
