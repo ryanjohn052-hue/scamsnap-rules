@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-24T17:26",
+  "version": "2026-11-24T18:26",
   "words": {
     "ORGS": [
       "abn amro",
@@ -807,11 +807,6 @@
   "recent": [
     {
       "d": "2026-11-19",
-      "c": "us",
-      "t": "City of Bluefield (West Virginia) warns of fake payment requests for its Holiday of Lights event via PayPal, Venmo or other apps; the city takes only cash or check in person"
-    },
-    {
-      "d": "2026-11-19",
       "c": "cl",
       "t": "Coquimbo (Chile) DISEP: WhatsApp from someone posing as a municipal camera-center operator offers to track a lost pet on CCTV for a fee and asks for payment and details"
     },
@@ -1554,6 +1549,11 @@
       "d": "2026-11-24",
       "c": "il",
       "t": "Israel National Cyber Directorate: WhatsApp messages from foreign numbers posing as the Israel Tax Authority promise a tax refund and push a malicious Android app that reads messages and verification codes, accesses the camera and allows remote control"
+    },
+    {
+      "d": "2026-11-24",
+      "c": "de",
+      "t": "Munich police case: callers posing as police officers ask an elderly man to transfer money to a third-party account 'to catch criminals', then a fake prosecutor threatens guardianship (Entmuendigung) proceedings if he does not pay"
     }
   ],
   "safePhrases": [
