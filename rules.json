@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-25T20:35",
+  "version": "2026-11-25T21:35",
   "words": {
     "ORGS": [
       "abn amro",
@@ -814,16 +814,6 @@
     {
       "d": "2026-11-20",
       "c": "us",
-      "t": "Grand Traverse County (Michigan) sheriff: romance scammer posing as a US soldier stationed in Germany asks for money for bills and to 'bribe guards' to come home, paid via Bitcoin, Cash App and Apple gift cards"
-    },
-    {
-      "d": "2026-11-20",
-      "c": "es",
-      "t": "Vila-real local police: hijacked WhatsApp accounts message the owner's family and friends asking for urgent bank transfers"
-    },
-    {
-      "d": "2026-11-20",
-      "c": "us",
       "t": "Idaho Transportation Department: fake DMV calls and voicemails claim you owe money for unpaid traffic citations, threaten penalties and push you to pay on a fake site (dmvqh.com)"
     },
     {
@@ -1560,6 +1550,16 @@
       "d": "2026-11-25",
       "c": "gb",
       "t": "Devon County Council Trading Standards (UK): criminals exploit the digital landline switchover, contacting residents about the change to steal money or details; verify any switchover call or message with your provider directly"
+    },
+    {
+      "d": "2026-11-25",
+      "c": "us",
+      "t": "Parke County Sheriff's Office (Indiana): callers posing as bank employees or 'FDIC members' say your account was compromised and tell you to withdraw cash and hand it to a courier 'as evidence'"
+    },
+    {
+      "d": "2026-11-25",
+      "c": "us",
+      "t": "Broward Sheriff's Office (Florida): callers posing as deputies, detectives, pretrial specialists or agency staff target families of people just arrested, demanding urgent bail/bond, ankle-monitor or diversion fees via Zelle, Cash App, Venmo, wire, crypto, gift cards or ATMs"
     }
   ],
   "safePhrases": [
