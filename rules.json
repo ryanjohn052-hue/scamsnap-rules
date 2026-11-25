@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-25T11:27",
+  "version": "2026-11-25T12:35",
   "words": {
     "ORGS": [
       "abn amro",
@@ -814,16 +814,6 @@
     {
       "d": "2026-11-20",
       "c": "es",
-      "t": "Spanish National Police (Lugo) Black Friday warning: sponsored ads and fake social profiles lead to look-alike shops; fake store staff message about a refund and ask for bank data or to confirm a transaction"
-    },
-    {
-      "d": "2026-11-20",
-      "c": "de",
-      "t": "Bottrop police: fake police officers call and visit seniors claiming their cash must be checked for authenticity, collect it, then demand a fee to 'return' the seized money"
-    },
-    {
-      "d": "2026-11-20",
-      "c": "es",
       "t": "La Rioja National Police: WhatsApp investment groups with fake 'advisers' push manipulated trading platforms showing quick gains, then demand 'taxes' before any withdrawal and ask for ID copies and bank data"
     },
     {
@@ -1560,6 +1550,16 @@
       "d": "2026-11-25",
       "c": "us",
       "t": "Athens Police (Alabama): Black Friday pop-up and Facebook ads for too-good-to-be-true deals from fake sellers who want payment through money-transfer apps"
+    },
+    {
+      "d": "2026-11-25",
+      "c": "us",
+      "t": "Kentucky Court of Justice (AOC): holiday calls say a loved one can be out of jail in 45 minutes if you pay a 'hardship bond' via Venmo, or claim a missed jury duty/arrest warrant and demand gift cards, payment apps or wire transfers"
+    },
+    {
+      "d": "2026-11-25",
+      "c": "pk",
+      "t": "Pakistan bank warning: callers posing as security forces or law enforcement say a parcel with illegal items is registered in your name, threaten legal action and demand money to 'close the case'"
     }
   ],
   "safePhrases": [
