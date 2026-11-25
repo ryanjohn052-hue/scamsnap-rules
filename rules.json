@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-25T15:31",
+  "version": "2026-11-25T16:35",
   "words": {
     "ORGS": [
       "abn amro",
@@ -814,11 +814,6 @@
     {
       "d": "2026-11-20",
       "c": "us",
-      "t": "Pennsylvania State Police: fake social media ads sell heating oil far below market price and ask for payment via cash-transfer apps; scammers then pay the real oil company with stolen cards"
-    },
-    {
-      "d": "2026-11-20",
-      "c": "us",
       "t": "Ridgefield (Connecticut) police: calls spoofing the department's non-emergency number pose as officers giving jury-duty instructions and demand payment"
     },
     {
@@ -1560,6 +1555,11 @@
       "d": "2026-11-25",
       "c": "ca",
       "t": "Nanaimo RCMP and BBB (holiday season): fake courier texts and calls say 'Your package is being held at customs' and ask for personal or payment details, alongside fake online stores with too-good-to-be-true deals"
+    },
+    {
+      "d": "2026-11-25",
+      "c": "ca",
+      "t": "Alberta Securities Commission: fake investment providers build trust for weeks, show online 'profits', then coach victims to ignore bank fraud warnings, use a cover story or fake invoice, split transfers or use crypto, and pay 'fees' or 'taxes' to withdraw"
     }
   ],
   "safePhrases": [
