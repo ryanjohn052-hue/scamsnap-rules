@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-25T10:25",
+  "version": "2026-11-25T11:27",
   "words": {
     "ORGS": [
       "abn amro",
@@ -813,26 +813,6 @@
   "recent": [
     {
       "d": "2026-11-20",
-      "c": "de",
-      "t": "Lüneburg police: fake charity collectors ask for a small card donation (5 euro) on a mobile card reader whose display is manipulated, debiting about 2,000 euro after the PIN is entered"
-    },
-    {
-      "d": "2026-11-20",
-      "c": "de",
-      "t": "Bielefeld police: fake mini-job ads for an office assistant move to a messenger and have applicants open a bank account that is then used for fraud and money laundering"
-    },
-    {
-      "d": "2026-11-20",
-      "c": "de",
-      "t": "Schwalm-Eder (Hesse) police: calls from fake bank staff claim an unauthorised 2,000 euro debit; to 'recover' it a courier comes to collect your bank card and PIN"
-    },
-    {
-      "d": "2026-11-20",
-      "c": "gb",
-      "t": "Northamptonshire Police: scam calls spoof the disused Wellingborough Police Station number 01933 440333 to ask for money transfers, financial details or remote access to your computer"
-    },
-    {
-      "d": "2026-11-20",
       "c": "es",
       "t": "Spanish National Police (Lugo) Black Friday warning: sponsored ads and fake social profiles lead to look-alike shops; fake store staff message about a refund and ask for bank data or to confirm a transaction"
     },
@@ -1560,6 +1540,26 @@
       "d": "2026-11-25",
       "c": "za",
       "t": "Travelstart data breach (18 Nov): scammers posing as Travelstart, an airline or a hotel use leaked names, booking references and contacts to ask customers for card details to 'confirm flights'"
+    },
+    {
+      "d": "2026-11-25",
+      "c": "gb",
+      "t": "Cumbria Police (UK): callers spoofing caller ID pose as police officers and ask for money, bank details or remote access to your computer"
+    },
+    {
+      "d": "2026-11-25",
+      "c": "de",
+      "t": "Kiel police: callers posing as bank staff or 'banking supervision' claim suspicious debits or a card block, ask for the PIN and send someone to collect the bank card at home"
+    },
+    {
+      "d": "2026-11-25",
+      "c": "de",
+      "t": "Dueren police: shock call opens with a crying 'Mama?!' from a fake daughter, then a fake doctor says she has cancer and needs an 80,000-euro Swiss drug, paid in cash or valuables"
+    },
+    {
+      "d": "2026-11-25",
+      "c": "us",
+      "t": "Athens Police (Alabama): Black Friday pop-up and Facebook ads for too-good-to-be-true deals from fake sellers who want payment through money-transfer apps"
     }
   ],
   "safePhrases": [
