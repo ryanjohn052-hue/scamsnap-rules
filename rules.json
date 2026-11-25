@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-24T23:25",
+  "version": "2026-11-25T00:35",
   "words": {
     "ORGS": [
       "abn amro",
@@ -809,11 +809,6 @@
   "recent": [
     {
       "d": "2026-11-19",
-      "c": "us",
-      "t": "Hardeeville (South Carolina) police: calls posing as court officials say you missed jury duty and must pay a fine now to avoid arrest; fake Amazon reps claim money owed, asking for Bitcoin, gift cards or wire transfers"
-    },
-    {
-      "d": "2026-11-19",
       "c": "eg",
       "t": "UAE Embassy in Cairo: fraudulent calls and messages impersonate the embassy or its staff and ask for money transfers"
     },
@@ -1556,6 +1551,11 @@
       "d": "2026-11-24",
       "c": "us",
       "t": "Columbia Borough Police (Pennsylvania): texts say you are parked in a 'No Parking Zone' and link to a generic DMV-style site to pay a $5.99 or $6.99 fine, stealing card details"
+    },
+    {
+      "d": "2026-11-24",
+      "c": "ca",
+      "t": "Saskatchewan RCMP: calls or voicemails spoofing real RCMP detachment numbers, often from a self-styled 'detective', claim suspicious or fraudulent activity in your name and ask for personal information or money"
     }
   ],
   "safePhrases": [
