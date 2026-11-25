@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-25T00:35",
+  "version": "2026-11-25T02:35",
   "words": {
     "ORGS": [
       "abn amro",
@@ -808,21 +808,6 @@
   ],
   "recent": [
     {
-      "d": "2026-11-19",
-      "c": "eg",
-      "t": "UAE Embassy in Cairo: fraudulent calls and messages impersonate the embassy or its staff and ask for money transfers"
-    },
-    {
-      "d": "2026-11-20",
-      "c": "in",
-      "t": "Hyderabad Cyber Crime Police: SMS posing as Traffic e-Challan says a challan was issued on your vehicle and links to a fake 'MParivahan' APK that steals personal data"
-    },
-    {
-      "d": "2026-11-20",
-      "c": "hk",
-      "t": "Hijacked WhatsApp accounts clone a group chat using friends' names and photos from unfamiliar numbers, urgently asking members and their relatives to transfer money (HK$10,000-27,300)"
-    },
-    {
       "d": "2026-11-20",
       "c": "ae",
       "t": "Sharjah Police: fake housemaid recruitment ads on Instagram ask for advance payments to 'reserve a worker'; strangers offering to boost a child's game character ask for bank card details and OTP"
@@ -1363,6 +1348,11 @@
       "t": "FBI Detroit (holiday season): fake online stores cloning IKEA, Amazon and big-box retailers advertise very low prices on social media to take card details, while fake FedEx/Amazon/USPS texts claim a held package, postage due or a 'tariff' fee and ask you to click and pay"
     },
     {
+      "d": "2026-11-23",
+      "c": "us",
+      "t": "Red River Parish (Louisiana) Sheriff's Office: text says an Apple Pay transaction was made with your Apple ID and tells you to call a number, where callers ask for personal, banking and password details"
+    },
+    {
       "d": "2026-11-24",
       "c": "us",
       "t": "Hanover (Massachusetts) Police: emails from sender 'Your Police Department' warn of a 'contactless payment processing scam' at local gas stations and ask you to click a link to a list of impacted stations; the department did not send it"
@@ -1556,6 +1546,16 @@
       "d": "2026-11-24",
       "c": "ca",
       "t": "Saskatchewan RCMP: calls or voicemails spoofing real RCMP detachment numbers, often from a self-styled 'detective', claim suspicious or fraudulent activity in your name and ask for personal information or money"
+    },
+    {
+      "d": "2026-11-24",
+      "c": "us",
+      "t": "Delta County (Texas) Sheriff's Office: calls spoofing the sheriff's office number from people posing as its employees say you will be fined or jailed for missing jury duty"
+    },
+    {
+      "d": "2026-11-24",
+      "c": "ru",
+      "t": "Russian police: callers posing as a delivery service bring flowers from a 'secret admirer', then call again asking you to read out the digits from an SMS, giving them access to your bank account"
     }
   ],
   "safePhrases": [
