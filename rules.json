@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-25T04:35",
+  "version": "2026-11-25T05:25",
   "words": {
     "ORGS": [
       "abn amro",
@@ -809,11 +809,6 @@
   "recent": [
     {
       "d": "2026-11-20",
-      "c": "at",
-      "t": "Tyrol police: SMS posing as FinanzOnline asks you to enter bank details via a link; then a fake bank 'security expert' calls and has you confirm app push releases to 'cancel' transfers, which actually sends money abroad"
-    },
-    {
-      "d": "2026-11-20",
       "c": "de",
       "t": "Lower Franconia police: calls posing as local Sparkasse staff claim problems with your bank card and account, then send a courier to your home to collect the card and PIN"
     },
@@ -1556,6 +1551,11 @@
       "d": "2026-11-24",
       "c": "us",
       "t": "Cassia County Sheriff's Office (Idaho): callers posing as probation officers say someone you know is jailed and needs an ankle monitor to be released, offer a 'discount' for paying right away and demand gift cards or cryptocurrency"
+    },
+    {
+      "d": "2026-11-25",
+      "c": "us",
+      "t": "City of Rapid City (South Dakota): emails posing as the City Planning Commission, using the city seal, staff names, invoice numbers and fees, demand immediate wire transfers for development applications or approvals will be delayed"
     }
   ],
   "safePhrases": [
