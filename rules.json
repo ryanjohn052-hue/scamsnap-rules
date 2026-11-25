@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-25T13:26",
+  "version": "2026-11-25T14:25",
   "words": {
     "ORGS": [
       "abn amro",
@@ -813,16 +813,6 @@
   "recent": [
     {
       "d": "2026-11-20",
-      "c": "ar",
-      "t": "ANSES warning: fake messages and social profiles copying ANSES branding about a benefit payment or 'personal information update' ask for access keys, passwords and bank details"
-    },
-    {
-      "d": "2026-11-20",
-      "c": "lv",
-      "t": "Venipak (Latvia) Black Friday warning: unordered cash-on-delivery parcels, and fake courier texts saying a parcel could not be delivered and the address must be updated or a small fee paid within hours"
-    },
-    {
-      "d": "2026-11-20",
       "c": "us",
       "t": "Las Vegas police (LVMPD) and FBI: callers posing as bank staff, police or attorneys claim an urgent problem, threaten arrest if you hang up, and have you withdraw cash for a courier pickup or send money"
     },
@@ -1560,6 +1550,16 @@
       "d": "2026-11-25",
       "c": "xk",
       "t": "Kosovo Police: fake email titled 'Report: Cybercrime/Illegal Drugs', claiming to be from the acting police director general and the Kosovo Cyber Security Agency, threatens arrest unless you report to police within 24 hours; ignore it and do not reply"
+    },
+    {
+      "d": "2026-11-25",
+      "c": "de",
+      "t": "Kleve police (Emmerich): new wave of shock calls saying a close relative caused a serious traffic accident and a large sum of money must be paid; hang up immediately"
+    },
+    {
+      "d": "2026-11-25",
+      "c": "es",
+      "t": "Navarra (Spain) police: WhatsApp 'child in trouble' scam from an unknown number claiming the child changed numbers or broke their phone, then asking parents to urgently pay bills or transfer money"
     }
   ],
   "safePhrases": [
