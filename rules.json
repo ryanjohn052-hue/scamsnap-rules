@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-25T14:25",
+  "version": "2026-11-25T15:31",
   "words": {
     "ORGS": [
       "abn amro",
@@ -814,16 +814,6 @@
     {
       "d": "2026-11-20",
       "c": "us",
-      "t": "Las Vegas police (LVMPD) and FBI: callers posing as bank staff, police or attorneys claim an urgent problem, threaten arrest if you hang up, and have you withdraw cash for a courier pickup or send money"
-    },
-    {
-      "d": "2026-11-20",
-      "c": "us",
-      "t": "ComEd (Chicago) warning: spoofed calls/texts using ComEd's name claim an overdue bill or outage and threaten disconnection within an hour unless paid by gift card, prepaid card, crypto, Zelle or Venmo; fake technicians at the door ask for cash"
-    },
-    {
-      "d": "2026-11-20",
-      "c": "us",
       "t": "Pennsylvania State Police: fake social media ads sell heating oil far below market price and ask for payment via cash-transfer apps; scammers then pay the real oil company with stolen cards"
     },
     {
@@ -1560,6 +1550,16 @@
       "d": "2026-11-25",
       "c": "es",
       "t": "Navarra (Spain) police: WhatsApp 'child in trouble' scam from an unknown number claiming the child changed numbers or broke their phone, then asking parents to urgently pay bills or transfer money"
+    },
+    {
+      "d": "2026-11-25",
+      "c": "de",
+      "t": "Mettmann police (Hilden): callers posing as police warn of robberies in the neighbourhood, then a man with a fake police ID comes to the door to take jewellery and valuables into 'safe custody'"
+    },
+    {
+      "d": "2026-11-25",
+      "c": "ca",
+      "t": "Nanaimo RCMP and BBB (holiday season): fake courier texts and calls say 'Your package is being held at customs' and ask for personal or payment details, alongside fake online stores with too-good-to-be-true deals"
     }
   ],
   "safePhrases": [
