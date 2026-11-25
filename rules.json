@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-25T02:35",
+  "version": "2026-11-25T03:25",
   "words": {
     "ORGS": [
       "abn amro",
@@ -809,11 +809,6 @@
   "recent": [
     {
       "d": "2026-11-20",
-      "c": "ae",
-      "t": "Sharjah Police: fake housemaid recruitment ads on Instagram ask for advance payments to 'reserve a worker'; strangers offering to boost a child's game character ask for bank card details and OTP"
-    },
-    {
-      "d": "2026-11-20",
       "c": "de",
       "t": "Gauting/Gilching (Bavaria) police: shock calls from fake police officers say burglars are targeting you and your valuables must be secured, then collect gold bars and cash"
     },
@@ -1556,6 +1551,11 @@
       "d": "2026-11-24",
       "c": "ru",
       "t": "Russian police: callers posing as a delivery service bring flowers from a 'secret admirer', then call again asking you to read out the digits from an SMS, giving them access to your bank account"
+    },
+    {
+      "d": "2026-11-25",
+      "c": "us",
+      "t": "Plum Borough Police (Pennsylvania): ongoing texts tell residents to review a citation and pay a fine on a website, threatening late fees and driving-privilege suspension, to steal card and personal details"
     }
   ],
   "safePhrases": [
