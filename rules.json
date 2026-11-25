@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-25T18:35",
+  "version": "2026-11-25T19:35",
   "words": {
     "ORGS": [
       "abn amro",
@@ -813,16 +813,6 @@
   "recent": [
     {
       "d": "2026-11-20",
-      "c": "gb",
-      "t": "UK Civil Aviation Authority: Black Friday / Travel Tuesday fake holiday and flight deals on ads, social posts and AI-made sites take payment (often bank transfer) for trips that do not exist"
-    },
-    {
-      "d": "2026-11-20",
-      "c": "us",
-      "t": "Woodward (Oklahoma) police: fake emailed invoice from the 'City of Woodward Metropolitan Area Planning Commission' demands a $3,800 payment; real city mail only comes from @city-of-woodward-ok.gov"
-    },
-    {
-      "d": "2026-11-20",
       "c": "us",
       "t": "Harris County (Texas) Sheriff's Office: callers use real deputies' names and badge numbers about warrants, missed jury duty or a jailed relative needing bond, and demand gift cards, money transfers or Bitcoin-machine payments"
     },
@@ -1560,6 +1550,16 @@
       "d": "2026-11-25",
       "c": "us",
       "t": "Adrian Police (Michigan): calls spoofing TLC Community Credit Union caller ID ask members to verify their identity, give account details or share verification codes"
+    },
+    {
+      "d": "2026-11-25",
+      "c": "us",
+      "t": "North Carolina Attorney General (Black Friday/Cyber Monday): fake online stores with stolen photos, fabricated reviews and countdown clocks ask for prepaid cards, wire or crypto; texts/emails say a package is delayed and ask for 'additional information or payment'"
+    },
+    {
+      "d": "2026-11-25",
+      "c": "us",
+      "t": "FBI (via Maine reporting): holiday scammers use AI to copy real retailers' websites and pose as national or local stores, push social-media 'deals' and AI-written fake charity appeals, and demand gift-card-only payment"
     }
   ],
   "safePhrases": [
