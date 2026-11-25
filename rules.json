@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-25T12:35",
+  "version": "2026-11-25T13:26",
   "words": {
     "ORGS": [
       "abn amro",
@@ -813,11 +813,6 @@
   "recent": [
     {
       "d": "2026-11-20",
-      "c": "es",
-      "t": "La Rioja National Police: WhatsApp investment groups with fake 'advisers' push manipulated trading platforms showing quick gains, then demand 'taxes' before any withdrawal and ask for ID copies and bank data"
-    },
-    {
-      "d": "2026-11-20",
       "c": "ar",
       "t": "ANSES warning: fake messages and social profiles copying ANSES branding about a benefit payment or 'personal information update' ask for access keys, passwords and bank details"
     },
@@ -1560,6 +1555,11 @@
       "d": "2026-11-25",
       "c": "pk",
       "t": "Pakistan bank warning: callers posing as security forces or law enforcement say a parcel with illegal items is registered in your name, threaten legal action and demand money to 'close the case'"
+    },
+    {
+      "d": "2026-11-25",
+      "c": "xk",
+      "t": "Kosovo Police: fake email titled 'Report: Cybercrime/Illegal Drugs', claiming to be from the acting police director general and the Kosovo Cyber Security Agency, threatens arrest unless you report to police within 24 hours; ignore it and do not reply"
     }
   ],
   "safePhrases": [
