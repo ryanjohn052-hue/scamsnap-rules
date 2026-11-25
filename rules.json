@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-25T17:40",
+  "version": "2026-11-25T18:35",
   "words": {
     "ORGS": [
       "abn amro",
@@ -813,11 +813,6 @@
   "recent": [
     {
       "d": "2026-11-20",
-      "c": "hk",
-      "t": "Hong Kong Police (CyberDefender): fake online-shop customer service cites your real name, order history and address from leaked data, offers a 'refund' and asks you to click a link, enter details or authorise a transfer"
-    },
-    {
-      "d": "2026-11-20",
       "c": "gb",
       "t": "UK Civil Aviation Authority: Black Friday / Travel Tuesday fake holiday and flight deals on ads, social posts and AI-made sites take payment (often bank transfer) for trips that do not exist"
     },
@@ -1560,6 +1555,11 @@
       "d": "2026-11-25",
       "c": "hn",
       "t": "Honduras authorities: fake work-visa 'facilitators' and overseas job offers charge extra fees for paperwork or 'medical consultations'; the only fee in a US work-visa process is the embassy consular fee"
+    },
+    {
+      "d": "2026-11-25",
+      "c": "us",
+      "t": "Adrian Police (Michigan): calls spoofing TLC Community Credit Union caller ID ask members to verify their identity, give account details or share verification codes"
     }
   ],
   "safePhrases": [
