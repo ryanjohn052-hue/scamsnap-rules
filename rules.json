@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-25T09:31",
+  "version": "2026-11-25T10:25",
   "words": {
     "ORGS": [
       "abn amro",
@@ -813,16 +813,6 @@
   "recent": [
     {
       "d": "2026-11-20",
-      "c": "hn",
-      "t": "Honduras DNVT: fake SMS traffic-fine notices claim an unpaid parking infraction, offer an early-payment 'discount' on 400 lempiras and link to a site that steals personal and bank details"
-    },
-    {
-      "d": "2026-11-20",
-      "c": "de",
-      "t": "Märkischer Kreis police: fake chamber of commerce (IHK) letters tell businesses to update company data on a website under threat of a penalty; then a caller spoofing the house bank claims suspicious transfers and asks to move money to a 'separate account'"
-    },
-    {
-      "d": "2026-11-20",
       "c": "de",
       "t": "Lüneburg police: fake charity collectors ask for a small card donation (5 euro) on a mobile card reader whose display is manipulated, debiting about 2,000 euro after the PIN is entered"
     },
@@ -1560,6 +1550,16 @@
       "d": "2026-11-25",
       "c": "ph",
       "t": "Philippine National Police Anti-Cybercrime Group: holiday-season fake online sellers on social media pad their pages with bought followers and fabricated reviews and testimonials to get shoppers to pay for goods that never arrive"
+    },
+    {
+      "d": "2026-11-25",
+      "c": "za",
+      "t": "SASSA (South Africa): Facebook pages and ads named 'SASSA SRD 370' or '370 SRD', plus WhatsApp, SMS and calls showing the agency's name, offer help with the R370 grant or old-age grant and ask for personal details and PIN"
+    },
+    {
+      "d": "2026-11-25",
+      "c": "za",
+      "t": "Travelstart data breach (18 Nov): scammers posing as Travelstart, an airline or a hotel use leaked names, booking references and contacts to ask customers for card details to 'confirm flights'"
     }
   ],
   "safePhrases": [
