@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-25T05:25",
+  "version": "2026-11-25T06:35",
   "words": {
     "ORGS": [
       "abn amro",
@@ -750,7 +750,8 @@
     "piegades addresses del pakas piegade",
     "6 månader spotify premium nu",
     "första 500 deltagarna",
-    "última oportunidad para pagar su infracción"
+    "última oportunidad para pagar su infracción",
+    "if you hang up, you will be arrested"
   ],
   "badHosts": [
     "platformbyfb.com",
@@ -807,11 +808,6 @@
     "441933440333"
   ],
   "recent": [
-    {
-      "d": "2026-11-20",
-      "c": "de",
-      "t": "Lower Franconia police: calls posing as local Sparkasse staff claim problems with your bank card and account, then send a courier to your home to collect the card and PIN"
-    },
     {
       "d": "2026-11-20",
       "c": "ph",
@@ -1556,6 +1552,11 @@
       "d": "2026-11-25",
       "c": "us",
       "t": "City of Rapid City (South Dakota): emails posing as the City Planning Commission, using the city seal, staff names, invoice numbers and fees, demand immediate wire transfers for development applications or approvals will be delayed"
+    },
+    {
+      "d": "2026-11-25",
+      "c": "us",
+      "t": "Miami-Dade Sheriff's Office (Florida): calls spoofing the sheriff's department on caller ID say you missed jury duty and have an arrest warrant with large fines, threaten arrest if you hang up, and send you to a meet-up spot to hand over cash"
     }
   ],
   "safePhrases": [
