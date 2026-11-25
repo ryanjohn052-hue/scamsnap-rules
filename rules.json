@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-25T21:35",
+  "version": "2026-11-25T22:35",
   "words": {
     "ORGS": [
       "abn amro",
@@ -813,16 +813,6 @@
   "recent": [
     {
       "d": "2026-11-20",
-      "c": "us",
-      "t": "Idaho Transportation Department: fake DMV calls and voicemails claim you owe money for unpaid traffic citations, threaten penalties and push you to pay on a fake site (dmvqh.com)"
-    },
-    {
-      "d": "2026-11-20",
-      "c": "ca",
-      "t": "Manitoba RCMP: spoofed calls posing as a delivery service, your bank, the Canadian Anti-Fraud Centre and an RCMP officer claim suspicious account activity and send you to a Bitcoin ATM to 'verify' identity by depositing cash"
-    },
-    {
-      "d": "2026-11-20",
       "c": "ca",
       "t": "Ontario Provincial Police (Algoma): grandparent scam resurfaces; callers pose as a grandchild in trouble and urgently ask seniors for cash or gift cards"
     },
@@ -1560,6 +1550,16 @@
       "d": "2026-11-25",
       "c": "us",
       "t": "Broward Sheriff's Office (Florida): callers posing as deputies, detectives, pretrial specialists or agency staff target families of people just arrested, demanding urgent bail/bond, ankle-monitor or diversion fees via Zelle, Cash App, Venmo, wire, crypto, gift cards or ATMs"
+    },
+    {
+      "d": "2026-11-25",
+      "c": "us",
+      "t": "Perry Police (Georgia): scammers posing as the Houston County Detention Center tell inmates' families the jail is overcrowded and the inmate can be released on an ankle monitor for a payment via Cash App, Chime or other apps"
+    },
+    {
+      "d": "2026-11-25",
+      "c": "us",
+      "t": "Chandler Police (Texas): counterfeit cash circulating, plus fear-tactic calls demanding you settle an 'issue' by loading money onto gift cards or paying in Bitcoin"
     }
   ],
   "safePhrases": [
