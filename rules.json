@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-25T09:23",
+  "version": "2026-11-25T09:31",
   "words": {
     "ORGS": [
       "abn amro",
@@ -813,11 +813,6 @@
   "recent": [
     {
       "d": "2026-11-20",
-      "c": "ph",
-      "t": "PNP: fake online 'virtual assistant' job offers recruit Filipinos into a scam hub posing as a US FBI office; verify job offers before accepting"
-    },
-    {
-      "d": "2026-11-20",
       "c": "hn",
       "t": "Honduras DNVT: fake SMS traffic-fine notices claim an unpaid parking infraction, offer an early-payment 'discount' on 400 lempiras and link to a site that steals personal and bank details"
     },
@@ -1542,14 +1537,14 @@
       "t": "Russian police: callers posing as a delivery service bring flowers from a 'secret admirer', then call again asking you to read out the digits from an SMS, giving them access to your bank account"
     },
     {
-      "d": "2026-11-25",
-      "c": "us",
-      "t": "Plum Borough Police (Pennsylvania): ongoing texts tell residents to review a citation and pay a fine on a website, threatening late fees and driving-privilege suspension, to steal card and personal details"
-    },
-    {
       "d": "2026-11-24",
       "c": "us",
       "t": "Cassia County Sheriff's Office (Idaho): callers posing as probation officers say someone you know is jailed and needs an ankle monitor to be released, offer a 'discount' for paying right away and demand gift cards or cryptocurrency"
+    },
+    {
+      "d": "2026-11-25",
+      "c": "us",
+      "t": "Plum Borough Police (Pennsylvania): ongoing texts tell residents to review a citation and pay a fine on a website, threatening late fees and driving-privilege suspension, to steal card and personal details"
     },
     {
       "d": "2026-11-25",
@@ -1560,6 +1555,11 @@
       "d": "2026-11-25",
       "c": "us",
       "t": "Miami-Dade Sheriff's Office (Florida): calls spoofing the sheriff's department on caller ID say you missed jury duty and have an arrest warrant with large fines, threaten arrest if you hang up, and send you to a meet-up spot to hand over cash"
+    },
+    {
+      "d": "2026-11-25",
+      "c": "ph",
+      "t": "Philippine National Police Anti-Cybercrime Group: holiday-season fake online sellers on social media pad their pages with bought followers and fabricated reviews and testimonials to get shoppers to pay for goods that never arrive"
     }
   ],
   "safePhrases": [
