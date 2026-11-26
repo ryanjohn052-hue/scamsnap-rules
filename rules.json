@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-26T07:25",
+  "version": "2026-11-26T07:43",
   "words": {
     "ORGS": [
       "abn amro",
@@ -1577,199 +1577,189 @@
   ],
   "qa": [
     {
-      "t": "משטרת ישראל - הודעה על קנס תעבורה שטרם שולם בסך 250 ש\"ח. למניעת הליכים משפטיים ותוספת פיגורים יש להסדיר בקישור: https://police-gov-il.pay-fine.top",
-      "e": "scam",
-      "c": "IL"
-    },
-    {
-      "t": "شرطة إسرائيل: لديك مخالفة سير غير مدفوعة بقيمة 250 شيكل. لتجنب الإجراءات القانونية ادفع عبر الرابط: https://gov-il-police.icu/pay",
-      "e": "scam",
-      "c": "IL"
-    },
-    {
-      "t": "דואר ישראל: החבילה שלך מעוכבת עקב כתובת חסרה. לעדכון הכתובת ותשלום דמי שחרור של 3.90 ₪: https://israelpost-delivery.co/il",
-      "e": "scam",
-      "c": "IL"
-    },
-    {
-      "t": "החבילה שלך ממתינה במכס. יש להסדיר תשלום מכס בסך 18.40 ש\"ח תוך 48 שעות אחרת תוחזר לשולח: https://customs-il.parcel-help.com",
-      "e": "scam",
-      "c": "IL"
-    },
-    {
-      "t": "בנק לאומי: חשבונך הוגבל עקב פעילות חריגה. לביטול ההגבלה יש לאמת פרטים: https://leumi-secure-verify.net",
-      "e": "scam",
-      "c": "IL"
-    },
-    {
-      "t": "כאל: 4,300 נקודות הכוכבים שלך יפוגו היום בחצות! מממשים עכשיו במתנות: https://cal-points.shop",
-      "e": "scam",
-      "c": "IL"
-    },
-    {
-      "t": "היי אמא זה אני, נפל לי הטלפון למים וזה המספר החדש שלי. תשמרי אותו. את יכולה לעשות לי העברה של 2,800 ש״ח בביט? אני אחזיר מחר",
-      "e": "scam",
-      "c": "IL"
-    },
-    {
-      "t": "ביטוח לאומי: אושר לך מענק חד פעמי בסך 1,780 ש\"ח. לקבלת הכסף יש למלא פרטי חשבון בנק: https://btl-maanak.online",
-      "e": "scam",
-      "c": "IL"
-    },
-    {
-      "t": "Hello, this is a delivery notification. Please visit the website, fedexpfm.com before November 24 to verify your order or delivery information. If not processed by the deadline, the package will be returned to the sender.",
-      "e": "scam",
-      "c": "US"
-    },
-    {
-      "t": "[LAST CHANCE] Ryan, You've Won a Black Friday GOLDEN TICKET! OPEN to Reveal Prize >> https://bf-golden-ticket.click/r/88",
-      "e": "scam",
-      "c": "US"
-    },
-    {
-      "t": "Quickly… Confirm your Gift Shipping Address: I'm sending you up to 6 GIFTS… Black Friday Today Only: https://gift-ship-confirm.shop",
-      "e": "scam",
-      "c": "US"
-    },
-    {
-      "t": "Anyone who completes this CVS questionnaire will unlock an exclusive Black Friday gift card. Don't wait! Limited time offer. https://cvs-survey-reward.top",
-      "e": "scam",
-      "c": "US"
-    },
-    {
-      "t": "EasyPark: Your parking payment failed and your account will be suspended. Update your payment details today: https://easypark-au-billing.com",
-      "e": "scam",
-      "c": "AU"
-    },
-    {
-      "t": "CommBank: Your 12,500 Awards points expire tonight. Redeem them now before they are lost: https://cba-awards-redeem.com",
-      "e": "scam",
-      "c": "AU"
-    },
-    {
-      "t": "Canadian Anti-Fraud Centre: your identity was used in a fraud case. To protect your savings, deposit them at the identity verification machine today. Call agent at 1-888-555-0142.",
-      "e": "scam",
-      "c": "CA"
-    },
-    {
-      "t": "Hola mamá, se me ha roto el móvil, este es mi número nuevo. ¿Me puedes hacer un Bizum de 950€? Es urgente, luego te explico",
-      "e": "scam",
-      "c": "ES"
-    },
-    {
-      "t": "Policía Nacional: tiene una multa de tránsito pendiente con 50% de descuento solo hoy. Pague aquí: https://multas-dnvt-hn.com",
-      "e": "scam",
-      "c": "HN"
-    },
-    {
-      "t": "PayPal: Sicherheitsupdate für Ihr Konto. Bitte innerhalb von 24 Stunden bestätigen, sonst wird Ihr Konto eingeschränkt. Jetzt Konto prüfen: https://paypal-konto-pruefung.de",
+      "t": "Commerzbank: SOFORTIGE KONTOSPERRE GEFÄHRDET. Ein Update Ihres photoTAN-QR ist zwingend erforderlich: https://cb-phototan-update.com",
       "e": "scam",
       "c": "DE"
     },
     {
-      "t": "קוד האימות שלך לכניסה לאתר בנק הפועלים הוא 482913. אין למסור את הקוד לאף אחד.",
-      "e": "legit",
+      "t": "[Advanzia]: Bestätigung offen: Ihre Mobilfunknummer. Bestätigen Sie jetzt, sonst wird Ihr Zugang eingeschränkt: https://advanzia-bestaetigung.info",
+      "e": "scam",
+      "c": "DE"
+    },
+    {
+      "t": "Deutsche Rentenversicherung: Kurze Sache zu Ihren Kontaktdaten – bitte bis 30. November aktualisieren, sonst kann Ihre Rente nicht ausgezahlt werden: https://drv-kontakt-update.de",
+      "e": "scam",
+      "c": "DE"
+    },
+    {
+      "t": "Klimabonus: Ihre Auszahlung von 250 € ist noch offen. Bitte bestätigen Sie Ihre Bankdaten: https://klimabonus-auszahlung.at-info.com",
+      "e": "scam",
+      "c": "AT"
+    },
+    {
+      "t": "Bonjour je suis passé un peu plus tôt pour vous remettre ceci au nom de Marie Dupont, merci de nous indiquer votre directive rapidement : https://marie-dupont.m-8orekm3.pro",
+      "e": "scam",
+      "c": "FR"
+    },
+    {
+      "t": "قوى الأمن الداخلي: لديك مخالفة سرعة غير مسددة. يرجى الدفع خلال 48 ساعة لتجنب الغرامة الإضافية: https://isf-gov-lb.pay-fines.cc",
+      "e": "scam",
+      "c": "LB"
+    },
+    {
+      "t": "Hi, please review the Statement of Account before our meeting today, thanks. Statement of Account_54d3.zip",
+      "e": "scam",
+      "c": "SG"
+    },
+    {
+      "t": "BDO: Your account has been temporarily locked due to suspicious login. Verify now to avoid permanent suspension: https://bdo-online-verify.ph-secure.com",
+      "e": "scam",
+      "c": "PH"
+    },
+    {
+      "t": "أبشر: تم تعليق خدمات هويتك الرقمية. لتجنب الإيقاف يرجى تحديث بياناتك عبر الرابط: https://absher-update.sa-gov.cc",
+      "e": "scam",
+      "c": "SA"
+    },
+    {
+      "t": "Dear customer your SBI YONO account will be blocked today. Please update your PAN card immediately click: http://sbi-yono-kyc.in.net",
+      "e": "scam",
+      "c": "IN"
+    },
+    {
+      "t": "Royal Mail: Your parcel could not be delivered due to an unpaid shipping fee of £1.45. Pay now: https://royalmail-redelivery-uk.com",
+      "e": "scam",
+      "c": "GB"
+    },
+    {
+      "t": "Ameli : votre carte Vitale expire. Commandez la nouvelle carte avant le 30/11 : https://ameli-carte-vitale-renouvellement.fr",
+      "e": "scam",
+      "c": "FR"
+    },
+    {
+      "t": "שלום, אנחנו מגייסים עובדים לעבודה מהבית: לייקים לסרטונים ביוטיוב, 300-1500 ₪ ביום. לפרטים כתבו לנו בוואטסאפ: wa.me/447700900123",
+      "e": "scam",
       "c": "IL"
     },
     {
-      "t": "מכבי שירותי בריאות: תזכורת לתור לד\"ר לוי ביום ראשון 29.11 בשעה 10:30 בסניף רמת אביב. לביטול השיבו 1.",
-      "e": "legit",
-      "c": "IL"
+      "t": "Здравствуйте! Вы можете зарабатывать от 50 000 ₽ в неделю с помощью ИИ-трейдинга. Гарантированный доход, без риска. Пишите в Telegram: @ai_profit_bot",
+      "e": "scam",
+      "c": "RU"
     },
     {
-      "t": "שלום, משלוח מ-KSP יגיע אליך מחר בין 9:00 ל-13:00. מספר משלוח 77412. צוות HFD",
-      "e": "legit",
-      "c": "IL"
+      "t": "Correios: Sua encomenda está retida. Pague a taxa de R$ 12,90 para liberação: https://correios-rastreio-taxa.com",
+      "e": "scam",
+      "c": "BR"
     },
     {
-      "t": "לאומי: בוצעה העברה נכנסת לחשבונך בסך 3,200 ₪ מאת דוד כהן. אין צורך בפעולה נוספת.",
-      "e": "legit",
-      "c": "IL"
+      "t": "E-ZPass: You have an unpaid toll of $6.99. To avoid a late fee of $50, pay today: https://ezpass-tolls-pay.vip",
+      "e": "scam",
+      "c": "US"
     },
     {
-      "t": "חברת החשמל: החשבונית לתקופה 09-10/2026 בסך 412.80 ש\"ח תחויב בהוראת קבע ב-01.12. לצפייה באזור האישי באתר.",
-      "e": "legit",
-      "c": "IL"
+      "t": "Poste Italiane: il tuo pacco è in giacenza. Conferma l'indirizzo e paga 1,99€ entro 24 ore: https://poste-giacenza.info",
+      "e": "scam",
+      "c": "IT"
     },
     {
-      "t": "אל על: טיסה LY001 לניו יורק מחר 28.11 יוצאת בזמן מטרמינל 3. הצ'ק-אין פתוח באפליקציה.",
-      "e": "legit",
-      "c": "IL"
+      "t": "【三井住友カード】お客様のカードに不正利用の可能性があります。ご本人確認をお願いします https://smbc-card-check.jp.net",
+      "e": "scam",
+      "c": "JP"
     },
     {
-      "t": "הורים יקרים, מחר יום ו' אין לימודים בעקבות יום התארגנות. הצהרון פועל כרגיל. בברכה, צוות בית הספר",
-      "e": "legit",
-      "c": "IL"
-    },
-    {
-      "t": "ועד הבית: ביום שני תהיה עבודה על המעלית בין 8:00 ל-12:00. סליחה על אי הנוחות",
-      "e": "legit",
-      "c": "IL"
-    },
-    {
-      "t": "אמא, תקני לחם וחלב בדרך הביתה? אני אגיע בשבע",
-      "e": "legit",
-      "c": "IL"
-    },
-    {
-      "t": "כללית: תוצאות בדיקות הדם שלך זמינות באפליקציית כללית. לשאלות פנו לרופא המטפל.",
-      "e": "legit",
-      "c": "IL"
-    },
-    {
-      "t": "בזק: התקלה באזורך טופלה והשירות חזר לפעול. תודה על הסבלנות",
-      "e": "legit",
-      "c": "IL"
-    },
-    {
-      "t": "Your Amazon order #112-4471923 has shipped and will arrive Saturday. Track it in the Amazon app.",
+      "t": "Your Uber verification code is 7734. Never share this code.",
       "e": "legit",
       "c": "US"
     },
     {
-      "t": "Chase: A $54.20 purchase at Target was made with your card ending 4821. No action needed if this was you.",
+      "t": "Hi Ryan, this is Dr. Patel's office confirming your dental cleaning Tuesday Dec 1 at 3:00 PM. Reply C to confirm.",
       "e": "legit",
       "c": "US"
     },
     {
-      "t": "תתקשר אליי דחוף",
-      "e": "unclear",
-      "c": "IL"
-    },
-    {
-      "t": "https://bit.ly/3xK9pQ2",
-      "e": "unclear",
-      "c": "XX"
-    },
-    {
-      "t": "who is this?",
-      "e": "unclear",
+      "t": "Hey, are we still on for Thanksgiving dinner at 4? Bring the pie!",
+      "e": "legit",
       "c": "US"
     },
     {
-      "t": "היי, מה נשמע? מזמן לא דיברנו",
-      "e": "unclear",
-      "c": "IL"
-    },
-    {
-      "t": "Hi, is this still your number?",
-      "e": "unclear",
+      "t": "Your Netflix payment for December was successful. Thanks for being a member!",
+      "e": "legit",
       "c": "US"
     },
     {
-      "t": "שלחתי לך משהו, תבדוק",
-      "e": "unclear",
-      "c": "IL"
+      "t": "Deutsche Bahn: Ihr ICE 573 nach München hat heute ca. 15 Minuten Verspätung. Wir bitten um Entschuldigung.",
+      "e": "legit",
+      "c": "DE"
     },
     {
-      "t": "Hola, ¿quién eres?",
-      "e": "unclear",
+      "t": "DHL: Ihre Sendung 00340434 wird heute zwischen 10:00 und 13:00 Uhr zugestellt.",
+      "e": "legit",
+      "c": "DE"
+    },
+    {
+      "t": "Votre colis Colissimo a été déposé dans votre boîte aux lettres ce jour. Bonne journée.",
+      "e": "legit",
+      "c": "FR"
+    },
+    {
+      "t": "Bizum: Has recibido 25,00 € de Laura M. Concepto: cena viernes",
+      "e": "legit",
       "c": "ES"
     },
     {
-      "t": "תחזור אליי כשאתה יכול, זה חשוב",
+      "t": "تم إيداع راتبك لشهر نوفمبر بمبلغ 8,500 ريال في حسابك. مصرف الراجحي",
+      "e": "legit",
+      "c": "SA"
+    },
+    {
+      "t": "Royal Mail: We've delivered your parcel to your safe place (porch). Thanks!",
+      "e": "legit",
+      "c": "GB"
+    },
+    {
+      "t": "Привет, я задержусь на работе, ужин в холодильнике",
+      "e": "legit",
+      "c": "RU"
+    },
+    {
+      "t": "【ヤマト運輸】お荷物を本日お届けしました。ご利用ありがとうございました。",
+      "e": "legit",
+      "c": "JP"
+    },
+    {
+      "t": "Call me back asap",
+      "e": "unclear",
+      "c": "GB"
+    },
+    {
+      "t": "Bonjour, c'est toujours d'actualité ?",
+      "e": "unclear",
+      "c": "FR"
+    },
+    {
+      "t": "ראית את זה? 😮 https://tinyurl.com/4hx7wz2k",
       "e": "unclear",
       "c": "IL"
+    },
+    {
+      "t": "Hey it's me, got a minute?",
+      "e": "unclear",
+      "c": "US"
+    },
+    {
+      "t": "مرحبا، هل هذا رقمك؟",
+      "e": "unclear",
+      "c": "SA"
+    },
+    {
+      "t": "Ich bin's, ruf mich mal an",
+      "e": "unclear",
+      "c": "DE"
+    },
+    {
+      "t": "Did you get my email?",
+      "e": "unclear",
+      "c": "US"
     }
   ]
 }
