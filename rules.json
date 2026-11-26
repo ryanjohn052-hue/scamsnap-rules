@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-26T16:40",
+  "version": "2026-11-26T17:40",
   "words": {
     "ORGS": [
       "abn amro",
@@ -761,7 +761,9 @@
     "identity verification machine",
     "sofortige kontosperre gefährdet",
     "bestätigung offen: ihre mobilfunknummer",
-    "emapa san martín: evite el corte de su servicio de agua, hoy es el último día de pago"
+    "emapa san martín: evite el corte de su servicio de agua, hoy es el último día de pago",
+    "¡la suerte está de tu lado! ¡ya te estamos esperando, entra!",
+    "hola, gestionamos tu telepase. enviá tus datos personales y los de tu tarjeta"
   ],
   "badHosts": [
     "platformbyfb.com",
@@ -822,26 +824,6 @@
     "441933440333"
   ],
   "recent": [
-    {
-      "d": "2026-11-21",
-      "c": "es",
-      "t": "Mossos d'Esquadra / Catalan Cybersecurity Agency (Black Friday): SMS or email posing as a parcel company says your order has unpaid customs fees or a missing street number and links to a fake courier page that takes personal and bank data"
-    },
-    {
-      "d": "2026-11-21",
-      "c": "de",
-      "t": "Polizei Nordhausen (Eichsfeld): shock calls from fake police officers say a close relative caused a traffic accident and demand bail (Kaution), which a courier then collects in cash"
-    },
-    {
-      "d": "2026-11-21",
-      "c": "cn",
-      "t": "Nanjing police: SMS posing as a car maker's official recall notice, with a QR code to a fake site; callers recite your car and personal details and ask for a transfer to 'verify payout eligibility'"
-    },
-    {
-      "d": "2026-11-21",
-      "c": "cn",
-      "t": "Shanghai police: SMS/email says a training course you signed up for 'can now be refunded', moves you to a chat app, charges a refund fee, claims funds are frozen and demands more money or new phones mailed to an address"
-    },
     {
       "d": "2026-11-21",
       "c": "us",
@@ -1571,6 +1553,26 @@
       "d": "2026-11-26",
       "c": "de",
       "t": "Mittelfranken police (Nuremberg): fake bank employee calls about a large card payment to a shipping service, offers to block the card, asks for name, address and PIN, then a 'pick-up' person collects the card"
+    },
+    {
+      "d": "2026-11-26",
+      "c": "cl",
+      "t": "BancoEstado impersonation (BioBioChile): fake push notification styled as BancoEstado, using a celebrity's image, promotes a 'BancoEstado Casino' betting app and asks you to enter the site and download it"
+    },
+    {
+      "d": "2026-11-26",
+      "c": "de",
+      "t": "Mittelhessen police (Giessen): WhatsApp poll link from a friend's hijacked account ('please vote for my friend's daughter') asks for your phone number and a code or QR scan, takes over your account, then asks your contacts for emergency money"
+    },
+    {
+      "d": "2026-11-26",
+      "c": "de",
+      "t": "Rhein-Erft-Kreis police (Erftstadt): man collecting a small 'charity donation' in a supermarket car park says only card payment works, takes the elderly victim's bank card and debits a much larger amount"
+    },
+    {
+      "d": "2026-11-26",
+      "c": "ar",
+      "t": "TelePASE / Autopista Rosario-Santa Fe: calls, WhatsApp and emails offer to manage your free TelePASE TAG enrollment and ask for personal and card data or money transfers"
     }
   ],
   "safePhrases": [
