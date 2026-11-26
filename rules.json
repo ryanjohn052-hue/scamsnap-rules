@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-26T07:17",
+  "version": "2026-11-26T07:25",
   "words": {
     "ORGS": [
       "abn amro",
@@ -807,7 +807,8 @@
     "dmb-fairfaxcounty.us",
     "fedexhkl.com",
     "thermaltakeaustraliagear.shop",
-    "fedexpfm.com"
+    "fedexpfm.com",
+    "fedexhlw.com"
   ],
   "shorteners": [],
   "badPhones": [
@@ -820,16 +821,6 @@
     "441933440333"
   ],
   "recent": [
-    {
-      "d": "2026-11-20",
-      "c": "ca",
-      "t": "Kingston (Ontario) Police: fake buyers on Facebook Marketplace arrange to meet sellers at home, inspect the item and flee without paying"
-    },
-    {
-      "d": "2026-11-20",
-      "c": "py",
-      "t": "Paraguay (Villa Elisa police complaint): WhatsApp callers pose as Tu Financiera 'Mango' wallet loan officers, offer a loan and have you log into the wallet app to 'confirm' a balance, then drain it"
-    },
     {
       "d": "2026-11-20",
       "c": "us",
@@ -1569,6 +1560,16 @@
       "d": "2026-11-26",
       "c": "my",
       "t": "Royal Malaysia Police (CCID): scammers clone family members' voices from 'silent calls' and use deepfakes of national leaders, royalty and regulators to demand urgent money transfers; hang up and call back on a number you already trust"
+    },
+    {
+      "d": "2026-11-26",
+      "c": "us",
+      "t": "FedEx impersonation (Online Threat Alerts): voicemails and texts about a delivery address problem or refund tell you to verify your order on fedexhlw.com, then ask for card details, ID photos or remote-access apps"
+    },
+    {
+      "d": "2026-11-26",
+      "c": "us",
+      "t": "FBI/IC3 warning: fake FBI agents or IC3 staff, sometimes with AI videos of senior officials, offer crypto-fraud victims recovery of lost funds and ask for fees, personal details, or crypto/gift-card transfers"
     }
   ],
   "safePhrases": [
