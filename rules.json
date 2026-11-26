@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-26T03:26",
+  "version": "2026-11-26T04:30",
   "words": {
     "ORGS": [
       "abn amro",
@@ -799,7 +799,8 @@
     "meine-daten-verifizieren.de",
     "fedexfhk.com",
     "dmb-fairfaxcounty.us",
-    "fedexhkl.com"
+    "fedexhkl.com",
+    "thermaltakeaustraliagear.shop"
   ],
   "shorteners": [],
   "badPhones": [
@@ -812,11 +813,6 @@
     "441933440333"
   ],
   "recent": [
-    {
-      "d": "2026-11-20",
-      "c": "us",
-      "t": "Caddo Parish (Louisiana) Sheriff's Office: callers pose as deputies, claim a warrant was issued for missed jury duty and demand money by phone"
-    },
     {
       "d": "2026-11-20",
       "c": "lk",
@@ -1561,6 +1557,11 @@
       "d": "2026-11-26",
       "c": "us",
       "t": "Waco Police (Texas): callers posing as Waco PD or McLennan County Sheriff's Office staff say you owe money for traffic tickets, warrants or missed jury duty and demand immediate payment by phone, payment app or bitcoin"
+    },
+    {
+      "d": "2026-11-26",
+      "c": "au",
+      "t": "AFTERSHOCK PC (citing Scamwatch): fake online PC/hardware stores clone real retailers' and brands' logos and photos, push Black Friday '40% off' deals with countdown timers, take payment and send nothing, a counterfeit or a different product"
     }
   ],
   "safePhrases": [
