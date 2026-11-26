@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-26T18:26",
+  "version": "2026-11-26T19:27",
   "words": {
     "ORGS": [
       "abn amro",
@@ -826,16 +826,6 @@
   "recent": [
     {
       "d": "2026-11-21",
-      "c": "us",
-      "t": "Jasper County (South Carolina) Sheriff's Office: callers say you missed jury duty, threaten arrest and demand payment over the phone, possibly in Bitcoin or crypto"
-    },
-    {
-      "d": "2026-11-21",
-      "c": "us",
-      "t": "Johnson County (Kentucky) Sheriff's Office: calls, voicemails and texts from people posing as sheriff's employees use intimidation to get personal and financial information"
-    },
-    {
-      "d": "2026-11-21",
       "c": "cn",
       "t": "Wuyi (Zhejiang) police: fake 'customer service' offers to refund a failed investment course, has you install an app, then says a wrong step froze the account and you must buy gold and mail it by express to unfreeze it"
     },
@@ -1573,6 +1563,16 @@
       "d": "2026-11-26",
       "c": "us",
       "t": "Jefferson County Sheriff's Office (Alabama), holiday season: callers posing as sheriff's deputies say there is a warrant for your arrest or that you must pay a fine, and demand payment; deputies never call about warrants"
+    },
+    {
+      "d": "2026-11-26",
+      "c": "tw",
+      "t": "Taiwan Criminal Investigation Bureau: fake free short-video streaming sites and a fake Google Play update screen get Android users to install an APK, accept a VPN and grant accessibility/admin rights, then the malware takes over the phone and intercepts bank SMS one-time codes"
+    },
+    {
+      "d": "2026-11-26",
+      "c": "us",
+      "t": "Clinton County Sheriff's Office (Missouri): callers posing as the sheriff's office say you missed jury duty and have an active arrest warrant, and demand immediate payment handed over at a specific address"
     }
   ],
   "safePhrases": [
