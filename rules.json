@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-26T14:40",
+  "version": "2026-11-26T15:40",
   "words": {
     "ORGS": [
       "abn amro",
@@ -824,11 +824,6 @@
   "recent": [
     {
       "d": "2026-11-21",
-      "c": "hn",
-      "t": "Honduras National Police: fake website posing as the official police portal offers driver's licence and traffic-ticket procedures at a 'discount' with a same-day payment deadline, taking payment and account/banking access"
-    },
-    {
-      "d": "2026-11-21",
       "c": "mx",
       "t": "ESET (Infobae Mexico): fake GTA VI downloads, keys and early/VIP access, plus fake stores with 'last copies' countdowns and a cloned Google Drive page, push infostealer installers or payment"
     },
@@ -1571,6 +1566,11 @@
       "d": "2026-11-26",
       "c": "fr",
       "t": "Gendarmerie de la Manche: calls spoofing real gendarmerie unit numbers from a woman posing as a gendarme say a bank-fraud complaint was filed against you, then ask for personal or bank data, security codes or a transfer"
+    },
+    {
+      "d": "2026-11-26",
+      "c": "de",
+      "t": "Essen/Mülheim police: fake police officers call about a nearby burglary, say arrested suspects had a note with your name and address, and tell you to put cash and jewellery in a cooking pot wrapped in foil 'so drones can't find it'; a fake officer with a password then collects it"
     }
   ],
   "safePhrases": [
