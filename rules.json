@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-26T07:43",
+  "version": "2026-11-26T08:35",
   "words": {
     "ORGS": [
       "abn amro",
@@ -823,16 +823,6 @@
   "recent": [
     {
       "d": "2026-11-20",
-      "c": "us",
-      "t": "Polk County (Minnesota) Sheriff's Office: callers pose as a grandchild in trouble and have grandparents ship thousands in cash via a delivery service, labelled as 'Christmas ornaments' or a 'birthday gift'"
-    },
-    {
-      "d": "2026-11-20",
-      "c": "us",
-      "t": "Giles County (Tennessee) Sheriff's Office: calls spoofing a local police number pose as the US Treasury/IRS, claim your bank account and identity are at risk, and have you withdraw cash and deposit it at Walmart with a code they give"
-    },
-    {
-      "d": "2026-11-20",
       "c": "de",
       "t": "Polizei Unterfranken (Haibach): caller posing as a local Sparkasse employee claims problems with your bank card and account, then sends a courier to collect the card and PIN"
     },
@@ -1570,6 +1560,16 @@
       "d": "2026-11-26",
       "c": "us",
       "t": "FBI/IC3 warning: fake FBI agents or IC3 staff, sometimes with AI videos of senior officials, offer crypto-fraud victims recovery of lost funds and ask for fees, personal details, or crypto/gift-card transfers"
+    },
+    {
+      "d": "2026-11-26",
+      "c": "ch",
+      "t": "Obwalden cantonal police: callers posing as Swiss National Bank (SNB) staff say a transfer must go through the SNB or a balance is waiting, then ask for a fee, personal/account data, or cash withdrawals to hand over"
+    },
+    {
+      "d": "2026-11-26",
+      "c": "de",
+      "t": "Pforzheim police (Freudenstadt district): fake bank employee calls about unauthorised withdrawals and says a 'bank manager' will come to collect your bank card; a man then picks up the card and PIN at the door"
     }
   ],
   "safePhrases": [
