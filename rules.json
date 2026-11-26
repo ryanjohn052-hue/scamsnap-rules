@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-26T10:40",
+  "version": "2026-11-26T11:40",
   "words": {
     "ORGS": [
       "abn amro",
@@ -823,16 +823,6 @@
   "recent": [
     {
       "d": "2026-11-21",
-      "c": "in",
-      "t": "Delhi Police (IFSO): fake WhatsApp stock-tip/IPO groups posing as 'Victory Pioneers Capital' and '538 Action Price Lab' show fake profit screenshots, take investments into supplied bank accounts, then demand more for 'pending orders and other dues' before withdrawal"
-    },
-    {
-      "d": "2026-11-21",
-      "c": "sg",
-      "t": "Singapore Police: callers posing as Simba Telecom or UnionPay claim you bought a plan or equipment, then hand you to a fake 'Monetary Authority of Singapore (MAS) officer' who says you are under investigation and sends an 'agent' to collect your cash and jewellery"
-    },
-    {
-      "d": "2026-11-21",
       "c": "ca",
       "t": "P.E.I. (CBC, RCMP comment): emails impersonating the Charlottetown Farmers' Market and local festivals/non-profits invite vendors to book booths and ask for up-front payment or cash hotel deposits; real market mail is only @charlottetownfarmersmarket.com"
     },
@@ -1570,6 +1560,16 @@
       "d": "2026-11-26",
       "c": "gh",
       "t": "MTN MoMo Ghana (Mobile Money FinTech): calls claiming to facilitate or confirm an incoming transfer, including from abroad, trick users into revealing their MoMo PIN or approving a payment prompt"
+    },
+    {
+      "d": "2026-11-26",
+      "c": "us",
+      "t": "Franklin/Fulton County Court (Pennsylvania): texts spoofing the court and its president judge say you owe court filing and housing fees and ask for payment by credit card, gift card or other electronic means"
+    },
+    {
+      "d": "2026-11-26",
+      "c": "gb",
+      "t": "Police Scotland: fake remote 'task-based' job ads on social media and messaging apps (liking videos, rating apps, boosting reviews) promise high daily pay, then ask you to deposit money or crypto to unlock tasks or withdraw 'earnings'"
     }
   ],
   "safePhrases": [
