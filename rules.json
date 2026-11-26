@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-26T06:35",
+  "version": "2026-11-26T07:17",
   "words": {
     "ORGS": [
       "abn amro",
@@ -754,7 +754,13 @@
     "if you hang up, you will be arrested",
     "נקודות שעומדות לפוג",
     "חבילה הממתינה במכס",
-    "משטרת ישראל: דו\"ח תנועה פתוח על שמך"
+    "משטרת ישראל: דו\"ח תנועה פתוח על שמך",
+    "kurze sache zu ihren kontaktdaten",
+    "je suis passé un peu plus tôt pour vous remettre ceci",
+    "confirm your gift shipping address",
+    "identity verification machine",
+    "sofortige kontosperre gefährdet",
+    "bestätigung offen: ihre mobilfunknummer"
   ],
   "badHosts": [
     "platformbyfb.com",
@@ -800,7 +806,8 @@
     "fedexfhk.com",
     "dmb-fairfaxcounty.us",
     "fedexhkl.com",
-    "thermaltakeaustraliagear.shop"
+    "thermaltakeaustraliagear.shop",
+    "fedexpfm.com"
   ],
   "shorteners": [],
   "badPhones": [
@@ -1569,159 +1576,159 @@
   ],
   "qa": [
     {
-      "t": "משטרת ישראל - אגף התנועה: דוח תנועה מס' 40-221873 טרם שולם. אם לא יוסדר תוך 24 שעות התיק יועבר לבית משפט לתעבורה. להסדרה: https://gov-il-tnua.info/pay",
+      "t": "משטרת ישראל - הודעה על קנס תעבורה שטרם שולם בסך 250 ש\"ח. למניעת הליכים משפטיים ותוספת פיגורים יש להסדיר בקישור: https://police-gov-il.pay-fine.top",
       "e": "scam",
       "c": "IL"
     },
     {
-      "t": "רשות המסים: נמצא שמגיע לך החזר מס בסך 2,874 ש\"ח. להורדת אפליקציית ההחזרים והגשת הבקשה: https://taxes-il-refund.app/apk",
+      "t": "شرطة إسرائيل: لديك مخالفة سير غير مدفوعة بقيمة 250 شيكل. لتجنب الإجراءات القانونية ادفع عبر الرابط: https://gov-il-police.icu/pay",
       "e": "scam",
       "c": "IL"
     },
     {
-      "t": "יד2: ההזמנה שלך מוכנה למשלוח! כדי לאשר את פרטי המשלוח ולקבל את התשלום יש להוריד את האפליקציה המעודכנת: https://yad2-delivery.store",
+      "t": "דואר ישראל: החבילה שלך מעוכבת עקב כתובת חסרה. לעדכון הכתובת ותשלום דמי שחרור של 3.90 ₪: https://israelpost-delivery.co/il",
       "e": "scam",
       "c": "IL"
     },
     {
-      "t": "החשבון שלך בבנק נחסם עקב פעילות חריגה. לשחרור החסימה יש לאמת פרטים כאן: https://bank-il-verify.co/unlock",
+      "t": "החבילה שלך ממתינה במכס. יש להסדיר תשלום מכס בסך 18.40 ש\"ח תוך 48 שעות אחרת תוחזר לשולח: https://customs-il.parcel-help.com",
       "e": "scam",
       "c": "IL"
     },
     {
-      "t": "דואר ישראל: חבילה ממתינה במכס. נדרש תשלום מכס בסך 8.90 ש\"ח לשחרור. לתשלום: https://israelpost-customs.top/p",
+      "t": "בנק לאומי: חשבונך הוגבל עקב פעילות חריגה. לביטול ההגבלה יש לאמת פרטים: https://leumi-secure-verify.net",
       "e": "scam",
       "c": "IL"
     },
     {
-      "t": "הנקודות שלך בכרטיס האשראי עומדות לפוג הלילה! 4,200 נקודות שווי 420 ש\"ח. למימוש עכשיו: https://points-il.shop",
+      "t": "כאל: 4,300 נקודות הכוכבים שלך יפוגו היום בחצות! מממשים עכשיו במתנות: https://cal-points.shop",
       "e": "scam",
       "c": "IL"
     },
     {
-      "t": "עיריית תל אביב: נותר חוב ארנונה פתוח בסך 312 ש\"ח. למניעת עיקול יש לשלם היום בקישור: https://tlv-arnona-pay.com",
+      "t": "היי אמא זה אני, נפל לי הטלפון למים וזה המספר החדש שלי. תשמרי אותו. את יכולה לעשות לי העברה של 2,800 ש״ח בביט? אני אחזיר מחר",
       "e": "scam",
       "c": "IL"
     },
     {
-      "t": "המרכז לגביית קנסות: קיים חוב כספי בגין קנס תעבורה. לבירור ותשלום מיידי למניעת עיכוב יציאה מהארץ: https://knasot-gov.net",
+      "t": "ביטוח לאומי: אושר לך מענק חד פעמי בסך 1,780 ש\"ח. לקבלת הכסף יש למלא פרטי חשבון בנק: https://btl-maanak.online",
       "e": "scam",
       "c": "IL"
     },
     {
-      "t": "בלאק פריידיי! אייפון 17 פרו ב-499 ש\"ח בלבד, רק ל-100 הראשונים. להזמנה: https://iphone-bf-il.shop",
-      "e": "scam",
-      "c": "IL"
-    },
-    {
-      "t": "היי אמא, זה המספר החדש שלי, הטלפון נפל לי למים. את יכולה להעביר לי 2,400 ש\"ח בביט? אני אחזיר לך מחר",
-      "e": "scam",
-      "c": "IL"
-    },
-    {
-      "t": "FedEx: Please visit the website, fedexhkl.com before November 24 to verify your order or delivery information. If not processed by the deadline, the package will be returned to the sender.",
+      "t": "Hello, this is a delivery notification. Please visit the website, fedexpfm.com before November 24 to verify your order or delivery information. If not processed by the deadline, the package will be returned to the sender.",
       "e": "scam",
       "c": "US"
     },
     {
-      "t": "Thabo, get Black Friday deals on your Mr Price Money account & you can win up to R500000! You have R3500 credit. Claim: https://mrp-money.co/bf Stop2OptOut",
+      "t": "[LAST CHANCE] Ryan, You've Won a Black Friday GOLDEN TICKET! OPEN to Reveal Prize >> https://bf-golden-ticket.click/r/88",
       "e": "scam",
-      "c": "ZA"
+      "c": "US"
     },
     {
-      "t": "BLACK FRIDAY a inceput! Parfumuri originale Dior, YSL, Armani si alte branduri de la 159 lei. Comanda acum: https://parfum-bf.ro.shop",
+      "t": "Quickly… Confirm your Gift Shipping Address: I'm sending you up to 6 GIFTS… Black Friday Today Only: https://gift-ship-confirm.shop",
       "e": "scam",
-      "c": "RO"
+      "c": "US"
     },
     {
-      "t": "Policía Nacional: usted tiene una multa de tránsito pendiente. Pague hoy con 50% de descuento y evite la retención de su licencia: https://multas-hn-pago.com",
+      "t": "Anyone who completes this CVS questionnaire will unlock an exclusive Black Friday gift card. Don't wait! Limited time offer. https://cvs-survey-reward.top",
+      "e": "scam",
+      "c": "US"
+    },
+    {
+      "t": "EasyPark: Your parking payment failed and your account will be suspended. Update your payment details today: https://easypark-au-billing.com",
+      "e": "scam",
+      "c": "AU"
+    },
+    {
+      "t": "CommBank: Your 12,500 Awards points expire tonight. Redeem them now before they are lost: https://cba-awards-redeem.com",
+      "e": "scam",
+      "c": "AU"
+    },
+    {
+      "t": "Canadian Anti-Fraud Centre: your identity was used in a fraud case. To protect your savings, deposit them at the identity verification machine today. Call agent at 1-888-555-0142.",
+      "e": "scam",
+      "c": "CA"
+    },
+    {
+      "t": "Hola mamá, se me ha roto el móvil, este es mi número nuevo. ¿Me puedes hacer un Bizum de 950€? Es urgente, luego te explico",
+      "e": "scam",
+      "c": "ES"
+    },
+    {
+      "t": "Policía Nacional: tiene una multa de tránsito pendiente con 50% de descuento solo hoy. Pague aquí: https://multas-dnvt-hn.com",
       "e": "scam",
       "c": "HN"
     },
     {
-      "t": "e-Gouv Gabon : vous avez une amende pour excès de vitesse non réglée. Payez sous 48h pour éviter une majoration : https://egouv-ga-amendes.com",
-      "e": "scam",
-      "c": "GA"
-    },
-    {
-      "t": "Ihre Hotelbuchung vom 12.12. konnte nicht bestätigt werden. Bitte geben Sie Ihre Kreditkartendaten innerhalb von 24 Stunden erneut ein, sonst wird die Reservierung storniert: https://booking-confirm-guest.com",
-      "e": "scam",
-      "c": "AT"
-    },
-    {
-      "t": "ELSTER: Für Ihre Steuererklärung liegt eine Erstattung von 846,20 EUR bereit. Bitte bestätigen Sie Ihre Bankverbindung bis heute: https://elster-erstattung.info",
+      "t": "PayPal: Sicherheitsupdate für Ihr Konto. Bitte innerhalb von 24 Stunden bestätigen, sonst wird Ihr Konto eingeschränkt. Jetzt Konto prüfen: https://paypal-konto-pruefung.de",
       "e": "scam",
       "c": "DE"
     },
     {
-      "t": "نفطال: بطاقتك الذهبية ستتوقف. لتجديدها أدخل الرمز السري ورمز التحقق المرسل إليك عبر الرابط: https://naftal-carte.com",
-      "e": "scam",
-      "c": "DZ"
-    },
-    {
-      "t": "הקוד שלך לכניסה לאזור האישי בביטוח לאומי הוא 483920. הקוד תקף ל-10 דקות. אין למסור את הקוד לאיש.",
+      "t": "קוד האימות שלך לכניסה לאתר בנק הפועלים הוא 482913. אין למסור את הקוד לאף אחד.",
       "e": "legit",
       "c": "IL"
     },
     {
-      "t": "שלום, תזכורת לתור לרופאת משפחה ד\"ר לוי ביום ראשון 29.11 בשעה 10:20 במרפאת רמת אביב. לביטול השיבו 0",
+      "t": "מכבי שירותי בריאות: תזכורת לתור לד\"ר לוי ביום ראשון 29.11 בשעה 10:30 בסניף רמת אביב. לביטול השיבו 1.",
       "e": "legit",
       "c": "IL"
     },
     {
-      "t": "בנק לאומי: בוצע זיכוי לחשבונך בסך 1,250 ש\"ח מאת יוסי כהן. אין צורך בפעולה נוספת.",
+      "t": "שלום, משלוח מ-KSP יגיע אליך מחר בין 9:00 ל-13:00. מספר משלוח 77412. צוות HFD",
       "e": "legit",
       "c": "IL"
     },
     {
-      "t": "חבילה מ-AliExpress בדרך אליך עם שליח של צ'יטה. מועד מסירה משוער: מחר בין 12:00 ל-16:00.",
+      "t": "לאומי: בוצעה העברה נכנסת לחשבונך בסך 3,200 ₪ מאת דוד כהן. אין צורך בפעולה נוספת.",
       "e": "legit",
       "c": "IL"
     },
     {
-      "t": "ועד הבית: מחר בין 9:00 ל-13:00 יהיה ניתוק מים בבניין לצורך תיקון צנרת. סליחה על אי הנוחות.",
+      "t": "חברת החשמל: החשבונית לתקופה 09-10/2026 בסך 412.80 ש\"ח תחויב בהוראת קבע ב-01.12. לצפייה באזור האישי באתר.",
       "e": "legit",
       "c": "IL"
     },
     {
-      "t": "הורים יקרים, מחר יום שישי הלימודים יסתיימו ב-12:00. נא לאסוף את הילדים בזמן. תודה, צוות בית הספר",
+      "t": "אל על: טיסה LY001 לניו יורק מחר 28.11 יוצאת בזמן מטרמינל 3. הצ'ק-אין פתוח באפליקציה.",
       "e": "legit",
       "c": "IL"
     },
     {
-      "t": "חיוב הוראת קבע: חברת החשמל, 486.30 ש\"ח, ירד מחשבונך ב-24.11. לפרטים באפליקציית הבנק.",
+      "t": "הורים יקרים, מחר יום ו' אין לימודים בעקבות יום התארגנות. הצהרון פועל כרגיל. בברכה, צוות בית הספר",
       "e": "legit",
       "c": "IL"
     },
     {
-      "t": "אלעל: הטיסה שלך LY315 לבנגקוק ב-02.12 עומדת בלוח הזמנים. הצ'ק אין נפתח 24 שעות לפני ההמראה באפליקציה.",
+      "t": "ועד הבית: ביום שני תהיה עבודה על המעלית בין 8:00 ל-12:00. סליחה על אי הנוחות",
       "e": "legit",
       "c": "IL"
     },
     {
-      "t": "אבא, הגעתי הביתה. אכלתי, אני הולך לישון. נדבר מחר",
+      "t": "אמא, תקני לחם וחלב בדרך הביתה? אני אגיע בשבע",
       "e": "legit",
       "c": "IL"
     },
     {
-      "t": "כאל: עסקה בסך 189.90 ש\"ח בשופרסל אושרה בכרטיס המסתיים ב-4421. לא את/ה? פנה/י למוקד בטלפון שבגב הכרטיס.",
+      "t": "כללית: תוצאות בדיקות הדם שלך זמינות באפליקציית כללית. לשאלות פנו לרופא המטפל.",
       "e": "legit",
       "c": "IL"
     },
     {
-      "t": "Your Uber code is 7731. Never share this code.",
+      "t": "בזק: התקלה באזורך טופלה והשירות חזר לפעול. תודה על הסבלנות",
+      "e": "legit",
+      "c": "IL"
+    },
+    {
+      "t": "Your Amazon order #112-4471923 has shipped and will arrive Saturday. Track it in the Amazon app.",
       "e": "legit",
       "c": "US"
     },
     {
-      "t": "Chase: You received $45.00 from Emily R. via Zelle. No action is needed.",
+      "t": "Chase: A $54.20 purchase at Target was made with your card ending 4821. No action needed if this was you.",
       "e": "legit",
       "c": "US"
-    },
-    {
-      "t": "Royal Mail: your parcel will be delivered today between 13:05 and 14:05. Track at royalmail.com with reference QH481227.",
-      "e": "legit",
-      "c": "GB"
     },
     {
       "t": "תתקשר אליי דחוף",
@@ -1729,29 +1736,9 @@
       "c": "IL"
     },
     {
-      "t": "https://bit.ly/3xQ9kLm",
+      "t": "https://bit.ly/3xK9pQ2",
       "e": "unclear",
-      "c": "IL"
-    },
-    {
-      "t": "היי, מי זה?",
-      "e": "unclear",
-      "c": "IL"
-    },
-    {
-      "t": "ראית את זה?",
-      "e": "unclear",
-      "c": "IL"
-    },
-    {
-      "t": "שלחתי לך משהו, תבדוק",
-      "e": "unclear",
-      "c": "IL"
-    },
-    {
-      "t": "אני צריך טובה קטנה ממך",
-      "e": "unclear",
-      "c": "IL"
+      "c": "XX"
     },
     {
       "t": "who is this?",
@@ -1759,9 +1746,29 @@
       "c": "US"
     },
     {
-      "t": "Call me back when you can",
+      "t": "היי, מה נשמע? מזמן לא דיברנו",
+      "e": "unclear",
+      "c": "IL"
+    },
+    {
+      "t": "Hi, is this still your number?",
       "e": "unclear",
       "c": "US"
+    },
+    {
+      "t": "שלחתי לך משהו, תבדוק",
+      "e": "unclear",
+      "c": "IL"
+    },
+    {
+      "t": "Hola, ¿quién eres?",
+      "e": "unclear",
+      "c": "ES"
+    },
+    {
+      "t": "תחזור אליי כשאתה יכול, זה חשוב",
+      "e": "unclear",
+      "c": "IL"
     }
   ]
 }
