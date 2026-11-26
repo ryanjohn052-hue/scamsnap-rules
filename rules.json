@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-26T22:30",
+  "version": "2026-11-26T23:31",
   "words": {
     "ORGS": [
       "abn amro",
@@ -826,11 +826,6 @@
   "recent": [
     {
       "d": "2026-11-21",
-      "c": "dz",
-      "t": "Algeria (consumer group Himayatak): fake pages impersonating Naftal target Gold fuel-card holders and ask for card number, PIN and SMS codes via unofficial links; Naftal's only official platform is the Mahattati app"
-    },
-    {
-      "d": "2026-11-21",
       "c": "de",
       "t": "Vogelsberg district (Hesse) police: renewed wave of shock calls (a relative caused a serious accident and needs bail) and fake police calls about burglars nearby, asking for cash or valuables to be handed over"
     },
@@ -1573,6 +1568,11 @@
       "d": "2026-11-26",
       "c": "mx",
       "t": "Mexico City SSC cyber police (Black Friday): fake shops, deceptive social-media offers, fake shopping apps and SMS with malicious links use 'too good to be true' deals and urgency to steal card, bank and personal data"
+    },
+    {
+      "d": "2026-11-26",
+      "c": "au",
+      "t": "Energex (Queensland): people in hi-vis posing as Energex workers seek access to homes and premises (meter damage, copper theft), and callers posing as Energex or Ergon Energy ask for personal and financial details; verify on an independently sourced number"
     }
   ],
   "safePhrases": [
