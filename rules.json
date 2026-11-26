@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-26T02:26",
+  "version": "2026-11-26T03:26",
   "words": {
     "ORGS": [
       "abn amro",
@@ -815,11 +815,6 @@
     {
       "d": "2026-11-20",
       "c": "us",
-      "t": "Hawaii DLNR Commission on Water Resource Management: emails from non-official addresses pose as CWRM staff and ask Maui (Lahaina) permit applicants to reply for payment instructions for water use permits"
-    },
-    {
-      "d": "2026-11-20",
-      "c": "us",
       "t": "Caddo Parish (Louisiana) Sheriff's Office: callers pose as deputies, claim a warrant was issued for missed jury duty and demand money by phone"
     },
     {
@@ -1546,6 +1541,11 @@
       "d": "2026-11-25",
       "c": "us",
       "t": "Chandler Police (Texas): counterfeit cash circulating, plus fear-tactic calls demanding you settle an 'issue' by loading money onto gift cards or paying in Bitcoin"
+    },
+    {
+      "d": "2026-11-25",
+      "c": "ph",
+      "t": "Philippine National Police Anti-Cybercrime Group: fake texts slip into your real bank's existing SMS thread (e.g. BDO, Metrobank, EastWest) via fake cell towers, with links to fake banking sites that steal usernames, passwords and financial details"
     },
     {
       "d": "2026-11-26",
