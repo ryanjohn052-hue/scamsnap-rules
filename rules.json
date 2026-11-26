@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-25T22:35",
+  "version": "2026-11-26T00:27",
   "words": {
     "ORGS": [
       "abn amro",
@@ -753,7 +753,8 @@
     "última oportunidad para pagar su infracción",
     "if you hang up, you will be arrested",
     "נקודות שעומדות לפוג",
-    "חבילה הממתינה במכס"
+    "חבילה הממתינה במכס",
+    "משטרת ישראל: דו\"ח תנועה פתוח על שמך"
   ],
   "badHosts": [
     "platformbyfb.com",
@@ -811,16 +812,6 @@
     "441933440333"
   ],
   "recent": [
-    {
-      "d": "2026-11-20",
-      "c": "ca",
-      "t": "Ontario Provincial Police (Algoma): grandparent scam resurfaces; callers pose as a grandchild in trouble and urgently ask seniors for cash or gift cards"
-    },
-    {
-      "d": "2026-11-20",
-      "c": "us",
-      "t": "Buchanan County (Missouri) sheriff: callers claim you missed federal or state jury duty or have a warrant and ask for card details by phone to 'process a payment' and avoid arrest"
-    },
     {
       "d": "2026-11-20",
       "c": "us",
@@ -1560,6 +1551,16 @@
       "d": "2026-11-25",
       "c": "us",
       "t": "Chandler Police (Texas): counterfeit cash circulating, plus fear-tactic calls demanding you settle an 'issue' by loading money onto gift cards or paying in Bitcoin"
+    },
+    {
+      "d": "2026-11-26",
+      "c": "au",
+      "t": "Australian Department of Home Affairs: fake website copying the department's design collects personal information; check the address ends in .gov.au and type homeaffairs.gov.au directly"
+    },
+    {
+      "d": "2026-11-26",
+      "c": "ie",
+      "t": "BPFI FraudSMART (Ireland, Black Friday/Cyber Monday): fake online stores posing as familiar retailers and brands, mostly via social media ads, texts and emails, take payment for discounted goods that never arrive"
     }
   ],
   "safePhrases": [
