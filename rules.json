@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-26T11:40",
+  "version": "2026-11-26T13:40",
   "words": {
     "ORGS": [
       "abn amro",
@@ -823,21 +823,6 @@
   "recent": [
     {
       "d": "2026-11-21",
-      "c": "ca",
-      "t": "P.E.I. (CBC, RCMP comment): emails impersonating the Charlottetown Farmers' Market and local festivals/non-profits invite vendors to book booths and ask for up-front payment or cash hotel deposits; real market mail is only @charlottetownfarmersmarket.com"
-    },
-    {
-      "d": "2026-11-21",
-      "c": "de",
-      "t": "Stade police (Lower Saxony): fake online shops sell Grand Theft Auto VI well below the regular price, take credit-card payment and never send the activation code"
-    },
-    {
-      "d": "2026-11-21",
-      "c": "de",
-      "t": "Polizei Kreis Steinfurt (Ibbenbueren): shock call from a fake police officer and prosecutor says your daughter caused a fatal accident and needs five-figure bail; a courier collects cash, then a taxi is booked to take you to hand over more cash and jewellery"
-    },
-    {
-      "d": "2026-11-21",
       "c": "cu",
       "t": "Cuba (CiberCuba victim report): message from a friend's hijacked number says a package from the US has arrived via a 'courier agency' and asks for 20,000 pesos in import duties and shipping by bank transfer, with an AI-made photo of the box"
     },
@@ -1570,6 +1555,21 @@
       "d": "2026-11-26",
       "c": "gb",
       "t": "Police Scotland: fake remote 'task-based' job ads on social media and messaging apps (liking videos, rating apps, boosting reviews) promise high daily pay, then ask you to deposit money or crypto to unlock tasks or withdraw 'earnings'"
+    },
+    {
+      "d": "2026-11-26",
+      "c": "de",
+      "t": "Polizei Lippe: 'Ghost Pairing' - a fake voting (Abstimmung) link asks for your phone number and a code or to link a device, hijacking your WhatsApp; criminals then message your contacts asking for emergency money"
+    },
+    {
+      "d": "2026-11-26",
+      "c": "ar",
+      "t": "ANSES (Argentina): calls, texts, emails and social posts from fake ANSES staff promise bonuses or refunds or demand a 'data update' to avoid pension suspension, then ask for passwords, card/security codes, CBU, verification codes, transfers or remote access"
+    },
+    {
+      "d": "2026-11-26",
+      "c": "ar",
+      "t": "Salta (Argentina) older-adults directorate: messages impersonating the provincial health institute IPS offer retirees free computers/tablets via a link that asks for bank and personal data"
     }
   ],
   "safePhrases": [
