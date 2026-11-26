@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-26T19:27",
+  "version": "2026-11-26T22:30",
   "words": {
     "ORGS": [
       "abn amro",
@@ -826,11 +826,6 @@
   "recent": [
     {
       "d": "2026-11-21",
-      "c": "cn",
-      "t": "Wuyi (Zhejiang) police: fake 'customer service' offers to refund a failed investment course, has you install an app, then says a wrong step froze the account and you must buy gold and mail it by express to unfreeze it"
-    },
-    {
-      "d": "2026-11-21",
       "c": "dz",
       "t": "Algeria (consumer group Himayatak): fake pages impersonating Naftal target Gold fuel-card holders and ask for card number, PIN and SMS codes via unofficial links; Naftal's only official platform is the Mahattati app"
     },
@@ -1573,6 +1568,11 @@
       "d": "2026-11-26",
       "c": "us",
       "t": "Clinton County Sheriff's Office (Missouri): callers posing as the sheriff's office say you missed jury duty and have an active arrest warrant, and demand immediate payment handed over at a specific address"
+    },
+    {
+      "d": "2026-11-26",
+      "c": "mx",
+      "t": "Mexico City SSC cyber police (Black Friday): fake shops, deceptive social-media offers, fake shopping apps and SMS with malicious links use 'too good to be true' deals and urgency to steal card, bank and personal data"
     }
   ],
   "safePhrases": [
