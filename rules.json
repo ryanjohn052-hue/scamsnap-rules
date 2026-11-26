@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-26T04:30",
+  "version": "2026-11-26T06:35",
   "words": {
     "ORGS": [
       "abn amro",
@@ -815,11 +815,6 @@
   "recent": [
     {
       "d": "2026-11-20",
-      "c": "lk",
-      "t": "Sri Lanka Police (Kandy): callers, SMS and WhatsApp messages pose as bank or financial-institution staff and ask for passwords and OTPs by phone or via fake links"
-    },
-    {
-      "d": "2026-11-20",
       "c": "ca",
       "t": "Kingston (Ontario) Police: fake buyers on Facebook Marketplace arrange to meet sellers at home, inspect the item and flee without paying"
     },
@@ -1562,6 +1557,11 @@
       "d": "2026-11-26",
       "c": "au",
       "t": "AFTERSHOCK PC (citing Scamwatch): fake online PC/hardware stores clone real retailers' and brands' logos and photos, push Black Friday '40% off' deals with countdown timers, take payment and send nothing, a counterfeit or a different product"
+    },
+    {
+      "d": "2026-11-26",
+      "c": "my",
+      "t": "Royal Malaysia Police (CCID): scammers clone family members' voices from 'silent calls' and use deepfakes of national leaders, royalty and regulators to demand urgent money transfers; hang up and call back on a number you already trust"
     }
   ],
   "safePhrases": [
