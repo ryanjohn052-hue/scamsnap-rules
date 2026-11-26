@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-26T17:40",
+  "version": "2026-11-26T18:26",
   "words": {
     "ORGS": [
       "abn amro",
@@ -827,11 +827,6 @@
     {
       "d": "2026-11-21",
       "c": "us",
-      "t": "Plumas-Sierra Telecommunications (California/Nevada ISP): phishing email titled 'Quick-Alert-Check-In Your PST' asks customers to click a link and confirm their account details"
-    },
-    {
-      "d": "2026-11-21",
-      "c": "us",
       "t": "Jasper County (South Carolina) Sheriff's Office: callers say you missed jury duty, threaten arrest and demand payment over the phone, possibly in Bitcoin or crypto"
     },
     {
@@ -1573,6 +1568,11 @@
       "d": "2026-11-26",
       "c": "ar",
       "t": "TelePASE / Autopista Rosario-Santa Fe: calls, WhatsApp and emails offer to manage your free TelePASE TAG enrollment and ask for personal and card data or money transfers"
+    },
+    {
+      "d": "2026-11-26",
+      "c": "us",
+      "t": "Jefferson County Sheriff's Office (Alabama), holiday season: callers posing as sheriff's deputies say there is a warrant for your arrest or that you must pay a fine, and demand payment; deputies never call about warrants"
     }
   ],
   "safePhrases": [
