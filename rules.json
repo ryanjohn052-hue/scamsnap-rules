@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-27T06:25",
+  "version": "2026-11-27T07:26",
   "words": {
     "ORGS": [
       "abn amro",
@@ -827,11 +827,6 @@
   "recent": [
     {
       "d": "2026-11-22",
-      "c": "eg",
-      "t": "Egyptian Electricity Holding Company: WhatsApp messages posing as the Ministry of Electricity or power companies offer fake jobs and interview slots, then ask for money transfers (placement/booking fees) and photos of ID documents"
-    },
-    {
-      "d": "2026-11-22",
       "c": "gb",
       "t": "North Wales Police: callers posing as police officers (calls appearing from an 0300 number) say a suspect is in custody and you must 'secure' your bank accounts or check crypto holdings, then send follow-up emails asking you to click links and verify account details"
     },
@@ -1574,6 +1569,11 @@
       "d": "2026-11-27",
       "c": "my",
       "t": "East Coast Rail Link (ECRL, Malaysia): fake 'ECRL Malaysia Job Vacancies' Facebook posts ahead of the line's opening lead to a form asking for your full name as on your national ID and the phone number tied to your Telegram account"
+    },
+    {
+      "d": "2026-11-27",
+      "c": "cn",
+      "t": "Luoyang anti-fraud centre: 'local dating' ads on adult websites lead to a dating app; fake customer service takes a small membership fee, then claims 'verification' steps and an 'operation error' that you must fix with large transfers"
     }
   ],
   "safePhrases": [
