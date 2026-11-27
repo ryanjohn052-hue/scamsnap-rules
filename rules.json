@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-27T11:30",
+  "version": "2026-11-27T12:30",
   "words": {
     "ORGS": [
       "abn amro",
@@ -832,16 +832,6 @@
     {
       "d": "2026-11-23",
       "c": "jp",
-      "t": "Rakuten Securities data-leak follow-on scams: emails/SMS posing as Rakuten Securities or other Rakuten brands offer leak 'compensation', say your data was found on the dark web or passwords leaked, or pitch class-action fees, linking to fake login pages (Rakuten sends no URLs by email)"
-    },
-    {
-      "d": "2026-11-23",
-      "c": "jp",
-      "t": "Japan (e-Tax/National Tax Agency lure): email from 'e-Tax' titled 'urgent: refund procedure incomplete' says a ¥48,200 tax refund will be lost unless you click 'check now', leading to a phishing page hosted on Amazon S3"
-    },
-    {
-      "d": "2026-11-23",
-      "c": "jp",
       "t": "ANA Mileage Club lookalike email 'マイル加算申請フォームのご案内' says 7,240 miles are on hold and must be claimed within 3 days, links to a fake AMC login page to steal account credentials"
     },
     {
@@ -1578,6 +1568,16 @@
       "d": "2026-11-27",
       "c": "in",
       "t": "Jaipur Crime Branch (Rajasthan): SMS says a traffic e-challan (about Rs 2,000) is pending and must be paid immediately via a link, which asks for banking details or makes you download an app/APK that steals money"
+    },
+    {
+      "d": "2026-11-27",
+      "c": "de",
+      "t": "Rhein-Sieg police (Troisdorf): women phone pensioners about 'investments' and repeatedly send 'couriers' to the front door to collect cash, taking tens of thousands of euros over weeks"
+    },
+    {
+      "d": "2026-11-27",
+      "c": "de",
+      "t": "Ulm police (Deggingen): shock call from a fake hospital employee says a relative needs urgent surgery and demands thousands of euros"
     }
   ],
   "safePhrases": [
