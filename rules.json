@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-27T14:30",
+  "version": "2026-11-27T15:30",
   "words": {
     "ORGS": [
       "abn amro",
@@ -766,7 +766,8 @@
     "hola, gestionamos tu telepase. enviá tus datos personales y los de tu tarjeta",
     "you either need to pay a bond, or you need to leave the country",
     "unlock an exclusive black friday gift card",
-    "für die tochter meiner freundin abstimmen"
+    "für die tochter meiner freundin abstimmen",
+    "wedding invitation.apk"
   ],
   "badHosts": [
     "platformbyfb.com",
@@ -829,21 +830,6 @@
     "441933440333"
   ],
   "recent": [
-    {
-      "d": "2026-11-23",
-      "c": "id",
-      "t": "Polda Metro Jaya (Jakarta): extortion using AI-generated videos made from the victim's own photos, with threats to spread them unless money is paid"
-    },
-    {
-      "d": "2026-11-23",
-      "c": "id",
-      "t": "Polda Metro Jaya (Jakarta): callers/messages posing as Dukcapil (civil registry), the tax directorate, ministries, police, TNI or bank staff ask for personal data, codes or transfers"
-    },
-    {
-      "d": "2026-11-23",
-      "c": "sg",
-      "t": "FairPrice (Singapore): calls, messages or emails posing as FairPrice, Income, NTUC Union or FairPrice Loyalty say you won vouchers, push you to click links, verify identity, give banking details or pay immediately for vouchers or insurance"
-    },
     {
       "d": "2026-11-23",
       "c": "es",
@@ -1578,6 +1564,21 @@
       "d": "2026-11-27",
       "c": "us",
       "t": "FBI Nashville (Black Friday): phishing emails and ads with too-good-to-be-true deals take payment and card details for goods that never arrive, while fake charities solicit donations by cold call, email, crowdfunding and fake social accounts"
+    },
+    {
+      "d": "2026-11-27",
+      "c": "de",
+      "t": "Karlsruhe police: fake high-interest fixed-deposit (Festgeld) comparison portals copying real bank sites and fake financial advisers offering exclusive partner-bank rates get you to wire large sums to foreign accounts; no payout ever arrives"
+    },
+    {
+      "d": "2026-11-27",
+      "c": "de",
+      "t": "Euskirchen police: fake bank letter with a QR code says your account must be verified and leads to a cloned bank login; then a call spoofing the real bank number says transfers must be cancelled and has you approve a transfer in your banking app"
+    },
+    {
+      "d": "2026-11-27",
+      "c": "in",
+      "t": "Surat City Police (Gujarat): WhatsApp message posing as a wedding invitation carries an APK file (\"wedding invitation.apk\"); installing it takes over the phone and empties the bank account"
     }
   ],
   "safePhrases": [
