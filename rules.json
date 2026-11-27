@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-27T10:26",
+  "version": "2026-11-27T11:30",
   "words": {
     "ORGS": [
       "abn amro",
@@ -830,31 +830,6 @@
   ],
   "recent": [
     {
-      "d": "2026-11-22",
-      "c": "us",
-      "t": "Gettysburg (Pennsylvania) Borough Police: phone calls from people posing as law enforcement say you face arrest and demand a cash payment to avoid it"
-    },
-    {
-      "d": "2026-11-22",
-      "c": "gb",
-      "t": "Lloyds Bank (Black Friday): fake deals on social media, marketplaces and fake websites at far-below-market prices, with sellers pressing for fast bank-transfer payment for goods that never arrive"
-    },
-    {
-      "d": "2026-11-22",
-      "c": "tw",
-      "t": "Taiwan Criminal Investigation Bureau: Threads posts offer a 'free 2027 Mazu calendar' for a small shipping fee, move you to LINE and a fake Black Cat courier site, then fake customer service demands 'account verification' transfers and coaches you to hide it from police and family"
-    },
-    {
-      "d": "2026-11-22",
-      "c": "us",
-      "t": "Gilmer County (Georgia) Sheriff's Office: fake social-media fundraisers for the Eagle Mountain Campground fire impersonate local groups and a church, reuse real fire photos and ask for donations to unfamiliar accounts or via suspicious links"
-    },
-    {
-      "d": "2026-11-23",
-      "c": "cn",
-      "t": "Wuhan Jiang'an police: fake online investment platform promising 'guaranteed' high returns says your account must be 'activated' to unlock investment rights, and has you withdraw cash and hand it to a courier in person"
-    },
-    {
       "d": "2026-11-23",
       "c": "jp",
       "t": "Rakuten Securities data-leak follow-on scams: emails/SMS posing as Rakuten Securities or other Rakuten brands offer leak 'compensation', say your data was found on the dark web or passwords leaked, or pitch class-action fees, linking to fake login pages (Rakuten sends no URLs by email)"
@@ -1578,6 +1553,31 @@
       "d": "2026-11-27",
       "c": "de",
       "t": "Erfurt police (Sömmerda): fake police officer with a forged ID helps an elderly woman with shopping, talks about a neighbourhood burglary wave and asks about cash, jewellery and finances at home"
+    },
+    {
+      "d": "2026-11-27",
+      "c": "de",
+      "t": "Neustadt/Weinstrasse police (Bad Duerkheim): personally addressed letter with a QR code, then a fake bank employee calls about unlawful orders on your account and has you approve several orders in your banking TAN app to 'cancel' them, emptying the account"
+    },
+    {
+      "d": "2026-11-27",
+      "c": "de",
+      "t": "Nienburg police (Rinteln/Auetal): shock calls from a fake emergency-centre worker, a crying 'daughter' and a fake hospital employee say your daughter had an accident and demand bail or thousands of euros for medical costs"
+    },
+    {
+      "d": "2026-11-27",
+      "c": "de",
+      "t": "Dueren police: caller cries 'Mama? Mama!' as your daughter, then a fake hospital doctor says she has terminal cancer and only a Swiss medicine can help, demanding about 80,000 euros in cash or valuables for immediate treatment"
+    },
+    {
+      "d": "2026-11-27",
+      "c": "ch",
+      "t": "Nidwalden cantonal police: callers posing as Swiss National Bank staff warn of unusual transactions and a 'mole' at your local bank, get pensioners to withdraw tens of thousands of francs and hand the cash to a courier"
+    },
+    {
+      "d": "2026-11-27",
+      "c": "in",
+      "t": "Jaipur Crime Branch (Rajasthan): SMS says a traffic e-challan (about Rs 2,000) is pending and must be paid immediately via a link, which asks for banking details or makes you download an app/APK that steals money"
     }
   ],
   "safePhrases": [
