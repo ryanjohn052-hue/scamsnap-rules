@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-27T04:25",
+  "version": "2026-11-27T06:25",
   "words": {
     "ORGS": [
       "abn amro",
@@ -827,11 +827,6 @@
   "recent": [
     {
       "d": "2026-11-22",
-      "c": "cn",
-      "t": "Shiyan (Hubei) police: porn websites and apps (e.g. one called '91') install malware that drains linked bank cards and payment accounts"
-    },
-    {
-      "d": "2026-11-22",
       "c": "eg",
       "t": "Egyptian Electricity Holding Company: WhatsApp messages posing as the Ministry of Electricity or power companies offer fake jobs and interview slots, then ask for money transfers (placement/booking fees) and photos of ID documents"
     },
@@ -1574,6 +1569,11 @@
       "d": "2026-11-26",
       "c": "pt",
       "t": "Portugal PSP (Black Friday): fake online shops built with AI-generated sites, images and identities advertise heavily discounted goods on social media and take payment for items that never arrive"
+    },
+    {
+      "d": "2026-11-27",
+      "c": "my",
+      "t": "East Coast Rail Link (ECRL, Malaysia): fake 'ECRL Malaysia Job Vacancies' Facebook posts ahead of the line's opening lead to a form asking for your full name as on your national ID and the phone number tied to your Telegram account"
     }
   ],
   "safePhrases": [
