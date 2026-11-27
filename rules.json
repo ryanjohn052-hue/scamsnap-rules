@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-27T09:36",
+  "version": "2026-11-27T10:26",
   "words": {
     "ORGS": [
       "abn amro",
@@ -832,16 +832,6 @@
     {
       "d": "2026-11-22",
       "c": "us",
-      "t": "Richland/Kennewick (Washington) police: callers pose as police offering relatives of arrested people a 'pre-trial' program paid via Chime barcodes, or as banks reporting fraud and telling you to cut your cards in half for a courier to collect"
-    },
-    {
-      "d": "2026-11-22",
-      "c": "co",
-      "t": "Colombia (Infobae): callers posing as EPS health-insurer advisers call about medical appointments, then ask older people to install an app and register their fingerprint, after which card balances are emptied"
-    },
-    {
-      "d": "2026-11-22",
-      "c": "us",
       "t": "Gettysburg (Pennsylvania) Borough Police: phone calls from people posing as law enforcement say you face arrest and demand a cash payment to avoid it"
     },
     {
@@ -1578,6 +1568,16 @@
       "d": "2026-11-27",
       "c": "gb",
       "t": "Dyfed-Powys Police (Wales): scam calls spoof the force's genuine phone number on caller ID, then ask for personal financial details, a money transfer or remote access to your computer; verify by calling 101"
+    },
+    {
+      "d": "2026-11-27",
+      "c": "gb",
+      "t": "Kent Police: callers posing as officers from another force (spoofing real police station numbers) say your finances are at risk in a criminal investigation and get you to move savings into gold bullion collected by couriers; others say a data leak exposed your passwords, then a fake crypto provider asks for your seed phrase"
+    },
+    {
+      "d": "2026-11-27",
+      "c": "de",
+      "t": "Erfurt police (Sömmerda): fake police officer with a forged ID helps an elderly woman with shopping, talks about a neighbourhood burglary wave and asks about cash, jewellery and finances at home"
     }
   ],
   "safePhrases": [
