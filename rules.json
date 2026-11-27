@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-27T12:30",
+  "version": "2026-11-27T13:25",
   "words": {
     "ORGS": [
       "abn amro",
@@ -831,21 +831,6 @@
   "recent": [
     {
       "d": "2026-11-23",
-      "c": "jp",
-      "t": "ANA Mileage Club lookalike email 'マイル加算申請フォームのご案内' says 7,240 miles are on hold and must be claimed within 3 days, links to a fake AMC login page to steal account credentials"
-    },
-    {
-      "d": "2026-11-23",
-      "c": "jp",
-      "t": "Phone calls posing as Toyama Prefectural Police and Rakuten Card ask if you were involved in an incident in Toyama or read out your name, birth date and address to 'confirm' them, leading to transfer fraud"
-    },
-    {
-      "d": "2026-11-23",
-      "c": "au",
-      "t": "ASIC: emails (some using a real ASIC staff member's name and email footer) and calls offer to recover money lost to investment/crypto scams for an upfront fee, and ask for personal documents or bank details via encrypted apps"
-    },
-    {
-      "d": "2026-11-23",
       "c": "id",
       "t": "Polda Metro Jaya (Jakarta): fake Trip.com or hotel customer-service agents contact travellers, ask for the OTP code to 'help' with a booking, then take over the account or get a bank transfer"
     },
@@ -1578,6 +1563,21 @@
       "d": "2026-11-27",
       "c": "de",
       "t": "Ulm police (Deggingen): shock call from a fake hospital employee says a relative needs urgent surgery and demands thousands of euros"
+    },
+    {
+      "d": "2026-11-27",
+      "c": "de",
+      "t": "Bonn police: WhatsApp hijacking via links to fake online polls or QR codes; attackers take over the account and message contacts asking to lend money for an urgent need (blocked bank card, outstanding payment, dental treatment, new laptop)"
+    },
+    {
+      "d": "2026-11-27",
+      "c": "de",
+      "t": "Bremerhaven police: fake tradesmen claim a water supply problem to inspect taps and steal jewellery inside; shock calls from fake police or justice officials say a relative caused an accident and was arrested, and demand bail in cash or valuables"
+    },
+    {
+      "d": "2026-11-27",
+      "c": "de",
+      "t": "Neumuenster police: fake bank security staff call about 'irregularities' on your account for hours, send a man to collect your bank card at the door, then return for cash claiming the notes' serial numbers must be checked"
     }
   ],
   "safePhrases": [
