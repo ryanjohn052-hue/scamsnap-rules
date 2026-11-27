@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-27T03:40",
+  "version": "2026-11-27T04:25",
   "words": {
     "ORGS": [
       "abn amro",
@@ -827,21 +827,6 @@
   "recent": [
     {
       "d": "2026-11-22",
-      "c": "gb",
-      "t": "Nottinghamshire Police (BBC): WhatsApp messages and audio/video calls showing a bank or FCA logo say your account is compromised, ask you to share your screen and move money to a 'safe account', leading to courier fraud"
-    },
-    {
-      "d": "2026-11-22",
-      "c": "de",
-      "t": "Polizei Dillingen (Bavaria): calls from unknown numbers posing as Dillingen police report a made-up burglary in the neighbourhood, then ask about valuables and assets at home"
-    },
-    {
-      "d": "2026-11-22",
-      "c": "es",
-      "t": "Guardia Civil Albacete: social-media crypto 'investment opportunities' promise fast, low-risk high returns, show small early gains, then demand more money and block withdrawals"
-    },
-    {
-      "d": "2026-11-22",
       "c": "cn",
       "t": "Shiyan (Hubei) police: porn websites and apps (e.g. one called '91') install malware that drains linked bank cards and payment accounts"
     },
@@ -1574,6 +1559,21 @@
       "d": "2026-11-27",
       "c": "cn",
       "t": "Jinchang (Gansu) police: calls and texts posing as car makers or 4S dealership staff offer a free vehicle recall or repair, then push you to click a link or download an app and give bank card details and SMS verification codes"
+    },
+    {
+      "d": "2026-11-27",
+      "c": "us",
+      "t": "Tucson Police (Arizona): fake QR code stickers placed over real payment signs in private parking lots and garages lead to a page asking for your Apple ID, personal details and credit card number"
+    },
+    {
+      "d": "2026-11-27",
+      "c": "us",
+      "t": "Isle of Palms Police (South Carolina): texts that look like they come from your bank say someone will contact you, then callers ask for personal and financial info, passwords and card access; others pose as police using real officers' names, saying a relative was arrested and needs bail money"
+    },
+    {
+      "d": "2026-11-26",
+      "c": "pt",
+      "t": "Portugal PSP (Black Friday): fake online shops built with AI-generated sites, images and identities advertise heavily discounted goods on social media and take payment for items that never arrive"
     }
   ],
   "safePhrases": [
