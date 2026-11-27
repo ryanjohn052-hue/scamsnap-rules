@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-27T19:35",
+  "version": "2026-11-27T20:25",
   "words": {
     "ORGS": [
       "abn amro",
@@ -832,16 +832,6 @@
   "recent": [
     {
       "d": "2026-11-23",
-      "c": "cl",
-      "t": "PDI Chile: WhatsApp messages and calls from unknown numbers use AI-cloned voices of children, relatives or bosses describing an emergency and ask for urgent money transfers"
-    },
-    {
-      "d": "2026-11-23",
-      "c": "us",
-      "t": "FedEx lookalike voicemails/texts ('Hello, this is a delivery notification') say a package is on hold or the address is wrong and push you to fedexfhk.com before November 24 to 'verify' delivery details, then ask for a small holding fee with card details"
-    },
-    {
-      "d": "2026-11-23",
       "c": "us",
       "t": "Brookville (Ohio) Police: calls spoofing the police department's real phone number in caller ID ask residents for passwords, PINs and login credentials"
     },
@@ -1579,6 +1569,16 @@
       "d": "2026-11-27",
       "c": "ca",
       "t": "Toronto Police: caller posing as a Canada Revenue Agency (CRA) official says you are under investigation for crimes in China, transfers you to a fake 'Shanghai Police officer' with a false name and badge number who asks for your banking information to resolve it"
+    },
+    {
+      "d": "2026-11-27",
+      "c": "co",
+      "t": "Colombian National Police cyber centre (Black Friday): AI-made fake shop and bank pages, fraudulent links by social media, messaging apps and email, and deepfake videos of well-known people promoting products, to take payments and card details"
+    },
+    {
+      "d": "2026-11-27",
+      "c": "de",
+      "t": "Freiburg police: link to a fake online poll asks you to enter your mobile number and confirm a WhatsApp code, which hands over your account; attackers then message your contacts from it asking for an urgent money transfer"
     }
   ],
   "safePhrases": [
