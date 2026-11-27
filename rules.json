@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-27T15:30",
+  "version": "2026-11-27T18:40",
   "words": {
     "ORGS": [
       "abn amro",
@@ -832,16 +832,6 @@
   "recent": [
     {
       "d": "2026-11-23",
-      "c": "es",
-      "t": "Guardia Civil Zamora: WhatsApp accounts taken over without any link or code (older iOS/WhatsApp versions); scammers write from the victim's real number to contacts asking for urgent money by bank transfer or Bizum"
-    },
-    {
-      "d": "2026-11-23",
-      "c": "world",
-      "t": "Booking.com guests (Infobae/Tourinews): WhatsApp Business accounts with a +1 prefix quote real reservation details (name, dates, property, reference) and say the stay must be 'verified' within 24 hours or be cancelled, linking to fake pages that steal card data"
-    },
-    {
-      "d": "2026-11-23",
       "c": "de",
       "t": "Verbraucherzentrale: emails from 'VR eG' posing as Volksbanken/Raiffeisenbanken demand a 'security check' by 23 November or a TAN update within 48 hours citing the ZAG law, threatening account lock, and link to a fake banking login"
     },
@@ -1579,6 +1569,16 @@
       "d": "2026-11-27",
       "c": "in",
       "t": "Surat City Police (Gujarat): WhatsApp message posing as a wedding invitation carries an APK file (\"wedding invitation.apk\"); installing it takes over the phone and empties the bank account"
+    },
+    {
+      "d": "2026-11-27",
+      "c": "es",
+      "t": "Policia Nacional La Rioja: fake sellers on Vinted/Wallapop ask for about half the price in advance by Bizum or bank transfer outside the platform, or send a WhatsApp/email link to 'confirm the payment'; fake buyers ask sellers for a security code"
+    },
+    {
+      "d": "2026-11-27",
+      "c": "ca",
+      "t": "Cobourg Police (Ontario), holiday season: fake shopping websites with too-good-to-be-true deals, phishing messages and fake delivery notifications ask for payment or card details"
     }
   ],
   "safePhrases": [
