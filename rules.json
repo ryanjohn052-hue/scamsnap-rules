@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-27T21:35",
+  "version": "2026-11-27T22:26",
   "words": {
     "ORGS": [
       "abn amro",
@@ -832,16 +832,6 @@
   "recent": [
     {
       "d": "2026-11-23",
-      "c": "at",
-      "t": "Vorarlberg police (new wave): callers posing as police or detectives claim burglaries in your neighbourhood, ask what cash and valuables you have, then fake officers come to the door to collect cash and jewellery 'for safekeeping'"
-    },
-    {
-      "d": "2026-11-23",
-      "c": "de",
-      "t": "Mittelhessen police (Giessen): shock calls lasting hours from fake doctors, prosecutors or police officers ask for money or valuables, bank and card data, PayPal logins or a transfer"
-    },
-    {
-      "d": "2026-11-23",
       "c": "in",
       "t": "Greater Noida cyber police: sponsored Facebook/Instagram ads using mobile-operator logos promise a full year of recharge for Rs 399, then ask for your number, payment, bank details, OTP or UPI PIN"
     },
@@ -1579,6 +1569,16 @@
       "d": "2026-11-27",
       "c": "us",
       "t": "US Secret Service (holiday advisory): fake shopping sites, 'accidental payment' requests asking you to send money back, investment scams wanting crypto, gift cards or wires, family-emergency calls that sound like a relative, and fake online invitations that steal logins or install files"
+    },
+    {
+      "d": "2026-11-27",
+      "c": "us",
+      "t": "FBI Baltimore: callers posing as law enforcement or court officials say you failed to report for jury duty and demand money, prepaid cards, card numbers or personal information to avoid arrest"
+    },
+    {
+      "d": "2026-11-27",
+      "c": "ca",
+      "t": "Upper Ottawa Valley OPP (Ontario): frantic call or email says your grandchild is in legal trouble, then a fake 'bondsman' comes to your home to collect cash, or you are asked to pay by money transfer or crypto"
     }
   ],
   "safePhrases": [
