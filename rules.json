@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-27T09:35",
+  "version": "2026-11-27T09:34",
   "words": {
     "ORGS": [
       "abn amro",
@@ -1585,199 +1585,194 @@
   ],
   "qa": [
     {
-      "t": "משטרת ישראל: דו\"ח תנועה פתוח על שמך (10502301351). לשלם בקישור. אי תשלום במועד יגרור קנסות נוספים",
-      "e": "scam",
-      "c": "IL"
-    },
-    {
-      "t": "משטרת ישראל - מרכז קנסות: דו\"ח מס' 10577120934 טרם שולם. לצפייה ותשלום עד מחר: https://police-doch-pay.com/il",
-      "e": "scam",
-      "c": "IL"
-    },
-    {
-      "t": "שלום יוסי, כאן רשות המסים. אושר לך החזר מס בסך 2,340 ₪. לקבלת הכסף יש להתקין את האפליקציה הרשמית שלנו: https://taxes-il-refund.app/download.apk",
-      "e": "scam",
-      "c": "IL"
-    },
-    {
-      "t": "דואר ישראל: החבילה שלך מעוכבת במרכז המיון בגלל כתובת חסרה. לעדכון הכתובת ותשלום דמי טיפול 6.90 ₪: https://israelpost-delivery.info/il",
-      "e": "scam",
-      "c": "IL"
-    },
-    {
-      "t": "לאומי: זוהתה כניסה חריגה לחשבונך ממכשיר חדש. אם זה לא אתה, אמת את פרטיך מיד כדי למנוע חסימה: https://leumi-secure-check.com",
-      "e": "scam",
-      "c": "IL"
-    },
-    {
-      "t": "בלאק פריידיי! זכית בשובר מתנה בשווי 1,000 ₪ לשופרסל. נשאר רק לשלם 9.90 ₪ דמי משלוח: https://shufersal-gift.top",
-      "e": "scam",
-      "c": "IL"
-    },
-    {
-      "t": "شرطة إسرائيل: لديك مخالفة سير غير مدفوعة. ادفع الآن عبر الرابط لتجنب غرامات إضافية: https://police-il-pay.site",
-      "e": "scam",
-      "c": "IL"
-    },
-    {
-      "t": "היי, אפשר טובה קטנה? תצביע לבת של חברה שלי בתחרות 🙏 https://vote-contest-il.click פשוט מכניסים את מספר הטלפון ואת הקוד שמגיע ב-SMS",
-      "e": "scam",
-      "c": "IL"
-    },
-    {
-      "t": "אמא זה המספר החדש שלי, הטלפון נפל לי למים. את יכולה להעביר לי 3,200 ₪ בביט לחשבון של חבר? אחזיר לך מחר, דחוף",
-      "e": "scam",
-      "c": "IL"
-    },
-    {
-      "t": "USPS: Your international package is held at customs. $3.40 import duty due. Pay to release: https://usps-customs-pay.com/release/9821",
-      "e": "scam",
-      "c": "US"
-    },
-    {
-      "t": "FedEx: We could not verify your delivery address. Please visit fedexhlm.com before November 28 to verify your order or delivery information.",
-      "e": "scam",
-      "c": "US"
-    },
-    {
-      "t": "[LAST CHANCE] Mike, You've Won a Black Friday GOLDEN TICKET! OPEN to Reveal Prize >> https://bf-golden-ticket.shop",
-      "e": "scam",
-      "c": "US"
-    },
-    {
-      "t": "Anyone who completes this CVS questionnaire will unlock an exclusive Black Friday gift card. Start now: https://rewards-cvs-survey.com",
-      "e": "scam",
-      "c": "US"
-    },
-    {
-      "t": "Franklin County Court: Our records show unpaid court filing and housing fees in your name. Pay today by card or gift card to avoid a warrant: https://fc-court-fees.com",
-      "e": "scam",
-      "c": "US"
-    },
-    {
-      "t": "NOTICE: You have an unpaid traffic citation. Review and pay at https://citation-review-pay.com to avoid late fees and suspension of your driving privileges.",
-      "e": "scam",
-      "c": "US"
-    },
-    {
-      "t": "Polisen: Du har fångats med mobilen i handen under bilkörning. Betala böteskravet på 1500 kr inom 48 timmar: https://polisen-boter.se-pay.com",
-      "e": "scam",
-      "c": "SE"
-    },
-    {
-      "t": "Royal Mail: We missed you today. Your parcel will be returned to sender unless you book a new delivery slot: https://royalmail-redeliver.click",
-      "e": "scam",
-      "c": "GB"
-    },
-    {
-      "t": "Hallo! Kannst du bitte kurz für die Tochter meiner Freundin abstimmen? 🙏 https://abstimmung-wettbewerb.vote – einfach Nummer eingeben und den Code bestätigen",
+      "t": "Sparkasse: Ihre pushTAN-Registrierung läuft am 30.11. ab. Bitte jetzt erneuern, sonst wird Ihr Online-Banking gesperrt: https://sparkasse-pushtan-neu.com",
       "e": "scam",
       "c": "DE"
     },
     {
-      "t": "הקוד שלך לכניסה לאפליקציית בנק הפועלים הוא 482913. אין למסור את הקוד לאף אחד, גם לא לנציגי הבנק.",
-      "e": "legit",
-      "c": "IL"
+      "t": "DNVT: Usted tiene citaciones de tránsito pendientes. Evite multas adicionales y la suspensión de su licencia pagando aquí: https://dnvt-pagos-hn.com",
+      "e": "scam",
+      "c": "HN"
     },
     {
-      "t": "מכבי: תזכורת לתור לד\"ר כהן ביום ראשון 29.11 בשעה 10:15 בסניף רמת אביב. לביטול השיבו 0",
-      "e": "legit",
-      "c": "IL"
+      "t": "ANSES: Su jubilación será suspendida si no actualiza sus datos antes del 30/11. Ingrese su CBU y clave aquí: https://anses-actualizacion-datos.site",
+      "e": "scam",
+      "c": "AR"
     },
     {
-      "t": "חבילה ממתינה לך בלוקר של דואר ישראל ברח' הרצל 12. קוד לפתיחה: 7731. ניתן לאסוף עד 3.12",
-      "e": "legit",
-      "c": "IL"
+      "t": "AEROMEXICO: Se registró un cargo de compra por $8,450 MXN con su tarjeta. Si no reconoce este cargo comuníquese al 5598165595",
+      "e": "scam",
+      "c": "MX"
     },
     {
-      "t": "לאומי: בוצע חיוב בכרטיס המסתיים ב-4417 בסך 289 ₪ בשופרסל. לא נדרשת פעולה מצדך.",
-      "e": "legit",
-      "c": "IL"
+      "t": "Olá mãe, este é o meu número novo. Preciso de pagar uma fatura urgente hoje, podes fazer uma transferência de 780€? Depois explico",
+      "e": "scam",
+      "c": "PT"
     },
     {
-      "t": "קיבלת 150 ₪ בביט מדנה לוי: \"על הפיצה אתמול 🍕\"",
-      "e": "legit",
-      "c": "IL"
-    },
-    {
-      "t": "ועד הבית: מחר (שבת) בין 9 ל-12 תהיה הפסקת מים לצורך תיקון צנרת. סליחה על אי הנוחות.",
-      "e": "legit",
-      "c": "IL"
-    },
-    {
-      "t": "בית ספר אורנים: מחר יום פעילות, הילדים מגיעים עם בגדים נוחים, כובע ובקבוק מים. היציאה ב-8:00.",
-      "e": "legit",
-      "c": "IL"
-    },
-    {
-      "t": "אמא, אני אצל נועה, נחזור בסביבות 11. אל תחכי לי לארוחת ערב",
-      "e": "legit",
-      "c": "IL"
-    },
-    {
-      "t": "חברת החשמל: החשבון לתקופה 09-10/2026 בסך 412.30 ₪ ייגבה בהוראת קבע ב-2.12. אין צורך בפעולה.",
-      "e": "legit",
-      "c": "IL"
-    },
-    {
-      "t": "אל על: הטיסה LY001 לניו יורק ב-30.11 יוצאת בזמן. הצ'ק-אין פתוח באפליקציה. נסיעה טובה!",
-      "e": "legit",
-      "c": "IL"
-    },
-    {
-      "t": "رمز التحقق الخاص بك من بنك الإمارات دبي الوطني هو 552190. لا تشارك هذا الرمز مع أي شخص.",
-      "e": "legit",
-      "c": "AE"
-    },
-    {
-      "t": "Amazon: Your package with order #112-4839201 was delivered to your front door at 2:14 PM.",
-      "e": "legit",
-      "c": "US"
-    },
-    {
-      "t": "Chase: You received $250.00 from Sarah Miller with Zelle. No action needed.",
-      "e": "legit",
-      "c": "US"
-    },
-    {
-      "t": "תחזור אליי כשאתה יכול, זה חשוב",
-      "e": "unclear",
-      "c": "IL"
-    },
-    {
-      "t": "מי זה?",
-      "e": "unclear",
-      "c": "IL"
-    },
-    {
-      "t": "https://bit.ly/3xK9pQa",
-      "e": "unclear",
-      "c": "XX"
-    },
-    {
-      "t": "Hi, is this still your number?",
-      "e": "unclear",
-      "c": "US"
-    },
-    {
-      "t": "שלחתי לך את המסמך, תבדוק",
-      "e": "unclear",
-      "c": "IL"
-    },
-    {
-      "t": "Hey sorry, who's this? You were in my contacts",
-      "e": "unclear",
-      "c": "US"
-    },
-    {
-      "t": "Llámame cuando puedas",
-      "e": "unclear",
+      "t": "Hola papá, se me ha roto el móvil y este es mi número nuevo. ¿Me puedes hacer un Bizum de 650€ urgente? Te lo devuelvo mañana",
+      "e": "scam",
       "c": "ES"
     },
     {
-      "t": "ممكن تتصل فيني؟",
-      "e": "unclear",
+      "t": "قوى الأمن الداخلي: لديك مخالفة سرعة. ادفع خلال 24 ساعة واحصل على حسم 50% وإلا سيتم توقيف رخصة القيادة. أرسل Y للتأكيد ثم افتح الرابط: https://isf-lb-fines.com",
+      "e": "scam",
+      "c": "LB"
+    },
+    {
+      "t": "e&: Your mobile line will be suspended today. Update your Emirates ID details now to keep your service active: https://eand-update-id.com",
+      "e": "scam",
       "c": "AE"
+    },
+    {
+      "t": "MTN MoMo: You have an incoming transfer of GHS 1,500 from abroad pending. To receive it, approve the prompt on your phone and confirm with your MoMo PIN.",
+      "e": "scam",
+      "c": "GH"
+    },
+    {
+      "t": "SASSA SRD R370: Your grant payment is on hold. Confirm your ID number, bank details and PIN here to release it: https://sassa-srd370-help.com",
+      "e": "scam",
+      "c": "ZA"
+    },
+    {
+      "t": "BDO: Your account has been temporarily locked due to suspicious activity. Verify your identity here: https://bdo-secure-verify.com",
+      "e": "scam",
+      "c": "PH"
+    },
+    {
+      "t": "SingPost: Your parcel cannot be delivered due to an incomplete address. Update within 24 hours: https://singpost-address-update.com",
+      "e": "scam",
+      "c": "SG"
+    },
+    {
+      "t": "【大众汽车】尊敬的车主，您的车辆已列入免费召回维修名单，请点击链接下载APP登记，并填写银行卡信息及短信验证码：http://vw-recall-cn.top",
+      "e": "scam",
+      "c": "CN"
+    },
+    {
+      "t": "TRAI: Your mobile number will be blocked within 2 hours due to illegal activity registered on your Aadhaar. Press 9 to speak to the investigating officer.",
+      "e": "scam",
+      "c": "IN"
+    },
+    {
+      "t": "FTC Alert: A phone number in your name is being used for fraud overseas and will be deactivated. Contact the FTC fraud desk now at federaltradecommission.net to avoid arrest.",
+      "e": "scam",
+      "c": "US"
+    },
+    {
+      "t": "Schweizerische Nationalbank: Auf Ihren Namen liegt ein Guthaben von CHF 12'400 bereit. Zur Freigabe ist eine Bearbeitungsgebühr von CHF 250 nötig. Antworten Sie mit Ihren Kontodaten.",
+      "e": "scam",
+      "c": "CH"
+    },
+    {
+      "t": "Hi! We're hiring remote part-time staff: like videos and rate apps, earn £150-£400 per day. Message our HR on WhatsApp to start today: wa.me/447700900123",
+      "e": "scam",
+      "c": "GB"
+    },
+    {
+      "t": "EMAPA San Martín: Su servicio de agua será cortado hoy por deuda pendiente. Pague la reconexión con tarjeta aquí: https://emapa-pagos-online.com",
+      "e": "scam",
+      "c": "PE"
+    },
+    {
+      "t": "Your Uber Eats order from Chipotle is on the way! Arriving in 12-17 min.",
+      "e": "legit",
+      "c": "US"
+    },
+    {
+      "t": "Reminder: Your dental cleaning at Bright Smile Dental is Tuesday, Dec 1 at 3:30 PM. Reply C to confirm or call our office to reschedule.",
+      "e": "legit",
+      "c": "US"
+    },
+    {
+      "t": "DHL: Ihre Sendung 00340434161094 wird heute zwischen 10:00 und 14:00 Uhr zugestellt. Sendungsverfolgung in der DHL App.",
+      "e": "legit",
+      "c": "DE"
+    },
+    {
+      "t": "Sparkasse: Ihr Kontoauszug für November steht im Online-Banking für Sie bereit.",
+      "e": "legit",
+      "c": "DE"
+    },
+    {
+      "t": "Tu código de verificación de Mercado Pago es 739204. No lo compartas con nadie.",
+      "e": "legit",
+      "c": "AR"
+    },
+    {
+      "t": "Olá! A sua consulta no Centro de Saúde de Benfica está marcada para 2/12 às 9h30. Traga o cartão de cidadão.",
+      "e": "legit",
+      "c": "PT"
+    },
+    {
+      "t": "Votre colis Colissimo a été déposé dans votre boîte aux lettres. Bonne journée !",
+      "e": "legit",
+      "c": "FR"
+    },
+    {
+      "t": "Hi Grandma! We landed safely in Denver, the kids say hi. Call you tonight ❤️",
+      "e": "legit",
+      "c": "US"
+    },
+    {
+      "t": "Netflix: Your payment of $15.49 was successful. Thanks for being a member.",
+      "e": "legit",
+      "c": "US"
+    },
+    {
+      "t": "G-584920 is your Google verification code. Don't share it with anyone.",
+      "e": "legit",
+      "c": "US"
+    },
+    {
+      "t": "Ryanair: Your flight FR8342 Dublin-Barcelona on 1 Dec is now boarding at gate B12.",
+      "e": "legit",
+      "c": "IE"
+    },
+    {
+      "t": "【顺丰速运】您的快件已到达朝阳区丰台路驿站，取件码6-2-3018，请于今日21:00前取件。",
+      "e": "legit",
+      "c": "CN"
+    },
+    {
+      "t": "Target Circle: Black Friday deals are live! Shop doorbusters in the Target app or at target.com. Reply STOP to opt out.",
+      "e": "legit",
+      "c": "US"
+    },
+    {
+      "t": "קיבלת?",
+      "e": "unclear",
+      "c": "IL"
+    },
+    {
+      "t": "Did you get my email?",
+      "e": "unclear",
+      "c": "US"
+    },
+    {
+      "t": "Ruf mich bitte zurück",
+      "e": "unclear",
+      "c": "DE"
+    },
+    {
+      "t": "Is the item still available?",
+      "e": "unclear",
+      "c": "US"
+    },
+    {
+      "t": "היי, ראיתי את המודעה שלך",
+      "e": "unclear",
+      "c": "IL"
+    },
+    {
+      "t": "Check this out https://tinyurl.com/4bfx92mk",
+      "e": "unclear",
+      "c": "US"
+    },
+    {
+      "t": "אפשר לדבר רגע?",
+      "e": "unclear",
+      "c": "IL"
     }
   ]
 }
