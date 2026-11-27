@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-27T09:18",
+  "version": "2026-11-27T09:35",
   "words": {
     "ORGS": [
       "abn amro",
@@ -831,11 +831,6 @@
   "recent": [
     {
       "d": "2026-11-22",
-      "c": "ae",
-      "t": "Abu Dhabi Police: fake social-media ads for winter rentals or sales of motorbikes, rest houses and campsites ask for advance payment via booking/payment links and request card details, OTP or verification codes"
-    },
-    {
-      "d": "2026-11-22",
       "c": "us",
       "t": "Richland/Kennewick (Washington) police: callers pose as police offering relatives of arrested people a 'pre-trial' program paid via Chime barcodes, or as banks reporting fraud and telling you to cut your cards in half for a courier to collect"
     },
@@ -1540,6 +1535,11 @@
       "t": "FBI Boston: spoofed calls showing the real FBI Boston office number, first from a fake bank rep then a fake FBI agent, claim your identity is tied to a confidential criminal investigation and move you to an encrypted messaging app; hang up and call the field office yourself"
     },
     {
+      "d": "2026-11-26",
+      "c": "pt",
+      "t": "Portugal PSP (Black Friday): fake online shops built with AI-generated sites, images and identities advertise heavily discounted goods on social media and take payment for items that never arrive"
+    },
+    {
       "d": "2026-11-27",
       "c": "cn",
       "t": "Lanxi (Zhejiang) police: a stranger on a social app sends a link to a fake forex/US-dollar arbitrage investment app promising guaranteed high returns, then has you exchange cash for dollars and hand it over in person to 'invest'"
@@ -1560,11 +1560,6 @@
       "t": "Isle of Palms Police (South Carolina): texts that look like they come from your bank say someone will contact you, then callers ask for personal and financial info, passwords and card access; others pose as police using real officers' names, saying a relative was arrested and needs bail money"
     },
     {
-      "d": "2026-11-26",
-      "c": "pt",
-      "t": "Portugal PSP (Black Friday): fake online shops built with AI-generated sites, images and identities advertise heavily discounted goods on social media and take payment for items that never arrive"
-    },
-    {
       "d": "2026-11-27",
       "c": "my",
       "t": "East Coast Rail Link (ECRL, Malaysia): fake 'ECRL Malaysia Job Vacancies' Facebook posts ahead of the line's opening lead to a form asking for your full name as on your national ID and the phone number tied to your Telegram account"
@@ -1578,6 +1573,11 @@
       "d": "2026-11-27",
       "c": "de",
       "t": "Südosthessen police (Langen): 'shock call' from a fake investigating-authority employee says a relative caused a fatal traffic accident and will be jailed unless a large cash sum is paid, then a collector is sent to pick up the money"
+    },
+    {
+      "d": "2026-11-27",
+      "c": "gb",
+      "t": "Dyfed-Powys Police (Wales): scam calls spoof the force's genuine phone number on caller ID, then ask for personal financial details, a money transfer or remote access to your computer; verify by calling 101"
     }
   ],
   "safePhrases": [
