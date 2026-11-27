@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-27T18:40",
+  "version": "2026-11-27T19:35",
   "words": {
     "ORGS": [
       "abn amro",
@@ -832,11 +832,6 @@
   "recent": [
     {
       "d": "2026-11-23",
-      "c": "de",
-      "t": "Verbraucherzentrale: emails from 'VR eG' posing as Volksbanken/Raiffeisenbanken demand a 'security check' by 23 November or a TAN update within 48 hours citing the ZAG law, threatening account lock, and link to a fake banking login"
-    },
-    {
-      "d": "2026-11-23",
       "c": "cl",
       "t": "PDI Chile: WhatsApp messages and calls from unknown numbers use AI-cloned voices of children, relatives or bosses describing an emergency and ask for urgent money transfers"
     },
@@ -1579,6 +1574,11 @@
       "d": "2026-11-27",
       "c": "ca",
       "t": "Cobourg Police (Ontario), holiday season: fake shopping websites with too-good-to-be-true deals, phishing messages and fake delivery notifications ask for payment or card details"
+    },
+    {
+      "d": "2026-11-27",
+      "c": "ca",
+      "t": "Toronto Police: caller posing as a Canada Revenue Agency (CRA) official says you are under investigation for crimes in China, transfers you to a fake 'Shanghai Police officer' with a false name and badge number who asks for your banking information to resolve it"
     }
   ],
   "safePhrases": [
