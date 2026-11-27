@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-27T13:25",
+  "version": "2026-11-27T14:30",
   "words": {
     "ORGS": [
       "abn amro",
@@ -832,21 +832,6 @@
     {
       "d": "2026-11-23",
       "c": "id",
-      "t": "Polda Metro Jaya (Jakarta): fake Trip.com or hotel customer-service agents contact travellers, ask for the OTP code to 'help' with a booking, then take over the account or get a bank transfer"
-    },
-    {
-      "d": "2026-11-23",
-      "c": "id",
-      "t": "Polda Metro Jaya (Jakarta): scammers send a Gojek verification code to your number and ask you to forward it, then take over the Gojek account and spend its balance on orders"
-    },
-    {
-      "d": "2026-11-23",
-      "c": "se",
-      "t": "Swedish Police (Black Week/Christmas): fake online shops copying well-known stores with very low time-limited prices take card details; fake buyers send sellers links to fake shipping/payment pages asking them to approve with BankID"
-    },
-    {
-      "d": "2026-11-23",
-      "c": "id",
       "t": "Polda Metro Jaya (Jakarta): extortion using AI-generated videos made from the victim's own photos, with threats to spread them unless money is paid"
     },
     {
@@ -1578,6 +1563,21 @@
       "d": "2026-11-27",
       "c": "de",
       "t": "Neumuenster police: fake bank security staff call about 'irregularities' on your account for hours, send a man to collect your bank card at the door, then return for cash claiming the notes' serial numbers must be checked"
+    },
+    {
+      "d": "2026-11-27",
+      "c": "de",
+      "t": "Hameln-Pyrmont/Holzminden police: shock calls from fake doctors at the Sana-Klinikum Hameln or fake police/officials say a relative had an accident and needs bail, then a courier collects cash and valuables"
+    },
+    {
+      "d": "2026-11-27",
+      "c": "de",
+      "t": "Ulm police (Biberach): fake police officer says your daughter caused a fatal accident and is in custody, demands six-figure bail and takes gold coins and cash via a courier at the door"
+    },
+    {
+      "d": "2026-11-27",
+      "c": "us",
+      "t": "FBI Nashville (Black Friday): phishing emails and ads with too-good-to-be-true deals take payment and card details for goods that never arrive, while fake charities solicit donations by cold call, email, crowdfunding and fake social accounts"
     }
   ],
   "safePhrases": [
