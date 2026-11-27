@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-26T23:31",
+  "version": "2026-11-27T00:26",
   "words": {
     "ORGS": [
       "abn amro",
@@ -763,7 +763,8 @@
     "bestätigung offen: ihre mobilfunknummer",
     "emapa san martín: evite el corte de su servicio de agua, hoy es el último día de pago",
     "¡la suerte está de tu lado! ¡ya te estamos esperando, entra!",
-    "hola, gestionamos tu telepase. enviá tus datos personales y los de tu tarjeta"
+    "hola, gestionamos tu telepase. enviá tus datos personales y los de tu tarjeta",
+    "you either need to pay a bond, or you need to leave the country"
   ],
   "badHosts": [
     "platformbyfb.com",
@@ -824,21 +825,6 @@
     "441933440333"
   ],
   "recent": [
-    {
-      "d": "2026-11-21",
-      "c": "de",
-      "t": "Vogelsberg district (Hesse) police: renewed wave of shock calls (a relative caused a serious accident and needs bail) and fake police calls about burglars nearby, asking for cash or valuables to be handed over"
-    },
-    {
-      "d": "2026-11-22",
-      "c": "cn",
-      "t": "Zeekr legal department: fake Zeekr recall SMS warns of a 'safety hazard' or warranty cancellation if not handled in time, links to a fake site asking for your phone number and SMS verification code, then a fake 'customer service' line"
-    },
-    {
-      "d": "2026-11-22",
-      "c": "th",
-      "t": "Thailand Department of Employment: social-media accounts posing as overseas recruitment agencies offer jobs abroad and demand advance placement fees or transfers before any verification"
-    },
     {
       "d": "2026-11-22",
       "c": "cn",
@@ -1573,6 +1559,21 @@
       "d": "2026-11-26",
       "c": "au",
       "t": "Energex (Queensland): people in hi-vis posing as Energex workers seek access to homes and premises (meter damage, copper theft), and callers posing as Energex or Ergon Energy ask for personal and financial details; verify on an independently sourced number"
+    },
+    {
+      "d": "2026-11-25",
+      "c": "us",
+      "t": "Wisconsin consumer protection (DATCP): callers posing as the FTC say your name and number are tied to a crime abroad, threaten to deactivate your phone, then a fake 'police' caller claims an arrest warrant and demands a bond payment or that you leave the country"
+    },
+    {
+      "d": "2026-11-26",
+      "c": "us",
+      "t": "FBI Boston: spoofed calls showing the real FBI Boston office number, first from a fake bank rep then a fake FBI agent, claim your identity is tied to a confidential criminal investigation and move you to an encrypted messaging app; hang up and call the field office yourself"
+    },
+    {
+      "d": "2026-11-27",
+      "c": "cn",
+      "t": "Lanxi (Zhejiang) police: a stranger on a social app sends a link to a fake forex/US-dollar arbitrage investment app promising guaranteed high returns, then has you exchange cash for dollars and hand it over in person to 'invest'"
     }
   ],
   "safePhrases": [
