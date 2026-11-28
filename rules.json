@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-28T09:35",
+  "version": "2026-11-28T10:25",
   "words": {
     "ORGS": [
       "abn amro",
@@ -839,11 +839,6 @@
   "recent": [
     {
       "d": "2026-11-24",
-      "c": "gb",
-      "t": "Durham Constabulary: cold callers posing as Durham police officers say someone in custody is claiming to be you and ask you to 'reconfirm' your address and bank details"
-    },
-    {
-      "d": "2026-11-24",
       "c": "us",
       "t": "Bellevue (Nebraska) Police: after lost-pet posts, scammers text owners or rescues claiming they found the animal, using AI-generated photos of it, to get money or personal information"
     },
@@ -1586,6 +1581,11 @@
       "d": "2026-11-28",
       "c": "us",
       "t": "CFPB warning: scammers posing as federal officials, including the CFPB, say money from a lawsuit, refund or sweepstakes is waiting but first demand a fee or tax, and ask for account, card or Social Security numbers"
+    },
+    {
+      "d": "2026-11-28",
+      "c": "de",
+      "t": "Schifferstadt police (Rhineland-Palatinate): wave of shock calls from fake relatives in an emergency, fake prize notices, or fake police/prosecutors (caller ID spoofed to a police station number) claiming burglaries nearby; they push you to transfer money or hand cash and valuables to a courier"
     }
   ],
   "safePhrases": [
