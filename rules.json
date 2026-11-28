@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-28T15:35",
+  "version": "2026-11-28T16:25",
   "words": {
     "ORGS": [
       "abn amro",
@@ -774,7 +774,10 @@
     "under digital arrest",
     "shanghai police",
     "se non riconosce tale operazione contatti",
-    "whatsapp-code bestätigen"
+    "whatsapp-code bestätigen",
+    "is now returned to our local facility",
+    "has been sent back to our handling facility",
+    "confirm your full delivery address and arrange re-delivery at no extra cost"
   ],
   "badHosts": [
     "platformbyfb.com",
@@ -837,16 +840,6 @@
     "441933440333"
   ],
   "recent": [
-    {
-      "d": "2026-11-24",
-      "c": "ch",
-      "t": "Bern cantonal police: SMS says a debit was taken from your account and asks you to call; a fake UBS or bank employee warns the account will be blocked and asks for bank cards, banking data or cash handed to a courier for a 'safe account'"
-    },
-    {
-      "d": "2026-11-24",
-      "c": "za",
-      "t": "Cape Town CCID: people dressed as officials stop tourists claiming a special permit is needed to walk the street (film shoot, President in town), 'sell' it on a card-machine-like device, take the card and PIN and withdraw cash"
-    },
     {
       "d": "2026-11-24",
       "c": "hk",
@@ -1586,6 +1579,16 @@
       "d": "2026-11-28",
       "c": "us",
       "t": "Hunterdon County Sheriff's Office (New Jersey), holidays: fake package delivery notices, fake online shops, government or police impersonators demanding payment by gift cards, and phony online relationships asking for money"
+    },
+    {
+      "d": "2026-11-28",
+      "c": "ca",
+      "t": "Saskatchewan RCMP (Lumsden): callers spoofing caller ID pose as RCMP members or a 'detective' from a detachment, say there is suspicious or fraudulent activity in your name, and ask for personal information or that you send or withdraw money"
+    },
+    {
+      "d": "2026-11-28",
+      "c": "gb",
+      "t": "Royal Mail (Christmas warning): fake texts and emails say your item was returned to a local or handling facility, is at a warehouse, needs customs duty, or ask you to confirm your full address for re-delivery, linking to a non-Royal Mail site for payment and personal details"
     }
   ],
   "safePhrases": [
