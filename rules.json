@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-28T03:25",
+  "version": "2026-11-28T06:35",
   "words": {
     "ORGS": [
       "abn amro",
@@ -831,11 +831,6 @@
   ],
   "recent": [
     {
-      "d": "2026-11-23",
-      "c": "us",
-      "t": "Red River Parish (Louisiana) Sheriff's Office: text says an Apple Pay transaction was made with your Apple ID and tells you to call a number, where callers ask for personal, banking and password details"
-    },
-    {
       "d": "2026-11-24",
       "c": "us",
       "t": "Hanover (Massachusetts) Police: emails from sender 'Your Police Department' warn of a 'contactless payment processing scam' at local gas stations and ask you to click a link to a list of impacted stations; the department did not send it"
@@ -1571,14 +1566,19 @@
       "t": "Hardin County Sheriff's Office (Ohio): scam calls spoof the office's real phone number; the office never asks for financial information or payment by phone, gift cards or prepaid cards to pay a fine or clear a warrant"
     },
     {
+      "d": "2026-11-27",
+      "c": "us",
+      "t": "Menifee County Sheriff's Office (Kentucky): callers claiming to be from the sheriff's office say you have warrants or missed jury duty and try to get personal information; the office never contacts people by phone about these"
+    },
+    {
       "d": "2026-11-28",
       "c": "us",
       "t": "Southern California Edison: callers posing as SCE representatives threaten an immediate power shutoff unless you pay right away, often by gift cards, crypto or third-party payment apps; scam reports up 31% in 2026"
     },
     {
-      "d": "2026-11-27",
+      "d": "2026-11-28",
       "c": "us",
-      "t": "Menifee County Sheriff's Office (Kentucky): callers claiming to be from the sheriff's office say you have warrants or missed jury duty and try to get personal information; the office never contacts people by phone about these"
+      "t": "Check Point research (Black Friday/Cyber Monday): fake shopping and shipping sites with lookalike addresses impersonate Amazon and FedEx, promise a prize, and ask for logins, passwords, card numbers and Social Security numbers"
     }
   ],
   "safePhrases": [
