@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-28T11:26",
+  "version": "2026-11-28T12:26",
   "words": {
     "ORGS": [
       "abn amro",
@@ -839,11 +839,6 @@
   "recent": [
     {
       "d": "2026-11-24",
-      "c": "at",
-      "t": "Styria police: fake emails, SMS and WhatsApp messages posing as hotels or travel providers quote real booking data (hotel, dates, guest name) and ask you to re-enter card details to 'confirm' the reservation or pay an 'outstanding' amount via a fake payment page"
-    },
-    {
-      "d": "2026-11-24",
       "c": "de",
       "t": "Trier police: 'stranded traveller' (often claiming to be from the UK or Ireland) at stations, car parks or service areas says their card was stolen, shows a manipulated banking app 'instant transfer' as repayment and asks you to hand over cash"
     },
@@ -1586,6 +1581,11 @@
       "d": "2026-11-28",
       "c": "us",
       "t": "Georgia Attorney General (Consumer Protection): fake USPS, UPS or FedEx texts say a package could not be delivered due to a wrong address or problem, link to a fake site and demand a redelivery, tax or customs fee to take card or bank details"
+    },
+    {
+      "d": "2026-11-28",
+      "c": "mx",
+      "t": "Mexico City SSC cyber police: messages posing as WhatsApp technical support or 'urgent' notices ask you to share the six-digit verification code sent to you by SMS, which hands over your WhatsApp account; attackers then ask your contacts for money"
     }
   ],
   "safePhrases": [
