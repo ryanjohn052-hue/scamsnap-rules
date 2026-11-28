@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-28T13:35",
+  "version": "2026-11-28T14:35",
   "words": {
     "ORGS": [
       "abn amro",
@@ -839,11 +839,6 @@
   "recent": [
     {
       "d": "2026-11-24",
-      "c": "ch",
-      "t": "Glarus cantonal police: doorstep caller claims to be a locked-out neighbour who lost their key, asks for cash for a hotel night and leaves a (stolen) bicycle as a 'deposit'; repayment never comes"
-    },
-    {
-      "d": "2026-11-24",
       "c": "at",
       "t": "Upper Austria police: emails from lookalike addresses of real companies and freight forwarders place fake orders so goods are collected and diverted; check sender addresses for swapped letters (i for l, single for double letters)"
     },
@@ -1586,6 +1581,11 @@
       "d": "2026-11-28",
       "c": "ca",
       "t": "Rimbey RCMP (Alberta): spoofed calls, emails and texts posing as RCMP detachments, government agencies, banks or cybercrime investigators say your personal information is compromised or you are tied to a criminal investigation, and ask for banking details, passwords, security codes or payment"
+    },
+    {
+      "d": "2026-11-28",
+      "c": "in",
+      "t": "Hyderabad police: gangs ask people to rent out their bank account (Rs 10,000-20,000 a month) or help receive and withdraw UPI money for a 'hospitalised relative' or 'lost phone', sometimes showing fake bank transaction messages; the accounts launder cybercrime money"
     }
   ],
   "safePhrases": [
