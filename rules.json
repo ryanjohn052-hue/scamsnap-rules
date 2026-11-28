@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-28T14:35",
+  "version": "2026-11-28T15:35",
   "words": {
     "ORGS": [
       "abn amro",
@@ -839,11 +839,6 @@
   "recent": [
     {
       "d": "2026-11-24",
-      "c": "at",
-      "t": "Upper Austria police: emails from lookalike addresses of real companies and freight forwarders place fake orders so goods are collected and diverted; check sender addresses for swapped letters (i for l, single for double letters)"
-    },
-    {
-      "d": "2026-11-24",
       "c": "ch",
       "t": "Bern cantonal police: SMS says a debit was taken from your account and asks you to call; a fake UBS or bank employee warns the account will be blocked and asks for bank cards, banking data or cash handed to a courier for a 'safe account'"
     },
@@ -1586,6 +1581,11 @@
       "d": "2026-11-28",
       "c": "in",
       "t": "Hyderabad police: gangs ask people to rent out their bank account (Rs 10,000-20,000 a month) or help receive and withdraw UPI money for a 'hospitalised relative' or 'lost phone', sometimes showing fake bank transaction messages; the accounts launder cybercrime money"
+    },
+    {
+      "d": "2026-11-28",
+      "c": "us",
+      "t": "Hunterdon County Sheriff's Office (New Jersey), holidays: fake package delivery notices, fake online shops, government or police impersonators demanding payment by gift cards, and phony online relationships asking for money"
     }
   ],
   "safePhrases": [
