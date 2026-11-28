@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-28T10:25",
+  "version": "2026-11-28T11:26",
   "words": {
     "ORGS": [
       "abn amro",
@@ -839,11 +839,6 @@
   "recent": [
     {
       "d": "2026-11-24",
-      "c": "us",
-      "t": "Bellevue (Nebraska) Police: after lost-pet posts, scammers text owners or rescues claiming they found the animal, using AI-generated photos of it, to get money or personal information"
-    },
-    {
-      "d": "2026-11-24",
       "c": "at",
       "t": "Styria police: fake emails, SMS and WhatsApp messages posing as hotels or travel providers quote real booking data (hotel, dates, guest name) and ask you to re-enter card details to 'confirm' the reservation or pay an 'outstanding' amount via a fake payment page"
     },
@@ -1586,6 +1581,11 @@
       "d": "2026-11-28",
       "c": "de",
       "t": "Schifferstadt police (Rhineland-Palatinate): wave of shock calls from fake relatives in an emergency, fake prize notices, or fake police/prosecutors (caller ID spoofed to a police station number) claiming burglaries nearby; they push you to transfer money or hand cash and valuables to a courier"
+    },
+    {
+      "d": "2026-11-28",
+      "c": "us",
+      "t": "Georgia Attorney General (Consumer Protection): fake USPS, UPS or FedEx texts say a package could not be delivered due to a wrong address or problem, link to a fake site and demand a redelivery, tax or customs fee to take card or bank details"
     }
   ],
   "safePhrases": [
