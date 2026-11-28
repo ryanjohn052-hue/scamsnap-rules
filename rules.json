@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-28T09:19",
+  "version": "2026-11-28T07:35",
   "words": {
     "ORGS": [
       "abn amro",
@@ -840,11 +840,6 @@
     {
       "d": "2026-11-24",
       "c": "us",
-      "t": "Hanover (Massachusetts) Police: emails from sender 'Your Police Department' warn of a 'contactless payment processing scam' at local gas stations and ask you to click a link to a list of impacted stations; the department did not send it"
-    },
-    {
-      "d": "2026-11-24",
-      "c": "us",
       "t": "Brazoria County (Texas): calls spoofing the Sheriff's Office number from a fake sergeant, plus emails posing as the U.S. Marshals with a fake warrant, say you missed federal jury duty and have arrest warrants, demanding a $10,000 bond (or 30% of it)"
     },
     {
@@ -1586,6 +1581,11 @@
       "d": "2026-11-28",
       "c": "us",
       "t": "Check Point research (Black Friday/Cyber Monday): fake shopping and shipping sites with lookalike addresses impersonate Amazon and FedEx, promise a prize, and ask for logins, passwords, card numbers and Social Security numbers"
+    },
+    {
+      "d": "2026-11-28",
+      "c": "fr",
+      "t": "French gendarmerie (Aveyron): fraudulent letters made to look like they come from Urssaf (French social-contribution agency); do not pay or reply, check via your official Urssaf account"
     }
   ],
   "safePhrases": [
