@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-28T07:35",
+  "version": "2026-11-28T09:35",
   "words": {
     "ORGS": [
       "abn amro",
@@ -839,16 +839,6 @@
   "recent": [
     {
       "d": "2026-11-24",
-      "c": "us",
-      "t": "Brazoria County (Texas): calls spoofing the Sheriff's Office number from a fake sergeant, plus emails posing as the U.S. Marshals with a fake warrant, say you missed federal jury duty and have arrest warrants, demanding a $10,000 bond (or 30% of it)"
-    },
-    {
-      "d": "2026-11-24",
-      "c": "de",
-      "t": "Märkischer Kreis police (Menden): fake browser warning claims technical problems and shows a 'customer hotline'; the caller asks for personal data, has you install remote-access software, then gets you to make bank transfers"
-    },
-    {
-      "d": "2026-11-24",
       "c": "gb",
       "t": "Durham Constabulary: cold callers posing as Durham police officers say someone in custody is claiming to be you and ask you to 'reconfirm' your address and bank details"
     },
@@ -1586,6 +1576,16 @@
       "d": "2026-11-28",
       "c": "fr",
       "t": "French gendarmerie (Aveyron): fraudulent letters made to look like they come from Urssaf (French social-contribution agency); do not pay or reply, check via your official Urssaf account"
+    },
+    {
+      "d": "2026-11-28",
+      "c": "us",
+      "t": "U.S. Marshals Service (District of Nevada), holidays: callers claim a fake emergency, unpaid fine or arrest warrant and demand gift cards or crypto; fake PayPal or Chase invoices for a large charge ask you to click a link to 'confirm or cancel' the purchase"
+    },
+    {
+      "d": "2026-11-28",
+      "c": "us",
+      "t": "CFPB warning: scammers posing as federal officials, including the CFPB, say money from a lawsuit, refund or sweepstakes is waiting but first demand a fee or tax, and ask for account, card or Social Security numbers"
     }
   ],
   "safePhrases": [
