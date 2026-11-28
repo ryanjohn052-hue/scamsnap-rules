@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "version": "2026-11-28T12:26",
+  "version": "2026-11-28T13:35",
   "words": {
     "ORGS": [
       "abn amro",
@@ -839,11 +839,6 @@
   "recent": [
     {
       "d": "2026-11-24",
-      "c": "de",
-      "t": "Trier police: 'stranded traveller' (often claiming to be from the UK or Ireland) at stations, car parks or service areas says their card was stolen, shows a manipulated banking app 'instant transfer' as repayment and asks you to hand over cash"
-    },
-    {
-      "d": "2026-11-24",
       "c": "ch",
       "t": "Glarus cantonal police: doorstep caller claims to be a locked-out neighbour who lost their key, asks for cash for a hotel night and leaves a (stolen) bicycle as a 'deposit'; repayment never comes"
     },
@@ -1586,6 +1581,11 @@
       "d": "2026-11-28",
       "c": "mx",
       "t": "Mexico City SSC cyber police: messages posing as WhatsApp technical support or 'urgent' notices ask you to share the six-digit verification code sent to you by SMS, which hands over your WhatsApp account; attackers then ask your contacts for money"
+    },
+    {
+      "d": "2026-11-28",
+      "c": "ca",
+      "t": "Rimbey RCMP (Alberta): spoofed calls, emails and texts posing as RCMP detachments, government agencies, banks or cybercrime investigators say your personal information is compromised or you are tied to a criminal investigation, and ask for banking details, passwords, security codes or payment"
     }
   ],
   "safePhrases": [
